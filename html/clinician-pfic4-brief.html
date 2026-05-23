@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PFIC4 Clinician Brief</title>
+  <style>
+    :root { --ink:#18212f; --muted:#5c687a; --line:#d9e0ea; --paper:#fff; --soft:#f5f7fb; --accent:#0f6b7a; --accent-soft:#e3f4f6; --warning:#8a4b06; --warning-soft:#fff4df; }
+    * { box-sizing: border-box; }
+    body { margin: 0; color: var(--ink); background: var(--soft); font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    header, main { padding: 28px 24px; }
+    header { background: var(--paper); border-bottom: 1px solid var(--line); }
+    .wrap { max-width: 1080px; margin: 0 auto; }
+    h1, h2, h3 { line-height: 1.18; margin: 0 0 14px; }
+    h1 { font-size: clamp(2rem, 4vw, 3rem); }
+    h2 { font-size: 1.55rem; padding-top: 22px; border-top: 1px solid var(--line); }
+    h3 { font-size: 1.15rem; margin-top: 22px; }
+    p { margin: 0 0 14px; }
+    a { color: var(--accent); text-underline-offset: 2px; }
+    code { background: #eef2f7; border: 1px solid #dfe6ef; border-radius: 4px; padding: 0 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .93em; }
+    nav { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    nav a { border: 1px solid var(--line); border-radius: 6px; background: var(--paper); padding: 7px 11px; text-decoration: none; color: var(--ink); }
+    section { background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 22px; }
+    .meta { color: var(--muted); font-size: .95rem; }
+    .notice { background: var(--warning-soft); border-left: 4px solid var(--warning); padding: 12px 14px; margin: 18px 0; }
+    .callout { background: var(--accent-soft); border-left: 4px solid var(--accent); padding: 12px 14px; margin: 18px 0; }
+    ul { margin: 0 0 16px 22px; padding: 0; }
+    li { margin: 5px 0; }
+    table { width: 100%; border-collapse: collapse; margin: 14px 0 20px; font-size: .95rem; }
+    th, td { border: 1px solid var(--line); padding: 9px 10px; text-align: left; vertical-align: top; }
+    th { background: #eef3f8; }
+    .price-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 14px; margin: 16px 0; }
+    .price-card { border: 1px solid var(--line); border-radius: 8px; background: #fbfcfe; padding: 16px; }
+    .price-card h3 { margin: 0 0 8px; font-size: 1rem; }
+    .price { display: block; font-size: 1.25rem; font-weight: 700; line-height: 1.15; margin-bottom: 4px; }
+    .fine-print { color: var(--muted); font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <p class="meta">Reviewed: 2026-05-23</p>
+      <h1>PFIC4 Clinician Brief</h1>
+      <p>Clinician-facing HTML companion to <a href="../markdown/clinician-pfic4-brief.md">clinician-pfic4-brief.md</a>.</p>
+      <div class="notice">This is a general literature-oriented discussion aid for a hepatologist. It is not a treatment recommendation and does not include patient-specific treatment history or genetics.</div>
+      <nav aria-label="Related pages">
+        <a href="layperson-pfic4-guide.html">Layperson Guide</a>
+        <a href="pfic4-research-packet.html">Combined Packet</a>
+        <a href="livmarli-maralixibat.html">Livmarli Details</a>
+        <a href="bylvay-odevixibat.html">Bylvay Details</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="wrap">
+      <section>
+        <h2>Working Disease Model</h2>
+        <p>PFIC4 is TJP2/ZO-2-associated genetic cholestatic liver disease, usually autosomal recessive. The clinically relevant mechanism is not a canalicular transporter pump defect in the same sense as BSEP deficiency. TJP2 is a tight-junction scaffolding protein. Reported pathobiology includes impaired canalicular tight-junction integrity and claudin-1 mislocalization/failure at the bile-canalicular membrane, allowing paracellular reflux/leakage of bile constituents into hepatic parenchyma.</p>
+        <p>This offers a plausible reason PFIC4 may respond to IBAT inhibition: bile-acid secretion into bile and delivery to the intestine can be preserved enough for interruption of enterohepatic recirculation to reduce hepatic bile-acid load.</p>
+
+        <h2>Current PFIC-directed Drug Options</h2>
+        <p>Dedicated drug-detail pages: <a href="livmarli-maralixibat.html">Livmarli / maralixibat</a> and <a href="bylvay-odevixibat.html">Bylvay / odevixibat</a>.</p>
+        <table>
+          <thead><tr><th>Metric</th><th>Maralixibat (Livmarli)</th><th>Odevixibat (Bylvay)</th></tr></thead>
+          <tbody>
+            <tr><td>Class/mechanism</td><td>Reversible IBAT inhibition in terminal ileum</td><td>Same broad mechanism</td></tr>
+            <tr><td>U.S. PFIC indication</td><td>Cholestatic pruritus in PFIC patients 12 months and older</td><td>Pruritus in PFIC patients 3 months and older</td></tr>
+            <tr><td>PFIC dosing label</td><td>570 mcg/kg twice daily before meals, with titration</td><td>40 mcg/kg once daily; may titrate to 120 mcg/kg once daily, max 6 mg/day</td></tr>
+            <tr><td>Randomized trial evidence</td><td>MARCH-PFIC, 26 weeks; PFIC4/TJP2 n=7 in all-PFIC efficacy cohort</td><td>PEDFIC 1, 24 weeks; molecular PFIC1/PFIC2 only</td></tr>
+            <tr><td>PFIC4-specific inference</td><td>Direct inclusion of PFIC4 in randomized PFIC trial, but very small n</td><td>PFIC-labeled, but pivotal randomized evidence did not include PFIC4</td></tr>
+            <tr><td>Key adverse events/risks</td><td>Diarrhea, abdominal pain, hematochezia, liver-test abnormalities/hepatotoxicity, fat-soluble vitamin deficiency, fracture/bleeding concerns</td><td>Diarrhea/frequent bowel movements, abdominal pain, vomiting, liver-test abnormalities/hepatotoxicity, fat-soluble vitamin deficiency, fracture/bleeding concerns</td></tr>
+            <tr><td>Hepatic decompensation</td><td>Contraindicated in prior or active hepatic decompensation events</td><td>Contraindicated in prior or active hepatic decompensation events</td></tr>
+          </tbody>
+        </table>
+        <h3>PFIC Trial Evidence Table</h3>
+        <table>
+          <thead><tr><th>Drug</th><th>Trial</th><th>Design and population</th><th>Key signal</th><th>PFIC4 read</th></tr></thead>
+          <tbody>
+            <tr><td>Maralixibat</td><td>MARCH-PFIC / NCT03905330</td><td>Phase 3, 26-week randomized placebo-controlled PFIC trial; 93 randomized; all-PFIC efficacy cohort included TJP2/PFIC4 n=7.</td><td>All-PFIC ItchRO(Obs) difference about -1.2 vs placebo; serum bile-acid difference about -160 umol/L vs placebo.</td><td>Direct PFIC4 inclusion, but very small subgroup.</td></tr>
+            <tr><td>Maralixibat</td><td>MARCH-ON / NCT04185363</td><td>Open-label long-term extension after MARCH-PFIC; public 2-year analysis included 88 maralixibat-exposed patients.</td><td>Sustained pruritus, serum bile-acid, bilirubin, and growth-marker improvements reported; no new safety signals in public conference data.</td><td>Durability signal only; open-label and not PFIC4-randomized.</td></tr>
+            <tr><td>Odevixibat</td><td>PEDFIC 1 / NCT03566238</td><td>Phase 3, 24-week randomized placebo-controlled trial; 62 pediatric PFIC1/PFIC2 patients.</td><td>Positive pruritus assessments 55% combined odevixibat vs 30% placebo; serum bile-acid response 33% vs 0%.</td><td>No PFIC4 in pivotal randomized trial.</td></tr>
+            <tr><td>Odevixibat</td><td>PEDFIC 2 / NCT03659916</td><td>Open-label extension and broader PFIC enrollment; EU results report 116 participants through a 2024 cutoff.</td><td>Longer-term serum bile-acid and pruritus response signals; EMA product information describes broader PFIC subgroups including PFIC3/PFIC4/PFIC6/episodic PFIC.</td><td>Broader-genotype support, but open-label and weaker than PFIC4-specific randomized evidence.</td></tr>
+          </tbody>
+        </table>
+        <h3>Public Price Examples As Cards</h3>
+        <p class="fine-print">These are public cash-price examples, not expected out-of-pocket cost. Dose, formulation, insurance coverage, manufacturer assistance, and specialty-pharmacy contracts can dominate actual cost.</p>
+        <div class="price-grid" aria-label="Public price examples">
+          <div class="price-card"><h3>Livmarli liquid</h3><span class="price">$56,957</span><p>Per 30 mL of 9.5 mg/mL liquid.</p><p class="fine-print">PFIC uses 19 mg/mL solution; visible listing is not a PFIC dose calculator.</p></div>
+          <div class="price-card"><h3>Livmarli tablet</h3><span class="price">$59,955</span><p>Per 30 tablets of 10 mg.</p><p class="fine-print">About $1,999 per tablet in the public listing.</p></div>
+          <div class="price-card"><h3>Bylvay pellet</h3><span class="price">$7,080-$7,434</span><p>Per 30 oral pellets of 200 mcg.</p><p class="fine-print">About $236-$248 per pellet.</p></div>
+          <div class="price-card"><h3>Bylvay capsule</h3><span class="price">$14,152-$14,859</span><p>Per 30 capsules of 400 mcg.</p><p class="fine-print">About $472-$495 per capsule.</p></div>
+        </div>
+
+        <h2>Non-IBAT Medical Options</h2>
+        <table>
+          <thead><tr><th>Option</th><th>Rationale</th><th>Key caveats</th></tr></thead>
+          <tbody>
+            <tr><td>UDCA / ursodiol / ursodeoxycholic acid</td><td>Hydrophilic bile acid; may improve bile flow and bile-acid composition.</td><td>Variable PFIC response; not a reliable antipruritic alone in severe disease. Cholic-acid products exist for bile-acid synthesis disorders, not typical PFIC4.</td></tr>
+            <tr><td>Rifampin</td><td>Induces detoxification/excretion pathways; commonly used for cholestatic pruritus.</td><td>Mixed individual response. Hepatotoxicity and drug interactions; monitor liver tests.</td></tr>
+            <tr><td>Cholestyramine/colesevelam/colestipol</td><td>Bind bile acids in gut.</td><td>Palatability, constipation, malabsorption; separate from IBAT inhibitors and other drugs.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Monitoring And Response Questions</h2>
+        <ul>
+          <li>Daily caregiver/patient pruritus score using a consistent 0-4 scale.</li>
+          <li>Sleep disruption, excoriations, bleeding, school/activity impairment.</li>
+          <li>Serum bile acids, bilirubin, AST, ALT, GGT, INR, albumin, platelets, CBC.</li>
+          <li>Fat-soluble vitamins A, D, E and INR/vitamin K status.</li>
+          <li>Growth velocity, nutrition, stool burden/diarrhea, liver stiffness, ultrasound, AFP.</li>
+        </ul>
+
+        <h2>Disease-modifying Uncertainty</h2>
+        <p>Maralixibat and odevixibat clearly target pruritus and serum bile-acid burden. Whether early durable bile-acid reduction prevents fibrosis progression and transplant in PFIC4 specifically remains less certain because PFIC4 cohorts are small.</p>
+
+        <h2>Unresolved Questions</h2>
+        <ul>
+          <li>What are the exact <code>TJP2</code> variants, zygosity, predicted effect, and known residual function?</li>
+          <li>What has changed with IBAT inhibitor therapy: ItchRO/sleep, serum bile acids, bilirubin, growth, vitamins, INR, albumin, platelets?</li>
+          <li>What is the center's PFIC4-specific HCC surveillance interval?</li>
+          <li>What threshold defines inadequate response and triggers odevixibat trial, biliary diversion, or transplant-center referral?</li>
+        </ul>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
