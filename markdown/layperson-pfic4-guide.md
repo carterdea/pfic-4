@@ -11,6 +11,11 @@ Drug detail pages:
 - [Livmarli / maralixibat details](livmarli-maralixibat.md)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md)
 
+Gene detail pages:
+
+- [TJP2 gene guide for family discussion](layperson-tjp2-gene-guide.md)
+- [TJP2 gene brief for clinicians](clinician-tjp2-gene-brief.md)
+
 ## One-page summary
 
 PFIC4 is a rare inherited cholestatic liver disease caused by disease-causing changes in `TJP2`, the gene for tight junction protein 2, also called ZO-2. In the liver, tight junctions help seal the spaces between liver cells around tiny bile channels. When TJP2 does not work well, bile acids can leak back into liver tissue instead of staying safely in the bile pathway. Bile acids are detergent-like and can irritate nerves, drive severe itching, and injure liver cells over time.

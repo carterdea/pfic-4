@@ -11,6 +11,11 @@ Drug detail pages:
 - [Livmarli / maralixibat details](livmarli-maralixibat.md)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md)
 
+Gene detail pages:
+
+- [TJP2 gene brief for clinicians](clinician-tjp2-gene-brief.md)
+- [TJP2 gene guide for family discussion](layperson-tjp2-gene-guide.md)
+
 ## Working disease model
 
 PFIC4 is TJP2/ZO-2-associated genetic cholestatic liver disease, usually autosomal recessive. The clinically relevant mechanism is not a canalicular transporter pump defect in the same sense as BSEP deficiency. TJP2 is a tight-junction scaffolding protein. Reported pathobiology includes impaired canalicular tight-junction integrity and mislocalization/failure of claudin-1 at the bile-canalicular membrane, allowing paracellular reflux/leakage of bile constituents into hepatic parenchyma. This offers a plausible reason PFIC4 may respond to IBAT inhibition: bile-acid secretion into bile and delivery to the intestine can be preserved enough for interruption of enterohepatic recirculation to reduce hepatic bile-acid load.

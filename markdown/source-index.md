@@ -10,9 +10,66 @@ HTML packet files:
 
 - [Layperson guide](../html/layperson-pfic4-guide.html)
 - [Clinician brief](../html/clinician-pfic4-brief.html)
+- [TJP2 gene guide for family discussion](../html/layperson-tjp2-gene-guide.html)
+- [TJP2 gene brief for clinicians](../html/clinician-tjp2-gene-brief.html)
 - [Combined research packet](../html/pfic4-research-packet.html)
 - [Livmarli / maralixibat drug details](../html/livmarli-maralixibat.html)
 - [Bylvay / odevixibat drug details](../html/bylvay-odevixibat.html)
+
+## Gene and disease-definition sources
+
+### NCBI Gene: TJP2
+
+URL: https://www.ncbi.nlm.nih.gov/gene/9414
+
+Use in packet:
+
+- Official gene symbol, full name, Gene ID, chromosome location, and protein-coding status.
+- Function summary: tight-junction barrier component needed for tight-junction assembly.
+- Alias and associated-phenotype context, including ZO2, PFIC4, and DFNA51.
+
+### OMIM: TJP2 and PFIC4
+
+TJP2 URL: https://omim.org/entry/607709
+
+PFIC4 URL: https://omim.org/entry/615878
+
+Use in packet:
+
+- Gene-phenotype relationship between biallelic `TJP2` variants and PFIC4.
+- Autosomal recessive inheritance framing.
+- Mechanistic and clinical synopsis language for clinician-facing gene notes.
+
+### Sambrotta et al., 2014
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/24614073/
+
+PMC full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC4061468/
+
+Use in packet:
+
+- Foundational report linking protein-truncating `TJP2` variants to progressive cholestatic liver disease.
+- Evidence for absent TJP2 expression, claudin-1 mislocalization, tight-junction structural disruption, and severe pediatric disease.
+
+### Tang et al., 2021
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8421653/
+
+Use in packet:
+
+- Additional pathogenic `TJP2` variants and functional/mechanistic evidence.
+- Cytoskeleton and cell-polarity context for clinician-facing pathophysiology.
+
+### TJP2 deficiency and HCC reports
+
+Zhou et al. DOI: https://doi.org/10.1002/hep.27872
+
+Adult TJP2/PFIC4 family URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/
+
+Use in packet:
+
+- Supports explicit HCC surveillance discussion in PFIC4.
+- Helps separate evidence-supported cancer concern from broader PFIC generalizations.
 
 ## Drug labels
 

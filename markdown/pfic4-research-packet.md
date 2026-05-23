@@ -10,6 +10,8 @@ Related files:
 
 - [Layperson guide](layperson-pfic4-guide.md) / [HTML](../html/layperson-pfic4-guide.html)
 - [Clinician brief](clinician-pfic4-brief.md) / [HTML](../html/clinician-pfic4-brief.html)
+- [TJP2 gene guide for family discussion](layperson-tjp2-gene-guide.md) / [HTML](../html/layperson-tjp2-gene-guide.html)
+- [TJP2 gene brief for clinicians](clinician-tjp2-gene-brief.md) / [HTML](../html/clinician-tjp2-gene-brief.html)
 - [Livmarli / maralixibat details](livmarli-maralixibat.md) / [HTML](../html/livmarli-maralixibat.html)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md) / [HTML](../html/bylvay-odevixibat.html)
 - [Source index](source-index.md) / [HTML](../html/source-index.html)
