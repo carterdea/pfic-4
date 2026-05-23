@@ -6,6 +6,12 @@
 - This repo is not medical advice. Frame outputs as research for discussion with a treating hepatology, genetics, transplant, or rare-disease team.
 - Keep patient/family-specific details out of committed packet files. If private context is needed, put it only in `markdown/personal.md` and `html/personal.html`; those exact files are ignored by git.
 
+## Git workflow
+- For this repo, committing directly to `main` is allowed when the user asks for a commit or push.
+- Do not create pull requests unless the user specifically asks for one.
+- Still stage files selectively; do not use `git add .`.
+- Preserve unrelated local packet changes unless the user asks to include them.
+
 ## Current disease model
 - PFIC4 is usually framed as autosomal recessive cholestatic liver disease caused by biallelic pathogenic `TJP2` variants.
 - `TJP2` encodes tight junction protein 2, also called ZO-2. In the liver, TJP2 helps organize tight junctions around bile canaliculi.
