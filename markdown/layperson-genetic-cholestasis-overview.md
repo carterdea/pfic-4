@@ -99,6 +99,22 @@ Genetic testing can help answer:
 
 A good test usually needs to include many cholestasis genes, not just the oldest PFIC genes. Sometimes deletion/duplication testing, exome/genome sequencing, family testing, or bile-acid profiling is needed.
 
+## What questions does this gene answer?
+
+The gene result should help the care team move from "there is cholestasis" to "which part of the bile system is affected?"
+
+| Question | Why it matters |
+| --- | --- |
+| Is this mainly a pump problem? | Pump genes such as `ABCB11` or `ABCB4` can change expectations for bile acids, GGT, itch treatment, gallstones, pregnancy risk, fibrosis, and cancer surveillance. |
+| Is this mainly a seal or barrier problem? | `TJP2` and related genes can mean bile leaks across the tight seal between liver cells, so treatment may reduce bile-acid burden without fixing the genetic seal problem. |
+| Is this a bile-duct development problem? | Alagille syndrome genes such as `JAG1` or `NOTCH2` mean the team also needs heart, blood vessel, kidney, eye, bone, growth, and development surveillance. |
+| Is this a bile-acid chemistry problem? | Bile acid synthesis defects can need special bile-acid profiling and sometimes bile-acid replacement, not just itch medicine. |
+| Is this a low-GGT or high-GGT pattern? | GGT helps the team sort between classic low-GGT PFIC-type disease, high-GGT duct or `ABCB4`-type disease, and other causes. |
+| Is the inheritance recessive, dominant, de novo, or uncertain? | This affects sibling risk, parent testing, future pregnancy counseling, and whether one or two variants are needed to explain the disease. |
+| Does this gene carry special monitoring needs? | Some genes raise concern for liver cancer, portal hypertension, hearing loss, diarrhea, kidney or heart issues, or pregnancy-related cholestasis risk. |
+
+The gene does not answer everything by itself. The same gene can behave differently in different people, so the team still has to track symptoms, labs, growth, vitamins, imaging, fibrosis, and treatment response over time.
+
 ## Treatment buckets
 
 Different genetic cholestasis diseases can use some of the same symptom medicines, but the deeper treatment logic differs.
@@ -138,9 +154,12 @@ That is why two families can both hear "cholestasis" but need very different tes
 - GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview: https://www.ncbi.nlm.nih.gov/books/NBK584020/
 - GeneReviews: Alagille Syndrome: https://www.ncbi.nlm.nih.gov/books/NBK1273/
 - EASL Clinical Practice Guidelines on genetic cholestatic liver diseases, 2024: https://pubmed.ncbi.nlm.nih.gov/38851996/
+- SOGC Guideline No. 452 on intrahepatic cholestasis of pregnancy: https://www.jogc.com/article/S1701-2163(24)00441-9/abstract
+- FIGO guideline on liver disease and pregnancy: https://pmc.ncbi.nlm.nih.gov/articles/PMC12177296/
 - Genotypes and clinical variants in PFIC review, 2025: https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/
 - Diagnosis and management of Alagille and PFIC review: https://pmc.ncbi.nlm.nih.gov/articles/PMC10984671/
 - Genetic issues in intrahepatic cholestasis of pregnancy: https://pmc.ncbi.nlm.nih.gov/articles/PMC11384815/
 - Cholic acid treatment for bile acid synthesis defects systematic review, 2024: https://pmc.ncbi.nlm.nih.gov/articles/PMC11657003/
+- NORD bile acid synthesis disorders overview: https://rarediseases.org/rare-diseases/bile-acid-synthesis-disorders/
 - DailyMed Livmarli label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167
 - DailyMed Bylvay label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa

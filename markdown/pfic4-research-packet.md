@@ -18,6 +18,8 @@ Related files:
 - [Bylvay / odevixibat details](bylvay-odevixibat.md) / [HTML](../html/bylvay-odevixibat.html)
 - [Source index](source-index.md) / [HTML](../html/source-index.html)
 
+For broader disease context, start with the genetic cholestasis overview pages. They explain how PFIC4/TJP2 fits alongside PFIC1-3, newer PFIC-like genes, BRIC, intrahepatic cholestasis of pregnancy, Alagille syndrome, and bile acid synthesis defects. Use the family overview for plain-language appointment preparation and the clinician overview for the gene/mechanism table.
+
 ## Layperson guide
 
 ### One-page summary

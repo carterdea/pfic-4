@@ -156,9 +156,12 @@ That framing helps avoid two common errors:
 - GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview: https://www.ncbi.nlm.nih.gov/books/NBK584020/
 - EASL Clinical Practice Guidelines on genetic cholestatic liver diseases, 2024: https://pubmed.ncbi.nlm.nih.gov/38851996/
 - GeneReviews: Alagille Syndrome: https://www.ncbi.nlm.nih.gov/books/NBK1273/
+- SOGC Guideline No. 452 on intrahepatic cholestasis of pregnancy: https://www.jogc.com/article/S1701-2163(24)00441-9/abstract
+- FIGO guideline on liver disease and pregnancy: https://pmc.ncbi.nlm.nih.gov/articles/PMC12177296/
 - Genotypes and clinical variants in PFIC review, 2025: https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/
 - Diagnosis and management of Alagille and PFIC review: https://pmc.ncbi.nlm.nih.gov/articles/PMC10984671/
 - Genetic issues in intrahepatic cholestasis of pregnancy: https://pmc.ncbi.nlm.nih.gov/articles/PMC11384815/
 - Cholic acid treatment for bile acid synthesis defects systematic review, 2024: https://pmc.ncbi.nlm.nih.gov/articles/PMC11657003/
+- NORD bile acid synthesis disorders overview: https://rarediseases.org/rare-diseases/bile-acid-synthesis-disorders/
 - DailyMed Livmarli label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167
 - DailyMed Bylvay label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa

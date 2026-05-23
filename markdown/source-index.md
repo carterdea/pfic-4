@@ -175,9 +175,14 @@ Use in packet:
 
 PubMed: https://pubmed.ncbi.nlm.nih.gov/38851996/
 
+Guideline summary: https://www.guidelinecentral.com/guideline/4544241/
+
 Use in packet:
 
 - Current expert guideline source for genetic cholestatic liver disease diagnosis, genetic testing, and pruritus management.
+- Scope context for Alagille syndrome, FIC1/PFIC1, BSEP/PFIC2, MDR3/PFIC3 and associated adult phenotypes, and bile acid synthesis defects.
+- Supports referral-center framing because diagnosis and management usually require pediatric/adult hepatology, genetics, pruritus management, nutrition, and transplant expertise.
+- Useful caution: the guideline goes deep on selected diseases and does not fully describe every newer PFIC-like gene.
 
 ### GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview
 
@@ -192,6 +197,8 @@ Use in packet:
 - Pruritus management: UDCA, cholestyramine, rifampicin, IBAT inhibitors, naloxone/hydroxyzine/sertraline.
 - Surgical options: partial external biliary diversion and partial ileal exclusion.
 - Surveillance: fibrosis/cirrhosis, portal hypertension, HCC screening with ultrasound/AFP in significant fibrosis/cirrhosis; PFIC4 table flags HCC surveillance.
+- Gene/mechanism table support for newer or PFIC-like genes including `USP53`, `KIF12`, `ZFYVE19`, `SLC51A`, and `SLC51B`.
+- Separate table support for bile acid synthesis/conjugation defects and the point that serum bile acids can be low/normal in some defects.
 
 ### GeneReviews: Alagille Syndrome
 
@@ -202,6 +209,20 @@ Use in packet:
 - Alagille syndrome framing as a multisystem `JAG1`/`NOTCH2` Notch-signaling disorder with bile duct paucity.
 - Family-facing distinction between duct-development disease and PFIC-style transporter/barrier disease.
 - IBAT inhibitor and multisystem surveillance context.
+- Caveat that bile duct paucity may be absent or less clear in early infancy.
+- Supports surveillance framing beyond liver-only care: liver tests, AFP/ultrasound, growth, blood pressure, fractures/nutrition, vascular/cardiology, ophthalmology, renal labs, and developmental/behavioral assessment.
+
+### ICP guideline and pregnancy-liver guidance
+
+SOGC Guideline No. 452 abstract: https://www.jogc.com/article/S1701-2163(24)00441-9/abstract
+
+FIGO guideline on liver disease and pregnancy: https://pmc.ncbi.nlm.nih.gov/articles/PMC12177296/
+
+Use in packet:
+
+- ICP diagnosis and management should be guided by obstetric/hepatology protocols, not pediatric PFIC logic.
+- Supports non-fasting bile-acid testing, exclusion of other causes, and bile-acid-stratified pregnancy-risk discussion.
+- Supports the genetic-cholestasis framing that pregnancy can unmask susceptibility in bile transporter or regulatory genes.
 
 ### Genetic issues in intrahepatic cholestasis of pregnancy
 
@@ -221,6 +242,20 @@ Use in packet:
 
 - Bile acid synthesis defects as a separate treatment bucket from PFIC/IBAT-centered pruritus management.
 - Cholic-acid evidence limitations and monitoring caveats.
+
+### Bile acid synthesis disorder references
+
+NORD overview: https://rarediseases.org/rare-diseases/bile-acid-synthesis-disorders/
+
+Orphanet BASD2: https://www.orpha.net/en/disease/detail/79303
+
+MedlinePlus BASD1: https://medlineplus.gov/genetics/condition/congenital-bile-acid-synthesis-defect-type-1/
+
+Use in packet:
+
+- Family-facing explanation that primary bile acid synthesis defects reduce normal primary bile acids and can accumulate atypical hepatotoxic intermediates.
+- Supports the distinction between cholic-acid replacement logic and IBAT-inhibitor logic.
+- Supports the warning that late diagnosis with advanced liver disease can limit medical response and may require transplant evaluation.
 
 ### Opinion paper on PFIC diagnosis and treatment
 
