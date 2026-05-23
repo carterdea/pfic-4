@@ -8,6 +8,8 @@ This is the Markdown companion to the combined human-facing packet. It mirrors t
 
 Related files:
 
+- [Genetic cholestasis overview for family discussion](layperson-genetic-cholestasis-overview.md) / [HTML](../html/layperson-genetic-cholestasis-overview.html)
+- [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md) / [HTML](../html/clinician-genetic-cholestasis-overview.html)
 - [Layperson guide](layperson-pfic4-guide.md) / [HTML](../html/layperson-pfic4-guide.html)
 - [Clinician brief](clinician-pfic4-brief.md) / [HTML](../html/clinician-pfic4-brief.html)
 - [TJP2 gene guide for family discussion](layperson-tjp2-gene-guide.md) / [HTML](../html/layperson-tjp2-gene-guide.html)

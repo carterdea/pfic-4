@@ -8,6 +8,8 @@ HTML companion: [source-index.html](../html/source-index.html)
 
 HTML packet files:
 
+- [Genetic cholestasis overview for family discussion](../html/layperson-genetic-cholestasis-overview.html)
+- [Genetic cholestasis overview for clinicians](../html/clinician-genetic-cholestasis-overview.html)
 - [Layperson guide](../html/layperson-pfic4-guide.html)
 - [Clinician brief](../html/clinician-pfic4-brief.html)
 - [TJP2 gene guide for family discussion](../html/layperson-tjp2-gene-guide.html)
@@ -183,11 +185,42 @@ URL: https://www.ncbi.nlm.nih.gov/books/NBK584020/
 
 Use in packet:
 
+- Umbrella framing for genetic cholestasis, including transport defects, bile acid synthesis defects, and disorders with extrahepatic findings.
+- PFIC/BRIC/ICP spectrum language for overlapping gene-phenotype relationships.
 - PFIC4/TJP2 clinical feature summary: low/normal GGT, severe cholestasis/pruritus, rapid progression risk, HCC concern, possible neurologic/respiratory deficits.
 - Nutritional management: fat-soluble vitamins and medium-chain triglycerides.
 - Pruritus management: UDCA, cholestyramine, rifampicin, IBAT inhibitors, naloxone/hydroxyzine/sertraline.
 - Surgical options: partial external biliary diversion and partial ileal exclusion.
 - Surveillance: fibrosis/cirrhosis, portal hypertension, HCC screening with ultrasound/AFP in significant fibrosis/cirrhosis; PFIC4 table flags HCC surveillance.
+
+### GeneReviews: Alagille Syndrome
+
+URL: https://www.ncbi.nlm.nih.gov/books/NBK1273/
+
+Use in packet:
+
+- Alagille syndrome framing as a multisystem `JAG1`/`NOTCH2` Notch-signaling disorder with bile duct paucity.
+- Family-facing distinction between duct-development disease and PFIC-style transporter/barrier disease.
+- IBAT inhibitor and multisystem surveillance context.
+
+### Genetic issues in intrahepatic cholestasis of pregnancy
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11384815/
+
+Use in packet:
+
+- ICP as a pregnancy-triggered phenotype with genetic susceptibility.
+- `ABCB4`, `ABCB11`, `ATP8B1`, `TJP2`, `NR1H4`, and related genes as contributors in some cases.
+- Severe/recurrent/early ICP as a reason to consider genetic and hepatology follow-up.
+
+### Cholic acid treatment for bile acid synthesis defects systematic review, 2024
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11657003/
+
+Use in packet:
+
+- Bile acid synthesis defects as a separate treatment bucket from PFIC/IBAT-centered pruritus management.
+- Cholic-acid evidence limitations and monitoring caveats.
 
 ### Opinion paper on PFIC diagnosis and treatment
 

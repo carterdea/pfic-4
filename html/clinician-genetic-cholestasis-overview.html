@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Genetic Cholestasis Overview for Clinicians</title>
+  <style>
+    :root { --ink:#18212f; --muted:#5c687a; --line:#d9e0ea; --paper:#fff; --soft:#f5f7fb; --accent:#0f6b7a; --accent-soft:#e3f4f6; --warning:#8a4b06; --warning-soft:#fff4df; }
+    * { box-sizing: border-box; }
+    body { margin: 0; color: var(--ink); background: var(--soft); font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    header, main { padding: 28px 24px; }
+    header { background: var(--paper); border-bottom: 1px solid var(--line); }
+    .wrap { max-width: 1080px; margin: 0 auto; }
+    h1, h2, h3 { line-height: 1.18; margin: 0 0 14px; }
+    h1 { font-size: clamp(2rem, 4vw, 3rem); letter-spacing: 0; }
+    h2 { font-size: 1.55rem; padding-top: 22px; border-top: 1px solid var(--line); }
+    h3 { font-size: 1.15rem; margin-top: 22px; }
+    p { margin: 0 0 14px; }
+    a { color: var(--accent); text-underline-offset: 2px; }
+    code { background: #eef2f7; border: 1px solid #dfe6ef; border-radius: 4px; padding: 0 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .93em; }
+    nav { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    nav a { border: 1px solid var(--line); border-radius: 6px; background: var(--paper); padding: 7px 11px; text-decoration: none; color: var(--ink); }
+    section { background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 22px; }
+    .meta { color: var(--muted); font-size: .95rem; }
+    .notice { background: var(--warning-soft); border-left: 4px solid var(--warning); padding: 12px 14px; margin: 18px 0; }
+    .callout { background: var(--accent-soft); border-left: 4px solid var(--accent); padding: 12px 14px; margin: 18px 0; }
+    ul { margin: 0 0 16px 22px; padding: 0; }
+    li { margin: 5px 0; overflow-wrap: anywhere; }
+    table { width: 100%; border-collapse: collapse; margin: 14px 0 20px; font-size: .95rem; }
+    th, td { border: 1px solid var(--line); padding: 9px 10px; text-align: left; vertical-align: top; }
+    th { background: #eef3f8; }
+    @media (max-width: 760px) { table { display: block; overflow-x: auto; white-space: nowrap; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <p class="meta">Reviewed: 2026-05-23</p>
+      <h1>Genetic Cholestasis Overview for Clinicians</h1>
+      <p>Clinician-facing HTML companion to <a href="../markdown/clinician-genetic-cholestasis-overview.md">clinician-genetic-cholestasis-overview.md</a>.</p>
+      <div class="notice">This overview is a general literature-oriented framing aid for hepatology, genetics, and family discussion. It is not a treatment recommendation and does not include patient-specific treatment history, lab values, or genetic reports.</div>
+      <nav aria-label="Related pages">
+        <a href="layperson-genetic-cholestasis-overview.html">Family Overview</a>
+        <a href="clinician-pfic4-brief.html">PFIC4 Clinician Brief</a>
+        <a href="layperson-pfic4-guide.html">PFIC4 Family Guide</a>
+        <a href="clinician-tjp2-gene-brief.html">TJP2 Gene Brief</a>
+        <a href="source-index.html">Source Index</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="wrap">
+      <section>
+        <h2>Umbrella Framing</h2>
+        <p>Genetic cholestasis is best framed as a set of inherited disorders that disrupt bile formation, bile movement, bile-acid chemistry, or bile-duct development. The labels PFIC, BRIC, ICP, Alagille syndrome, and bile acid synthesis defects are useful clinical entry points, but they are not equal categories.</p>
+        <ul>
+          <li>PFIC is usually a severe, early-onset, progressive phenotype.</li>
+          <li>BRIC is usually an episodic phenotype with attacks separated by well intervals.</li>
+          <li>ICP is a pregnancy-triggered phenotype that usually resolves after delivery.</li>
+          <li>Alagille syndrome is a multisystem developmental disorder of bile-duct paucity and Notch signaling.</li>
+          <li>Bile acid synthesis defects are metabolic enzyme or conjugation defects that make too little normal primary bile acid and/or too much atypical toxic bile-acid intermediate.</li>
+        </ul>
+        <div class="callout">The same gene can sit under more than one phenotype label. <code>ATP8B1</code>, <code>ABCB11</code>, <code>ABCB4</code>, and <code>TJP2</code> can appear in severe pediatric disease, recurrent cholestasis, pregnancy-triggered cholestasis, or adult-onset cholestatic disease depending on genotype, zygosity, modifier burden, and triggers.</div>
+
+        <h2>Mechanism-first Map</h2>
+        <table>
+          <thead>
+            <tr><th>Mechanism group</th><th>Representative genes</th><th>Common clinical labels</th><th>Practical read</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Canalicular membrane stability and bile-acid/phospholipid transport</td><td><code>ATP8B1</code>, <code>ABCB11</code>, <code>ABCB4</code></td><td>PFIC1, PFIC2, PFIC3, BRIC, ICP, adult cholestatic disease</td><td>Classic PFIC/BRIC/ICP overlap. GGT is often low/normal in <code>ATP8B1</code> and <code>ABCB11</code>, high in <code>ABCB4</code>.</td></tr>
+            <tr><td>Tight-junction and epithelial barrier dysfunction</td><td><code>TJP2</code>, <code>USP53</code>, probably <code>LSR</code> in some reports</td><td>PFIC4 and newer low-GGT cholestasis phenotypes</td><td>Barrier failure can permit paracellular bile reflux/leakage even when bile-acid transport is not the primary pump defect.</td></tr>
+            <tr><td>Nuclear regulation of bile-acid homeostasis</td><td><code>NR1H4</code></td><td>PFIC5 / FXR deficiency</td><td>Can present as severe neonatal low-GGT cholestasis with coagulopathy, high AFP, and rapid progression.</td></tr>
+            <tr><td>Intracellular trafficking, polarity, and vesicle-fusion defects</td><td><code>MYO5B</code>, <code>KIF12</code>, <code>VPS33B</code>, <code>VIPAS39</code></td><td>PFIC6 and newer numbered/overlapping PFIC-like phenotypes</td><td>Transporters may be present but mislocalized; extrahepatic disease may dominate in some genes.</td></tr>
+            <tr><td>Basolateral bile-acid export and enterohepatic handling</td><td><code>SLC51A</code>, <code>SLC51B</code></td><td>Primary bile-acid malabsorption / cholestatic liver disease</td><td>Can combine diarrhea, malabsorption, vitamin deficiency, and liver injury.</td></tr>
+            <tr><td>Cholangiocyte, ciliary, or ductal-development disease</td><td><code>JAG1</code>, <code>NOTCH2</code>, <code>ZFYVE19</code>, <code>KIF12</code>, <code>DCDC2</code>, <code>CLDN1</code></td><td>Alagille syndrome, high-GGT cholestasis, neonatal sclerosing cholangitis, ciliopathy-associated cholestasis</td><td>High GGT, duct paucity/proliferation, sclerosing/cholangiopathic patterns, or multisystem findings should shift the differential.</td></tr>
+            <tr><td>Bile acid synthesis or conjugation defects</td><td><code>HSD3B7</code>, <code>AKR1D1</code>, <code>CYP7B1</code>, <code>CYP27A1</code>, <code>AMACR</code>, <code>BAAT</code></td><td>Congenital bile acid synthesis defects / conjugation defects</td><td>Often low or normal serum primary bile acids with atypical bile acids; treatment logic differs because primary bile-acid replacement can be disease-targeted.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>PFIC, BRIC, And ICP As A Spectrum</h2>
+        <p>PFIC historically described pediatric progressive cholestasis caused by defects in bile secretion or canalicular function. BRIC and ICP are better understood as milder, episodic, or trigger-dependent expressions of overlapping biology rather than entirely separate diseases.</p>
+        <table>
+          <thead>
+            <tr><th>Phenotype label</th><th>Typical pattern</th><th>Genes most often discussed</th><th>Distinguishing point</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>PFIC</td><td>Infantile/childhood cholestasis, severe pruritus, fat-soluble vitamin deficiency, progression risk</td><td><code>ATP8B1</code>, <code>ABCB11</code>, <code>ABCB4</code>, <code>TJP2</code>, <code>NR1H4</code>, <code>MYO5B</code>, <code>USP53</code>, <code>KIF12</code>, <code>ZFYVE19</code>, others</td><td>Severe pediatric end of the spectrum; some subtypes carry HCC/CCA risk.</td></tr>
+            <tr><td>BRIC / recurrent intrahepatic cholestasis</td><td>Intermittent attacks of jaundice/pruritus with symptom-free intervals</td><td><code>ATP8B1</code>, <code>ABCB11</code>, sometimes other PFIC-associated genes</td><td>"Benign" can be misleading; some patients progress or sit between BRIC and PFIC.</td></tr>
+            <tr><td>ICP</td><td>Pruritus and elevated bile acids in pregnancy, usually resolving postpartum</td><td><code>ABCB4</code>, <code>ABCB11</code>, <code>ATP8B1</code>, <code>TJP2</code>, <code>NR1H4</code>, <code>ABCC2</code>, common/polygenic contributors</td><td>A pregnancy stress test for bile-acid transport capacity. Severe, recurrent, or early ICP should prompt genetic/liver-risk discussion.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>How Alagille Fits</h2>
+        <p>Alagille syndrome belongs in the same genetic cholestasis umbrella, but it is not primarily a canalicular pump disease. It is usually autosomal dominant <code>JAG1</code> disease, less often <code>NOTCH2</code>, affecting Notch signaling and bile-duct development.</p>
+        <ul>
+          <li>Neonatal or infant cholestasis, often high GGT.</li>
+          <li>Bile duct paucity may be absent early and become clearer with age.</li>
+          <li>Cardiac, vascular, renal, skeletal, eye, growth, and facial-feature findings can be diagnostically important.</li>
+          <li>Liver severity is variable, from improving cholestasis to refractory pruritus, portal hypertension, and transplant.</li>
+          <li>IBAT inhibitors are now label-supported for cholestatic pruritus in Alagille syndrome, but multisystem surveillance remains central.</li>
+        </ul>
+
+        <h2>How Bile Acid Synthesis Defects Fit</h2>
+        <p>Bile acid synthesis defects can mimic PFIC because they can cause neonatal/infant cholestasis, poor growth, malabsorption, and fat-soluble vitamin deficiency. The key difference is biochemical: the liver is not simply retaining too many normal bile acids. It may be making too little normal primary bile acid and accumulating atypical hepatotoxic intermediates.</p>
+        <ul>
+          <li>Serum bile acids may be low, normal, or misleadingly not elevated despite cholestasis.</li>
+          <li>Pruritus may be absent or less prominent in classic <code>HSD3B7</code> / <code>AKR1D1</code> presentations.</li>
+          <li>Urine or serum bile-acid profiling by mass spectrometry can be decisive.</li>
+          <li>Disease-targeted treatment may involve cholic acid, chenodeoxycholic acid in selected defects, glycocholic acid for conjugation defects, plus fat-soluble vitamins and nutrition.</li>
+          <li>IBAT inhibition is not the core treatment logic when the problem is failure to synthesize/conjugate normal primary bile acids.</li>
+        </ul>
+
+        <h2>GGT And Bile-acid Pattern As Triage Clues</h2>
+        <table>
+          <thead><tr><th>Pattern</th><th>More suggestive of</th><th>Caveat</th></tr></thead>
+          <tbody>
+            <tr><td>Low/normal GGT with high serum bile acids and severe pruritus</td><td><code>ATP8B1</code>, <code>ABCB11</code>, <code>TJP2</code>, <code>NR1H4</code>, <code>MYO5B</code>, <code>USP53</code>, <code>LSR</code></td><td>GGT is a clue, not a diagnosis.</td></tr>
+            <tr><td>High GGT cholestasis</td><td><code>ABCB4</code>, Alagille syndrome, <code>KIF12</code>, <code>ZFYVE19</code>, <code>DCDC2</code>, <code>CLDN1</code>, obstructive/cholangiopathic disease</td><td>Exclude biliary atresia and acquired obstruction/inflammation when clinically relevant.</td></tr>
+            <tr><td>Cholestasis with low/normal serum primary bile acids or atypical bile acids</td><td>Bile acid synthesis/conjugation defects</td><td>Requires specialized bile-acid profiling; routine total bile acids can miss the signal.</td></tr>
+            <tr><td>Pregnancy cholestasis, recurrent episodes, drug-triggered cholestasis, gallstones/LPAC, family history</td><td>Heterozygous or milder variants in <code>ABCB4</code>, <code>ABCB11</code>, <code>ATP8B1</code>, <code>TJP2</code>, others</td><td>Adult phenotypes may be multifactorial and incompletely penetrant.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Newer Genes And Nomenclature Caution</h2>
+        <p>PFIC numbering is less stable than gene-based naming. Older shorthand of PFIC1-3 maps cleanly to <code>ATP8B1</code>, <code>ABCB11</code>, and <code>ABCB4</code>; PFIC4 to <code>TJP2</code>; PFIC5 to <code>NR1H4</code>; and PFIC6 is often used for <code>MYO5B</code>. Later literature uses additional numbered labels for genes including <code>USP53</code>, <code>KIF12</code>, <code>ZFYVE19</code>, <code>SEMA7A</code>, <code>VPS33B</code>, and sometimes <code>SLC51A</code> or other emerging loci. These assignments are still consolidating across reviews, OMIM entries, and clinical labs.</p>
+        <p>For clinical work, gene-first language is usually clearer. Say <code>TJP2</code>-associated cholestasis / PFIC4, <code>ABCB4</code>-associated cholestasis, or bile acid synthesis defect due to <code>HSD3B7</code> rather than relying only on broad phenotype labels.</p>
+
+        <h2>Diagnostic Strategy</h2>
+        <ul>
+          <li>Use GGT, direct bilirubin, serum bile acids, AST/ALT, INR, albumin, CBC/platelets, growth, stool color, and ultrasound to frame the first pass.</li>
+          <li>Order a cholestasis multigene panel or exome/genome approach that includes transporter genes, tight-junction genes, bile-acid synthesis/conjugation genes, Alagille genes, and cholangiopathy/ciliopathy genes.</li>
+          <li>Confirm whether deletion/duplication analysis is included.</li>
+          <li>Add urine/serum bile-acid profiling when serum bile acids are unexpectedly low/normal, pruritus is absent, or a synthesis defect is plausible.</li>
+          <li>Use family segregation testing when biallelic disease or variant phase matters.</li>
+          <li>Revisit variants of uncertain significance as phenotype, segregation, new gene literature, and functional evidence evolve.</li>
+        </ul>
+
+        <h2>Treatment Implications By Bucket</h2>
+        <table>
+          <thead><tr><th>Bucket</th><th>Symptom management</th><th>Disease-targeted or escalation logic</th></tr></thead>
+          <tbody>
+            <tr><td>PFIC / transporter-barrier spectrum</td><td>IBAT inhibitors, rifampin, bile acid binders in selected cases, naltrexone/sertraline/sedating agents as specialist-directed adjuncts, nutrition/vitamins</td><td>Genotype affects IBAT expectations, malignancy risk, biliary diversion candidacy, and transplant timing.</td></tr>
+            <tr><td>Alagille syndrome</td><td>IBAT inhibitors for cholestatic pruritus, nutrition/vitamins, xanthoma and sleep management</td><td>Multisystem surveillance for cardiac, renal, vascular, skeletal, ophthalmologic, growth, and portal-hypertension complications.</td></tr>
+            <tr><td>Bile acid synthesis/conjugation defects</td><td>Vitamins/nutrition; itch therapy usually not the central issue in classic presentations</td><td>Primary bile-acid replacement and biochemical monitoring of abnormal metabolites; late diagnosis with advanced fibrosis has worse prognosis.</td></tr>
+            <tr><td>ICP / adult-onset cholestatic disease</td><td>Obstetric bile-acid monitoring, UDCA for symptoms in many protocols, delivery timing by obstetric risk guidance</td><td>Severe/recurrent/early ICP or family history should trigger hepatology/genetic review and postpartum liver-risk follow-up.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Family-facing Framing For Clinicians</h2>
+        <p>A practical family explanation is: "These conditions all affect the bile system, but at different points. Some genes affect pumps that move bile acids. Some affect the seal between liver cells. Some affect how bile ducts form. Some affect how the body manufactures bile acids. The same gene can cause severe childhood disease in one setting and episodic or pregnancy-triggered disease in another."</p>
+
+        <h2>Unresolved Questions For A Treating Team</h2>
+        <ul>
+          <li>Which exact gene, transcript, variants, zygosity, inheritance phase, and classification explain the patient's disease?</li>
+          <li>Does the phenotype fit a transporter/barrier disorder, duct-development disorder, bile acid synthesis defect, or mixed/uncertain category?</li>
+          <li>Were deletion/duplication testing and bile-acid profiling performed if needed?</li>
+          <li>What malignancy surveillance is appropriate for this gene and fibrosis stage?</li>
+          <li>Which response metrics matter most: itch, sleep, serum bile acids, bilirubin, growth, vitamins, INR, fibrosis markers, portal hypertension, or all of these?</li>
+          <li>Would a pediatric genetic cholestasis center, adult genetic cholestasis clinic, or research registry add value?</li>
+        </ul>
+
+        <h2>Key Sources</h2>
+        <ul>
+          <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK584020/">GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview</a></li>
+          <li><a href="https://pubmed.ncbi.nlm.nih.gov/38851996/">EASL Clinical Practice Guidelines on genetic cholestatic liver diseases, 2024</a></li>
+          <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK1273/">GeneReviews: Alagille Syndrome</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/">Genotypes and clinical variants in PFIC review, 2025</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10984671/">Diagnosis and management of Alagille and PFIC review</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11384815/">Genetic issues in intrahepatic cholestasis of pregnancy</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657003/">Cholic acid treatment for bile acid synthesis defects systematic review, 2024</a></li>
+          <li><a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167">DailyMed Livmarli label</a></li>
+          <li><a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa">DailyMed Bylvay label</a></li>
+        </ul>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

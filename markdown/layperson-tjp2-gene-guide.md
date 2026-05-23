@@ -8,6 +8,8 @@ HTML companion: [layperson-tjp2-gene-guide.html](../html/layperson-tjp2-gene-gui
 
 Related packet files:
 
+- [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)
+- [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
 - [PFIC4 family discussion guide](layperson-pfic4-guide.md)
 - [PFIC4 clinician brief](clinician-pfic4-brief.md)
 - [TJP2 clinician gene brief](clinician-tjp2-gene-brief.md)

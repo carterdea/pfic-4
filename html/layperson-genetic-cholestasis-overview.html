@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Genetic Cholestasis Guide for Family Discussion</title>
+  <style>
+    :root { --ink:#18212f; --muted:#5c687a; --line:#d9e0ea; --paper:#fff; --soft:#f5f7fb; --accent:#0f6b7a; --accent-soft:#e3f4f6; --warning:#8a4b06; --warning-soft:#fff4df; }
+    * { box-sizing: border-box; }
+    body { margin: 0; color: var(--ink); background: var(--soft); font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    header, main { padding: 28px 24px; }
+    header { background: var(--paper); border-bottom: 1px solid var(--line); }
+    .wrap { max-width: 1080px; margin: 0 auto; }
+    h1, h2, h3 { line-height: 1.18; margin: 0 0 14px; }
+    h1 { font-size: clamp(2rem, 4vw, 3rem); letter-spacing: 0; }
+    h2 { font-size: 1.55rem; padding-top: 22px; border-top: 1px solid var(--line); }
+    h3 { font-size: 1.15rem; margin-top: 22px; }
+    p { margin: 0 0 14px; }
+    a { color: var(--accent); text-underline-offset: 2px; }
+    code { background: #eef2f7; border: 1px solid #dfe6ef; border-radius: 4px; padding: 0 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .93em; }
+    nav { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    nav a { border: 1px solid var(--line); border-radius: 6px; background: var(--paper); padding: 7px 11px; text-decoration: none; color: var(--ink); }
+    section { background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 22px; }
+    .meta { color: var(--muted); font-size: .95rem; }
+    .notice { background: var(--warning-soft); border-left: 4px solid var(--warning); padding: 12px 14px; margin: 18px 0; }
+    .callout { background: var(--accent-soft); border-left: 4px solid var(--accent); padding: 12px 14px; margin: 18px 0; }
+    ul { margin: 0 0 16px 22px; padding: 0; }
+    li { margin: 5px 0; overflow-wrap: anywhere; }
+    table { width: 100%; border-collapse: collapse; margin: 14px 0 20px; font-size: .95rem; }
+    th, td { border: 1px solid var(--line); padding: 9px 10px; text-align: left; vertical-align: top; }
+    th { background: #eef3f8; }
+    @media (max-width: 760px) { table { display: block; overflow-x: auto; white-space: nowrap; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <p class="meta">Reviewed: 2026-05-23</p>
+      <h1>Genetic Cholestasis Guide for Family Discussion</h1>
+      <p>Family-facing HTML companion to <a href="../markdown/layperson-genetic-cholestasis-overview.md">layperson-genetic-cholestasis-overview.md</a>.</p>
+      <div class="notice">This is a general research summary for discussing genetic cholestasis with a hepatology or genetics team. It is not medical advice and should not be used to change treatment without a clinician.</div>
+      <nav aria-label="Related pages">
+        <a href="clinician-genetic-cholestasis-overview.html">Clinician Overview</a>
+        <a href="layperson-pfic4-guide.html">PFIC4 Family Guide</a>
+        <a href="clinician-pfic4-brief.html">PFIC4 Clinician Brief</a>
+        <a href="layperson-tjp2-gene-guide.html">TJP2 Gene Guide</a>
+        <a href="source-index.html">Source Index</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="wrap">
+      <section>
+        <h2>The Big Picture</h2>
+        <p>Genetic cholestasis means an inherited problem makes bile flow poorly or makes bile acids build up in the wrong place. Bile is the fluid the liver makes to help digest fat and remove waste. Bile acids are detergent-like chemicals inside bile. They are useful in the intestine, but they can irritate nerves and injure liver cells when they build up in liver tissue or blood.</p>
+        <p>The confusing part is that the names are not all the same kind of thing:</p>
+        <ul>
+          <li>PFIC usually means a progressive inherited cholestasis disease that starts in infancy or childhood.</li>
+          <li>BRIC means repeated attacks of cholestasis with better periods in between.</li>
+          <li>ICP means intrahepatic cholestasis of pregnancy, where pregnancy triggers itching and high bile acids.</li>
+          <li>Alagille syndrome is a genetic syndrome where bile ducts and other organs develop differently.</li>
+          <li>Bile acid synthesis defects mean the liver has trouble making normal bile acids.</li>
+        </ul>
+        <div class="callout">These can overlap. The same gene can sometimes cause severe childhood disease, repeated attacks, pregnancy-triggered disease, or adult liver problems.</div>
+
+        <h2>A Simple Way To Picture It</h2>
+        <p>Think of the bile system like a plumbing and chemistry system:</p>
+        <table>
+          <thead><tr><th>Part of the system</th><th>What can go wrong</th><th>Examples</th></tr></thead>
+          <tbody>
+            <tr><td>Bile pumps</td><td>Liver cells cannot move bile acids or bile ingredients into bile correctly.</td><td>PFIC1, PFIC2, PFIC3; genes such as <code>ATP8B1</code>, <code>ABCB11</code>, <code>ABCB4</code>.</td></tr>
+            <tr><td>Cell seals</td><td>The seal between liver cells is leaky, so bile can reflux into liver tissue.</td><td>PFIC4 / <code>TJP2</code>; related tight-junction genes such as <code>USP53</code>.</td></tr>
+            <tr><td>Control switches</td><td>The body cannot turn bile-acid genes on and off correctly.</td><td><code>NR1H4</code>, also called FXR deficiency.</td></tr>
+            <tr><td>Cell delivery routes</td><td>The right proteins may exist but may not get to the right place in the liver cell.</td><td><code>MYO5B</code>, <code>KIF12</code>, <code>VPS33B</code>, and related genes.</td></tr>
+            <tr><td>Bile ducts</td><td>Bile ducts may be too few, malformed, inflamed, or scarred.</td><td>Alagille syndrome (<code>JAG1</code>, <code>NOTCH2</code>) and some high-GGT genetic cholestasis conditions.</td></tr>
+            <tr><td>Bile-acid chemistry</td><td>The liver cannot make normal bile acids or makes toxic unfinished bile acids.</td><td><code>HSD3B7</code>, <code>AKR1D1</code>, <code>CYP7B1</code>, <code>CYP27A1</code>, <code>AMACR</code>, <code>BAAT</code>.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Where PFIC, BRIC, And ICP Fit</h2>
+        <p>PFIC, BRIC, and ICP are phenotype labels. A phenotype is what the disease looks like in real life.</p>
+        <p><strong>PFIC</strong> is the more progressive childhood pattern. It can involve jaundice, severe itching, poor growth, vitamin problems, liver scarring, portal hypertension, liver failure, and sometimes liver cancer risk depending on the gene.</p>
+        <p><strong>BRIC</strong> is the attack-and-remission pattern. A person may have episodes of jaundice and itching, then long periods of feeling better. The word "benign" can be misleading because some people do not stay neatly in a mild category.</p>
+        <p><strong>ICP</strong> is the pregnancy-triggered pattern. It usually causes itching and high bile acids during pregnancy and improves after delivery. It matters because high bile acids can affect pregnancy risk. Recurrent, early, or severe ICP can be a clue that a bile-transport gene is involved.</p>
+
+        <h2>Where Alagille Syndrome Fits</h2>
+        <p>Alagille syndrome is part of the genetic cholestasis umbrella, but it is different from classic PFIC. It is usually caused by a change in <code>JAG1</code> and less often <code>NOTCH2</code>. These genes affect Notch signaling, which helps organs develop.</p>
+        <p>In the liver, Alagille often means there are too few small bile ducts. That can cause cholestasis, itching, high bile acids, xanthomas, vitamin problems, and growth problems. It can also involve the heart, blood vessels, kidneys, bones, eyes, and facial features.</p>
+        <div class="callout">The important family point: Alagille is not only a liver-pump problem. It needs whole-body surveillance, not just itch treatment.</div>
+
+        <h2>Where Bile Acid Synthesis Defects Fit</h2>
+        <p>Bile acid synthesis defects are different again. In many cholestasis diseases, the problem is too much normal bile acid trapped in the wrong place. In bile acid synthesis defects, the liver may make too little normal bile acid and too many abnormal bile-acid chemicals.</p>
+        <ul>
+          <li>Total serum bile acids can be low or normal even when the liver is sick.</li>
+          <li>Itching may be absent or less obvious in some classic synthesis defects.</li>
+          <li>Special urine or blood bile-acid testing may be needed.</li>
+          <li>Treatment may involve replacing a primary bile acid, such as cholic acid or sometimes chenodeoxycholic acid, under specialist care.</li>
+          <li>IBAT inhibitor medicines are not the main logic for this group because the core problem is not simply reabsorbing too many normal bile acids from the intestine.</li>
+        </ul>
+
+        <h2>What GGT Can Tell You</h2>
+        <p>GGT is a liver/bile-duct blood test. It does not diagnose the disease by itself, but it helps sort the possibilities.</p>
+        <table>
+          <thead><tr><th>Lab clue</th><th>What it can point toward</th></tr></thead>
+          <tbody>
+            <tr><td>Low or normal GGT with high bile acids and severe itching</td><td>Many PFIC-type conditions, including <code>ATP8B1</code>, <code>ABCB11</code>, <code>TJP2</code>, <code>MYO5B</code>, <code>NR1H4</code>, and <code>USP53</code>.</td></tr>
+            <tr><td>High GGT</td><td><code>ABCB4</code> disease, Alagille syndrome, some bile-duct/cilia conditions, obstruction, or inflammation.</td></tr>
+            <tr><td>Low or normal total bile acids despite cholestasis</td><td>Possible bile acid synthesis defect, especially if special bile-acid chemicals are present.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Why Newer Genes Make This Confusing</h2>
+        <p>Older PFIC descriptions often focused on PFIC1, PFIC2, and PFIC3. Those match <code>ATP8B1</code>, <code>ABCB11</code>, and <code>ABCB4</code>. Newer genetic testing has found more genes, including <code>TJP2</code>, <code>NR1H4</code>, <code>MYO5B</code>, <code>USP53</code>, <code>KIF12</code>, <code>ZFYVE19</code>, <code>SLC51A</code>, <code>SLC51B</code>, <code>VPS33B</code>, and others.</p>
+        <p>This is why a gene-first explanation is often clearer than a number-first explanation. "TJP2-associated cholestasis / PFIC4" says more than "PFIC4" alone. The exact gene and exact variants matter for prognosis, monitoring, treatment choices, and family testing.</p>
+
+        <h2>Why Genetic Testing Matters</h2>
+        <ul>
+          <li>Is this a pump problem, a tight-junction problem, a bile-duct development problem, or a bile-acid chemistry problem?</li>
+          <li>Is the inheritance autosomal recessive, autosomal dominant, de novo, or still uncertain?</li>
+          <li>Are siblings or future children at risk?</li>
+          <li>Are parents carriers?</li>
+          <li>Does the gene carry special risks such as liver cancer, hearing loss, diarrhea, kidney disease, heart/vascular issues, or adult gallstone/ICP risk?</li>
+          <li>Are there gene-specific treatments, clinical trials, or surveillance plans?</li>
+        </ul>
+        <p>A good test usually needs to include many cholestasis genes, not just the oldest PFIC genes. Sometimes deletion/duplication testing, exome/genome sequencing, family testing, or bile-acid profiling is needed.</p>
+
+        <h2>Treatment Buckets</h2>
+        <table>
+          <thead><tr><th>Group</th><th>Main treatment idea</th></tr></thead>
+          <tbody>
+            <tr><td>PFIC and related bile-transport/barrier disorders</td><td>Reduce bile-acid burden, treat itching, protect nutrition and vitamins, monitor liver scarring and portal hypertension. IBAT inhibitors such as maralixibat or odevixibat may be relevant for pruritus in many PFIC settings.</td></tr>
+            <tr><td>Alagille syndrome</td><td>Treat itching and nutrition, often with IBAT inhibitor discussion, but also monitor heart, blood vessels, kidneys, bones, eyes, growth, and portal hypertension.</td></tr>
+            <tr><td>Bile acid synthesis defects</td><td>Replace missing primary bile acids when appropriate, monitor abnormal bile-acid chemicals, and protect vitamins/nutrition.</td></tr>
+            <tr><td>ICP or adult episodic cholestasis</td><td>Manage pregnancy or adult triggers, monitor bile acids, and consider genetics/liver follow-up if severe, early, recurrent, or family-linked.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>A Family-friendly Summary</h2>
+        <p>All of these conditions live under the "genetic cholestasis" umbrella because they affect bile. But they affect different parts of the bile system:</p>
+        <ul>
+          <li>Some affect the pumps.</li>
+          <li>Some affect the seals between liver cells.</li>
+          <li>Some affect bile ducts.</li>
+          <li>Some affect the chemistry used to make bile acids.</li>
+          <li>Some only show up under stress, such as pregnancy, illness, medications, or hormones.</li>
+        </ul>
+        <p>That is why two families can both hear "cholestasis" but need very different tests, monitoring, and treatments.</p>
+
+        <h2>Questions To Bring To Hepatology Or Genetics</h2>
+        <ul>
+          <li>What exact gene and variants were found?</li>
+          <li>Is the condition best described by the gene name, a PFIC number, Alagille syndrome, BRIC, ICP risk, or bile acid synthesis defect?</li>
+          <li>Is GGT low/normal or high, and what does that suggest?</li>
+          <li>Are serum bile acids high, low, normal, or unclear?</li>
+          <li>Is special urine or blood bile-acid profiling needed?</li>
+          <li>Does this gene change the liver cancer, portal hypertension, hearing, kidney, heart, intestine, or pregnancy-risk plan?</li>
+          <li>What should be tracked over time: itch, sleep, bile acids, bilirubin, vitamins, growth, INR, albumin, platelets, ultrasound, elastography, or AFP?</li>
+          <li>Should family members have carrier testing or targeted genetic testing?</li>
+        </ul>
+
+        <h2>Key Sources</h2>
+        <ul>
+          <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK584020/">GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview</a></li>
+          <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK1273/">GeneReviews: Alagille Syndrome</a></li>
+          <li><a href="https://pubmed.ncbi.nlm.nih.gov/38851996/">EASL Clinical Practice Guidelines on genetic cholestatic liver diseases, 2024</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/">Genotypes and clinical variants in PFIC review, 2025</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10984671/">Diagnosis and management of Alagille and PFIC review</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11384815/">Genetic issues in intrahepatic cholestasis of pregnancy</a></li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657003/">Cholic acid treatment for bile acid synthesis defects systematic review, 2024</a></li>
+          <li><a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167">DailyMed Livmarli label</a></li>
+          <li><a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa">DailyMed Bylvay label</a></li>
+        </ul>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

@@ -6,6 +6,11 @@ This brief is a general literature-oriented discussion aid for a hepatologist. I
 
 HTML companion: [clinician-pfic4-brief.html](../html/clinician-pfic4-brief.html)
 
+Broader overview pages:
+
+- [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
+- [Genetic cholestasis overview for family discussion](layperson-genetic-cholestasis-overview.md)
+
 Drug detail pages:
 
 - [Livmarli / maralixibat details](livmarli-maralixibat.md)

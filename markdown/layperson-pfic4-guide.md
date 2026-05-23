@@ -6,6 +6,11 @@ This is a general research summary for discussing PFIC4 with a hepatology team. 
 
 HTML companion: [layperson-pfic4-guide.html](../html/layperson-pfic4-guide.html)
 
+Broader overview pages:
+
+- [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)
+- [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
+
 Drug detail pages:
 
 - [Livmarli / maralixibat details](livmarli-maralixibat.md)
