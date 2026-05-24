@@ -4,12 +4,15 @@ Reviewed: 2026-05-23
 
 This overview is a general literature-oriented framing aid for hepatology, genetics, and family discussion. It is not a treatment recommendation and does not include patient-specific treatment history, lab values, or genetic reports.
 
+Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, and broader genetic cholestasis are included only as comparison or differential context.
+
 HTML companion: [clinician-genetic-cholestasis-overview.html](../html/clinician-genetic-cholestasis-overview.html)
 
 Related packet pages:
 
 - [PFIC4 clinician brief](clinician-pfic4-brief.md)
 - [PFIC4 family guide](layperson-pfic4-guide.md)
+- [PFIC4 treatment escalation clinician brief](clinician-treatment-escalation.md)
 - [TJP2 gene brief for clinicians](clinician-tjp2-gene-brief.md)
 - [Source index](source-index.md)
 
@@ -132,6 +135,8 @@ When using a panel, check what the test actually covers: older PFIC genes alone 
 | Alagille syndrome | IBAT inhibitors for cholestatic pruritus, nutrition/vitamins, xanthoma and sleep management | Multisystem surveillance for cardiac, renal, vascular, skeletal, ophthalmologic, growth, and portal-hypertension complications. |
 | Bile acid synthesis/conjugation defects | Vitamins/nutrition; itch therapy usually not the central issue in classic presentations | Primary bile-acid replacement and biochemical monitoring of abnormal metabolites; late diagnosis with advanced fibrosis has worse prognosis. |
 | ICP / adult-onset cholestatic disease | Obstetric bile-acid monitoring, UDCA for symptoms in many protocols, delivery timing by obstetric risk guidance | Severe/recurrent/early ICP or family history should trigger hepatology/genetic review and postpartum liver-risk follow-up. |
+
+For the PFIC4/TJP2 staged escalation pathway, see [PFIC4 treatment escalation: clinician brief](clinician-treatment-escalation.md).
 
 ## Family-facing framing for clinicians
 

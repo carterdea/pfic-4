@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 This is a general research summary for discussing PFIC4 with a hepatology team. It is not medical advice and should not be used to change treatment without a clinician.
 
+Scope: this packet is primarily about confirmed PFIC4 caused by `TJP2`, not other PFIC types, Alagille syndrome, or other cholestasis disorders except where comparison helps explain PFIC4.
+
 HTML companion: [layperson-pfic4-guide.html](../html/layperson-pfic4-guide.html)
 
 Broader overview pages:
@@ -15,6 +17,11 @@ Drug detail pages:
 
 - [Livmarli / maralixibat details](livmarli-maralixibat.md)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md)
+
+Escalation pages:
+
+- [Treatment escalation guide for family discussion](layperson-treatment-escalation.md)
+- [Treatment escalation clinician brief](clinician-treatment-escalation.md)
 
 Gene detail pages:
 
@@ -169,6 +176,8 @@ If medications do not control itch or liver disease progresses, hepatology teams
 
 - Surgical biliary diversion: reduces bile acid recirculation by rerouting bile flow. It may help pruritus in some PFIC patients, especially before advanced cirrhosis.
 - Liver transplant: considered for end-stage liver disease, liver cancer, or pruritus/growth failure that remains severe despite medical and surgical options.
+
+For a step-by-step review of what usually triggers each escalation discussion, see [PFIC4 treatment escalation guide for family discussion](layperson-treatment-escalation.md).
 
 ## Questions to bring to hepatology
 

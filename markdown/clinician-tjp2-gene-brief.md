@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 This brief is a general literature-oriented discussion aid for a hepatology/genetics team. It is not a treatment recommendation and does not include patient-specific treatment history or genetics.
 
+Scope: this packet is primarily about confirmed PFIC4/TJP2. Non-PFIC `TJP2` associations and other cholestasis genes are included only for variant-interpretation context.
+
 HTML companion: [clinician-tjp2-gene-brief.html](../html/clinician-tjp2-gene-brief.html)
 
 Related packet files:
@@ -11,6 +13,7 @@ Related packet files:
 - [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
 - [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)
 - [PFIC4 clinician brief](clinician-pfic4-brief.md)
+- [PFIC4 treatment escalation clinician brief](clinician-treatment-escalation.md)
 - [PFIC4 family discussion guide](layperson-pfic4-guide.md)
 - [TJP2 patient guide](layperson-tjp2-gene-guide.md)
 - [Source index](source-index.md)
@@ -79,6 +82,8 @@ The gene-level defect is not currently corrected by approved PFIC medications. C
 - Biliary diversion similarly aims to reduce bile-acid return to the liver in selected patients before advanced cirrhosis.
 - Nutrition, fat-soluble vitamin monitoring, antipruritic adjuncts, fibrosis/portal-hypertension surveillance, and HCC surveillance remain central.
 - Liver transplant remains the definitive option for end-stage disease, HCC, or refractory symptoms/complications when other approaches fail.
+
+For a staged escalation map and objective monitoring markers, see [PFIC4 treatment escalation: clinician brief](clinician-treatment-escalation.md).
 
 ## Key sources
 

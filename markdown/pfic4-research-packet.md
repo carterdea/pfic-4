@@ -6,14 +6,21 @@ HTML companion: [pfic4-research-packet.html](../html/pfic4-research-packet.html)
 
 This is the Markdown companion to the combined human-facing packet. It mirrors the major layperson, clinician, drug, source, and evidence-limit sections from the HTML file. It is a general research summary for discussion with a treating hepatology team and is not medical advice.
 
+Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, and broader genetic cholestasis appear only as comparison context, treatment-label context, differential context, or center-search context.
+
 Related files:
 
 - [Genetic cholestasis overview for family discussion](layperson-genetic-cholestasis-overview.md) / [HTML](../html/layperson-genetic-cholestasis-overview.html)
 - [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md) / [HTML](../html/clinician-genetic-cholestasis-overview.html)
 - [Layperson guide](layperson-pfic4-guide.md) / [HTML](../html/layperson-pfic4-guide.html)
 - [Clinician brief](clinician-pfic4-brief.md) / [HTML](../html/clinician-pfic4-brief.html)
+- [Treatment escalation guide for family discussion](layperson-treatment-escalation.md) / [HTML](../html/layperson-treatment-escalation.html)
+- [Treatment escalation clinician brief](clinician-treatment-escalation.md) / [HTML](../html/clinician-treatment-escalation.html)
+- [PFIC4 natural history](pfic4-natural-history.md) / [HTML](../html/pfic4-natural-history.html)
 - [TJP2 gene guide for family discussion](layperson-tjp2-gene-guide.md) / [HTML](../html/layperson-tjp2-gene-guide.html)
 - [TJP2 gene brief for clinicians](clinician-tjp2-gene-brief.md) / [HTML](../html/clinician-tjp2-gene-brief.html)
+- [PFIC doctors, researchers, and centers for family discussion](layperson-pfic-specialists-and-centers.md) / [HTML](../html/layperson-pfic-specialists-and-centers.html)
+- [PFIC specialists, researchers, and centers for clinicians](clinician-pfic-specialists-and-centers.md) / [HTML](../html/clinician-pfic-specialists-and-centers.html)
 - [Livmarli / maralixibat details](livmarli-maralixibat.md) / [HTML](../html/livmarli-maralixibat.html)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md) / [HTML](../html/bylvay-odevixibat.html)
 - [Source index](source-index.md) / [HTML](../html/source-index.html)
@@ -43,6 +50,8 @@ The root cause is the inherited `TJP2` variants. Outside of that, disease burden
 PFIC4 is not known to be caused by parenting choices, diet, infection, or lifestyle. Diet and illness can affect day-to-day health, nutrition, hydration, and medication tolerance, but they are not the underlying cause.
 
 Things that may influence severity or quality of life include exact `TJP2` variants, bile-acid and bilirubin control, growth and nutrition status, fat-soluble vitamin levels, medication response, side effects, fibrosis/portal hypertension/cirrhosis status, sleep disruption, and skin injury from scratching.
+
+For a focused evidence review on early severe disease, milder/recurrent disease, and genotype-phenotype uncertainty, see [PFIC4 natural history](pfic4-natural-history.md).
 
 ## Drugs
 
@@ -136,6 +145,8 @@ Maralixibat and odevixibat clearly target pruritus and serum-bile-acid burden. W
 
 Consider specialist discussion of biliary diversion or transplant evaluation with intractable pruritus, growth failure, refractory nutritional/vitamin deficiency, progressive fibrosis/cirrhosis, portal hypertension, synthetic dysfunction, decompensation, or HCC concern.
 
+For a focused staged review of when IBAT inhibitors, supportive itch medications, nutrition/vitamin management, biliary diversion, transplant evaluation, and HCC surveillance enter the conversation, see [PFIC4 treatment escalation for families](layperson-treatment-escalation.md) and [PFIC4 treatment escalation for clinicians](clinician-treatment-escalation.md).
+
 ## Source index
 
 ### Drug labels and pricing
@@ -157,14 +168,26 @@ Consider specialist discussion of biliary diversion or transplant evaluation wit
 - EASL Clinical Practice Guidelines on genetic cholestatic liver diseases: https://pubmed.ncbi.nlm.nih.gov/38851996/
 - GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview: https://www.ncbi.nlm.nih.gov/books/NBK584020/
 - Opinion paper on PFIC diagnosis and treatment: https://pmc.ncbi.nlm.nih.gov/articles/PMC10772241/
+- PFIC4 treatment escalation pages: [Family guide](layperson-treatment-escalation.md) / [Clinician brief](clinician-treatment-escalation.md)
 - Genotypes and clinical variants in PFIC review: https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/
 - Pediatric cholestatic diseases in the era of IBAT inhibitors: https://www.mdpi.com/2036-7503/18/1/19
+
+### Specialists, hospitals, and research networks
+
+- PFIC Network Global PFIC Hospital Directory: https://www.pfic.org/pfic-hospital-directory/
+- PFIC Network Scientific Medical Advisory Board: https://www.pfic.org/about-pfic-network/pfic-medical-advisory-board/
+- Cincinnati Children's Undiagnosed and Rare Liver Disease Center: https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease
+- King's College London Liver Molecular Genetics: https://www.kcl.ac.uk/research/liver-molecular-genetics
+- ChiLDReN participating centers: https://childrennetwork.org/About-The-Network/Participating-Centers
+- Filfoie rare liver disease expert centers: https://en.filfoie.com/rare-liver-diseases-expert-centers/
+- PFIC Network Project IMPACT and research-roadmap priorities: https://www.pfic.org/project-impact/ and https://impactroadmap.pfic.org/pfic-patient-centered-cer-priorities/
 
 ### PFIC4-specific reports
 
 - PFIC4 case report, 2024: https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-024-04662-5
 - Adult TJP2/PFIC4 family with cirrhosis and HCC: https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/
 - PFIC4 missense variant and phenotypic variability, 2025: https://www.nature.com/articles/s10038-025-01338-w
+- PFIC4 natural history page: [Markdown](pfic4-natural-history.md) / [HTML](../html/pfic4-natural-history.html)
 
 ### Patient-facing rare disease resources
 

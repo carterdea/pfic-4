@@ -4,12 +4,15 @@ Reviewed: 2026-05-23
 
 This is a drug-detail companion to the PFIC4 research packet. It is for discussion with the treating hepatology team and is not medical advice.
 
+Scope: this packet is primarily about confirmed PFIC4/TJP2. Bylvay's broader PFIC labeling and PFIC1/PFIC2 evidence are included only to clarify how much does or does not apply to PFIC4.
+
 HTML companion: [bylvay-odevixibat.html](../html/bylvay-odevixibat.html)
 
 Related packet files:
 
 - [Layperson PFIC4 guide](layperson-pfic4-guide.md)
 - [Clinician PFIC4 brief](clinician-pfic4-brief.md)
+- [PFIC4 treatment escalation clinician brief](clinician-treatment-escalation.md)
 - [Livmarli / maralixibat details](livmarli-maralixibat.md)
 
 ## Core facts

@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 This file lists the main sources used for the layperson and clinician PFIC4 documents. I prioritized current drug labels, clinical trials, GeneReviews/NIH resources, and recent peer-reviewed reviews/case series.
 
+Scope: this source index supports a confirmed PFIC4/TJP2 packet. Sources about other PFIC types, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, or broader genetic cholestasis are included only when they clarify comparison points, labels, evidence limits, or referral context.
+
 HTML companion: [source-index.html](../html/source-index.html)
 
 HTML packet files:
@@ -12,8 +14,13 @@ HTML packet files:
 - [Genetic cholestasis overview for clinicians](../html/clinician-genetic-cholestasis-overview.html)
 - [Layperson guide](../html/layperson-pfic4-guide.html)
 - [Clinician brief](../html/clinician-pfic4-brief.html)
+- [Treatment escalation guide for family discussion](../html/layperson-treatment-escalation.html)
+- [Treatment escalation clinician brief](../html/clinician-treatment-escalation.html)
+- [PFIC4 natural history](../html/pfic4-natural-history.html)
 - [TJP2 gene guide for family discussion](../html/layperson-tjp2-gene-guide.html)
 - [TJP2 gene brief for clinicians](../html/clinician-tjp2-gene-brief.html)
+- [PFIC doctors, researchers, and centers for family discussion](../html/layperson-pfic-specialists-and-centers.html)
+- [PFIC specialists, researchers, and centers for clinicians](../html/clinician-pfic-specialists-and-centers.html)
 - [Combined research packet](../html/pfic4-research-packet.html)
 - [Livmarli / maralixibat drug details](../html/livmarli-maralixibat.html)
 - [Bylvay / odevixibat drug details](../html/bylvay-odevixibat.html)
@@ -61,6 +68,26 @@ Use in packet:
 
 - Additional pathogenic `TJP2` variants and functional/mechanistic evidence.
 - Cytoskeleton and cell-polarity context for clinician-facing pathophysiology.
+
+### Zhang et al., 2020
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/31696999/
+
+Use in packet:
+
+- Pediatric `TJP2` clinical diversity across remitting and persistent cholestasis.
+- Supports the point that biallelic `TJP2` disease can include milder or intermittent forms, not only early transplant-requiring disease.
+- Variant-class evidence: truncating or canonical splice-site variants were more severe; missense variants reduced but did not abolish TJP2 expression in vitro.
+
+### Lal et al., 2024
+
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38447037/
+
+Use in packet:
+
+- Largest source currently used here for TJP2 genotype-outcome correlation in children.
+- TJP2-C group, defined as predicted protein-truncating mutations on both alleles, had more early infantile cholestasis, less jaundice clearance, more ascites, higher serum bile acids, and lower native-liver survival.
+- Supports counseling that biallelic predicted truncating variants are a higher-risk pattern while still avoiding deterministic prognosis.
 
 ### TJP2 deficiency and HCC reports
 
@@ -175,11 +202,14 @@ Use in packet:
 
 PubMed: https://pubmed.ncbi.nlm.nih.gov/38851996/
 
+PDF: https://easlcampus.eu/sites/default/files/2024-08/EASL_CPGs_on_genetic_cholestatic_diseases.pdf
+
 Guideline summary: https://www.guidelinecentral.com/guideline/4544241/
 
 Use in packet:
 
 - Current expert guideline source for genetic cholestatic liver disease diagnosis, genetic testing, and pruritus management.
+- Supports tertiary referral-center framing and stepwise cholestatic-pruritus management.
 - Scope context for Alagille syndrome, FIC1/PFIC1, BSEP/PFIC2, MDR3/PFIC3 and associated adult phenotypes, and bile acid synthesis defects.
 - Supports referral-center framing because diagnosis and management usually require pediatric/adult hepatology, genetics, pruritus management, nutrition, and transplant expertise.
 - Useful caution: the guideline goes deep on selected diseases and does not fully describe every newer PFIC-like gene.
@@ -196,6 +226,7 @@ Use in packet:
 - Nutritional management: fat-soluble vitamins and medium-chain triglycerides.
 - Pruritus management: UDCA, cholestyramine, rifampicin, IBAT inhibitors, naloxone/hydroxyzine/sertraline.
 - Surgical options: partial external biliary diversion and partial ileal exclusion.
+- Transplant framing when medical/surgical supportive treatments fail or end-stage liver disease develops.
 - Surveillance: fibrosis/cirrhosis, portal hypertension, HCC screening with ultrasound/AFP in significant fibrosis/cirrhosis; PFIC4 table flags HCC surveillance.
 - Gene/mechanism table support for newer or PFIC-like genes including `USP53`, `KIF12`, `ZFYVE19`, `SLC51A`, and `SLC51B`.
 - Separate table support for bile acid synthesis/conjugation defects and the point that serum bile acids can be low/normal in some defects.
@@ -263,8 +294,11 @@ URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10772241/
 
 Use in packet:
 
-- Monitoring concept: pruritus, serum bile acids, growth, quality of life, liver biochemistry, fat-soluble vitamins, ultrasound/stiffness.
-- Practical treatment algorithm and escalation language.
+- Proposed diagnosis and treatment algorithm for suspected pediatric PFIC.
+- Supports early clinical assessment with bilirubin, serum bile acids, GGT, fat-soluble vitamins, ultrasound, pruritus quantification, genetic testing, nutritional support, and experienced-center referral.
+- Supports IBAT inhibitor consideration while confirmatory genetic testing is underway when clinical/biochemical PFIC suspicion is high, after urgent alternative diagnoses are excluded.
+- Provides monitoring intervals used in escalation documents: clinical assessment/liver biochemistry/fat-soluble vitamins/serum bile acids/growth every 3-6 months, and ultrasound plus liver stiffness every 6-12 months; cirrhosis surveillance with ultrasound and AFP every 6 months.
+- Names refractory disease, end-stage liver disease, or intractable pruritus as triggers for case-by-case escalation including transplant.
 
 ### Genotypes and clinical variants in PFIC review
 
@@ -283,6 +317,101 @@ Use in packet:
 
 - Recent 2026 review of IBAT inhibitors across pediatric cholestatic diseases.
 - Notes that PFIC4/TJP2 may be especially responsive to IBAT inhibitors in small subgroup/real-world observations, with appropriate caution about limited numbers.
+
+## Specialist, researcher, hospital, and research-network sources
+
+### PFIC Network Global PFIC Hospital Directory
+
+URL: https://www.pfic.org/pfic-hospital-directory/
+
+Use in packet:
+
+- Starting map for hospitals publicly listed as familiar with PFIC or cholestatic liver disease.
+- Important caveat: the directory is not exhaustive, and PFIC Network says it cannot validate every listed treating program or provider's experience.
+- Asterisk notation used as a public signal that a hospital participates in one of several research networks that specialize in PFIC.
+
+### PFIC Network Scientific Medical Advisory Board
+
+URL: https://www.pfic.org/about-pfic-network/pfic-medical-advisory-board/
+
+Use in packet:
+
+- Identifies public PFIC advisory-board clinicians/researchers: Richard Thompson, Laura Bull, Benjamin Shneider, Ronald Sokol, James Squires, Henkjan Verkade, and Silvia Vilarinho.
+- Provides concise public rationale for several "leading" expert signals, including PFIC genetics, pediatric cholestasis, ChiLDReN, NAPPED/TreatFIC, and adult PFIC/liver genomics.
+
+### Cincinnati Children's Undiagnosed and Rare Liver Disease Center
+
+URLs:
+
+- https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease
+- https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease/team
+- https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease/programs
+
+Use in packet:
+
+- Supports Cincinnati as a high-signal PFIC care/research program with PFIC clinic, registry, clinical trials, hereditary liver panel, disease modeling, variant validation, and translational research claims.
+- Names Akihiro Asai, William Balistreri, and Chunyue Yin as rare liver disease center team members.
+
+### King's College London / King's College Hospital liver molecular genetics and rare liver disease pages
+
+URLs:
+
+- https://www.kcl.ac.uk/research/liver-molecular-genetics
+- https://www.kcl.ac.uk/research/paediatric-hepatology-rare-diseases
+
+Use in packet:
+
+- Supports King's as a high-signal TJP2/PFIC4 and liver genetics program.
+- Documents that Liver Molecular Genetics works closely with King's College Hospital Clinical Hepatology and is led clinically by Richard Thompson.
+
+### ChiLDReN Network and LOGIC study
+
+URLs:
+
+- https://childrennetwork.org/About-The-Network/ChiLDReN
+- https://childrennetwork.org/About-The-Network/Participating-Centers
+- https://repository.niddk.nih.gov/network/177
+- https://repository.niddk.nih.gov/study/100
+
+Use in packet:
+
+- Identifies U.S./Canada pediatric rare-liver research centers and site investigators.
+- Supports LOGIC as a natural-history study including PFIC and other pediatric genetic cholestatic disorders.
+- Provides research-network evidence for centers such as Children's Colorado, Cincinnati, Texas Children's, UPMC Pittsburgh, SickKids, UCSF, CHLA, CHOP, Seattle, Riley/Indiana, Lurie Chicago, Children's Healthcare of Atlanta, Primary Children's/Utah, and others.
+
+### Filfoie rare liver disease expert centers
+
+URL: https://en.filfoie.com/rare-liver-diseases-expert-centers/
+
+Use in packet:
+
+- Supports Bicetre/AP-HP Paris-Saclay as the French coordinating reference center for biliary atresia and genetic cholestasis with pediatric hepatology, transplantation, surgery, imaging, endoscopy, pathology, and molecular biology support.
+- Names Emmanuel Jacquemin and Emmanuel Gonzales among physicians publicly tied to the reference center.
+
+### PFIC Network webinar, conference, and research-roadmap materials
+
+URLs:
+
+- https://www.pfic.org/learn-about-pfic-disease/pfic-webinar-series/
+- https://events.pfic.org/2024-conference-speakers/
+- https://events.pfic.org/2023-conference-presenters/
+- https://www.pfic.org/project-impact/
+- https://impactroadmap.pfic.org/pfic-patient-centered-cer-priorities/
+- https://impactroadmap.pfic.org/whats-next-project-path/
+
+Use in packet:
+
+- Supports public PFIC education and research roles for Akihiro Asai, Henkjan Verkade, Emmanuel Gonzales, Paula Hertel, Gitta Lubke, Jim Squires, Richard Thompson, Silvia Vilarinho, Antonia Felzen, and others.
+- Supports recent patient-centered research priorities around medication comparisons, surgeries, nutrition, mental-health/itch support, care delivery, insurance/access burden, and quality-of-life outcomes.
+
+### Mayo Clinic Pediatric Liver Clinic
+
+URL: https://www.mayoclinic.org/departments-centers/childrens-center/overview/specialty-groups/pediatric-liver-clinic
+
+Use in packet:
+
+- Supports Mayo as a program to evaluate for complex pediatric liver disease, advanced hepatology/transplant care, transition to adult hepatology, living-donor liver transplant, and familial intrahepatic cholestasis conditions.
+- Evidence is general pediatric liver/transplant and familial intrahepatic cholestasis, not as PFIC-specific as the PFIC-dedicated programs.
 
 ## PFIC4-specific reports
 
@@ -303,6 +432,24 @@ Use in packet:
 
 - Supports concern for variable expression, cirrhosis, portal hypertension, and HCC in TJP2/PFIC4.
 - Useful for clinician discussion of surveillance.
+
+### Ge et al., 2019, compound heterozygous TJP2 mutations
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6339326/
+
+Use in packet:
+
+- Case-level example of childhood jaundice, pruritus, growth failure, high serum bile acids, normal/low GGT, and compound heterozygous `TJP2` variants.
+- Supports the practical point that symptoms may improve with supportive therapy while serum bile acids can remain high, so biochemical monitoring still matters.
+
+### Zhou et al., 2015, HCC associated with TJP2 deficiency
+
+DOI: https://doi.org/10.1002/hep.27872
+
+Use in packet:
+
+- Pediatric HCC reports in TJP2 deficiency.
+- Supports explicit HCC surveillance planning while avoiding made-up PFIC4-specific percentage risk.
 
 ### PFIC4 missense variant and phenotypic variability, 2025
 

@@ -4,12 +4,15 @@ Reviewed: 2026-05-23
 
 This is a general research summary for discussing genetic cholestasis with a hepatology or genetics team. It is not medical advice and should not be used to change treatment without a clinician.
 
+Scope: this packet is mainly about confirmed PFIC4 caused by `TJP2`. Other PFIC types, Alagille syndrome, BRIC/ICP, and bile acid synthesis defects are included only to explain what PFIC4 is being compared against.
+
 HTML companion: [layperson-genetic-cholestasis-overview.html](../html/layperson-genetic-cholestasis-overview.html)
 
 Related packet pages:
 
 - [PFIC4 guide for family discussion](layperson-pfic4-guide.md)
 - [PFIC4 clinician brief](clinician-pfic4-brief.md)
+- [PFIC4 treatment escalation guide](layperson-treatment-escalation.md)
 - [TJP2 gene guide for family discussion](layperson-tjp2-gene-guide.md)
 - [Source index](source-index.md)
 
@@ -125,6 +128,8 @@ Different genetic cholestasis diseases can use some of the same symptom medicine
 | Alagille syndrome | Treat itching and nutrition, often with IBAT inhibitor discussion, but also monitor heart, blood vessels, kidneys, bones, eyes, growth, and portal hypertension. |
 | Bile acid synthesis defects | Replace missing primary bile acids when appropriate, monitor abnormal bile-acid chemicals, and protect vitamins/nutrition. |
 | ICP or adult episodic cholestasis | Manage pregnancy or adult triggers, monitor bile acids, and consider genetics/liver follow-up if severe, early, recurrent, or family-linked. |
+
+For PFIC4-specific escalation questions, see [PFIC4 treatment escalation guide for family discussion](layperson-treatment-escalation.md).
 
 ## A family-friendly summary
 

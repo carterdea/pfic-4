@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 This is a general research summary for discussing PFIC4 and the `TJP2` gene with a hepatology or genetics team. It is not medical advice and should not be used to change treatment without a clinician.
 
+Scope: this packet is primarily about confirmed PFIC4/TJP2. Other genes and syndromes are included only to explain why `TJP2` is the focus.
+
 HTML companion: [layperson-tjp2-gene-guide.html](../html/layperson-tjp2-gene-guide.html)
 
 Related packet files:
@@ -11,6 +13,7 @@ Related packet files:
 - [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)
 - [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
 - [PFIC4 family discussion guide](layperson-pfic4-guide.md)
+- [PFIC4 treatment escalation guide](layperson-treatment-escalation.md)
 - [PFIC4 clinician brief](clinician-pfic4-brief.md)
 - [TJP2 clinician gene brief](clinician-tjp2-gene-brief.md)
 - [Source index](source-index.md)
@@ -66,6 +69,8 @@ The `TJP2` result can help the care team:
 - Explain why treatments reduce bile-acid stress but do not fix the gene itself.
 
 Current PFIC medicines such as maralixibat and odevixibat do not repair `TJP2`. They reduce bile-acid recirculation from the intestine back to the liver. If they help, that is still meaningful because lowering the bile-acid burden can improve itch and lab markers.
+
+For a step-by-step treatment escalation discussion, see [PFIC4 treatment escalation guide for family discussion](layperson-treatment-escalation.md).
 
 ## What to ask the care team
 

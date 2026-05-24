@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 This brief is a general literature-oriented discussion aid for a hepatologist. It is not a treatment recommendation and does not include patient-specific treatment history or genetics.
 
+Scope: this packet is primarily about confirmed PFIC4/TJP2, not other PFIC subtypes, Alagille syndrome, or non-TJP2 cholestasis except where comparison is clinically useful.
+
 HTML companion: [clinician-pfic4-brief.html](../html/clinician-pfic4-brief.html)
 
 Broader overview pages:
@@ -15,6 +17,11 @@ Drug detail pages:
 
 - [Livmarli / maralixibat details](livmarli-maralixibat.md)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md)
+
+Escalation pages:
+
+- [Treatment escalation clinician brief](clinician-treatment-escalation.md)
+- [Treatment escalation guide for family discussion](layperson-treatment-escalation.md)
 
 Gene detail pages:
 
@@ -155,6 +162,8 @@ Consider specialist discussion of biliary diversion or transplant evaluation whe
 - HCC concern or confirmed malignancy.
 
 Surgical biliary diversion has historical benefit in selected PFIC patients by interrupting enterohepatic circulation, especially before advanced cirrhosis. Liver transplant remains the definitive option for end-stage disease, HCC, or refractory symptoms when medical/surgical supportive care fails. PFIC4 transplant series are limited but reported post-transplant outcomes are generally favorable, with high HCC burden at transplant in systematic review data.
+
+For a more detailed staged escalation map, including objective monitoring markers before changing therapy, see [PFIC4 treatment escalation: clinician brief](clinician-treatment-escalation.md).
 
 ## Unresolved questions for the treating team
 
