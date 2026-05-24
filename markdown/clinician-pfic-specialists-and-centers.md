@@ -27,6 +27,23 @@ Public evidence was weighted in this order:
 4. Pediatric hepatology, advanced/transplant hepatology, biliary diversion or hepatobiliary surgery, nutrition, genetics, and HCC-surveillance capacity.
 5. Accessible second-opinion or consultation path.
 
+## Visual center directory
+
+The icons below use each institution's public web domain as a lightweight visual cue. They are not endorsements and do not prove PFIC4-specific patient volume.
+
+| Icon | Center | Main location |
+| --- | --- | --- |
+| ![Cincinnati Children's icon](https://www.google.com/s2/favicons?domain=www.cincinnatichildrens.org&sz=64) | Cincinnati Children's Undiagnosed and Rare Liver Disease Center / PFIC Research Center | Cincinnati, Ohio, United States |
+| ![King's College London icon](https://www.google.com/s2/favicons?domain=www.kcl.ac.uk&sz=64) | King's College Hospital / King's College London Institute of Liver Studies | London, England, United Kingdom |
+| ![UMC Groningen icon](https://www.google.com/s2/favicons?domain=www.umcg.nl&sz=64) | UMC Groningen / Beatrix Children's Hospital | Groningen, Netherlands |
+| ![AP-HP icon](https://www.google.com/s2/favicons?domain=www.aphp.fr&sz=64) | Bicetre Hospital / AP-HP Paris-Saclay / Filfoie CRAVB-CG | Le Kremlin-Bicetre / Paris area, France |
+| ![Children's Hospital Colorado icon](https://www.google.com/s2/favicons?domain=www.childrenscolorado.org&sz=64) | Children's Hospital Colorado / University of Colorado | Aurora, Colorado, United States |
+| ![Texas Children's icon](https://www.google.com/s2/favicons?domain=www.texaschildrens.org&sz=64) | Texas Children's Hospital / Baylor College of Medicine | Houston, Texas, United States |
+| ![UPMC Children's icon](https://www.google.com/s2/favicons?domain=www.chp.edu&sz=64) | UPMC Children's Hospital of Pittsburgh | Pittsburgh, Pennsylvania, United States |
+| ![SickKids icon](https://www.google.com/s2/favicons?domain=www.sickkids.ca&sz=64) | SickKids / University of Toronto | Toronto, Ontario, Canada |
+| ![UCSF icon](https://www.google.com/s2/favicons?domain=www.ucsf.edu&sz=64) | UCSF / UCSF Benioff Children's Hospital | San Francisco, California, United States |
+| ![Mayo Clinic icon](https://www.google.com/s2/favicons?domain=www.mayoclinic.org&sz=64) | Mayo Clinic Pediatric Liver Clinic | Rochester, Minnesota, United States |
+
 ## Highest-signal centers to evaluate
 
 | Center | Main location | Public evidence | PFIC4-specific read |

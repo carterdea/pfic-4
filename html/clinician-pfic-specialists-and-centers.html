@@ -29,6 +29,11 @@
     th, td { border: 1px solid var(--line); padding: 9px 10px; text-align: left; vertical-align: top; }
     th { background: #eef3f8; }
     td:first-child { font-weight: 650; }
+    .visual-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; margin: 18px 0 22px; }
+    .visual-card { border: 1px solid var(--line); border-radius: 8px; background: #fbfcfe; padding: 14px; min-height: 132px; }
+    .visual-card img { width: 44px; height: 44px; object-fit: contain; display: block; margin-bottom: 10px; }
+    .visual-card strong { display: block; line-height: 1.25; margin-bottom: 5px; }
+    .visual-card span { color: var(--muted); font-size: .92rem; }
   </style>
 </head>
 <body>
@@ -61,40 +66,55 @@
           <li>Accessible second-opinion or consultation path.</li>
         </ol>
 
+        <h2>Visual Center Directory</h2>
+        <p>These cards use public website icons as lightweight visual cues. They are not endorsements and do not prove PFIC4-specific patient volume.</p>
+        <div class="visual-grid" aria-label="Hospital logo and location cards">
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.cincinnatichildrens.org&amp;sz=128" alt="Cincinnati Children's icon"><strong>Cincinnati Children's</strong><span>Cincinnati, Ohio, United States</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.kcl.ac.uk&amp;sz=128" alt="King's College London icon"><strong>King's / KCH</strong><span>London, England, United Kingdom</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.umcg.nl&amp;sz=128" alt="UMC Groningen icon"><strong>UMC Groningen</strong><span>Groningen, Netherlands</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.aphp.fr&amp;sz=128" alt="AP-HP icon"><strong>Bicetre / AP-HP</strong><span>Le Kremlin-Bicetre / Paris area, France</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.childrenscolorado.org&amp;sz=128" alt="Children's Hospital Colorado icon"><strong>Children's Colorado</strong><span>Aurora, Colorado, United States</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.texaschildrens.org&amp;sz=128" alt="Texas Children's icon"><strong>Texas Children's</strong><span>Houston, Texas, United States</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.chp.edu&amp;sz=128" alt="UPMC Children's icon"><strong>UPMC Children's Pittsburgh</strong><span>Pittsburgh, Pennsylvania, United States</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.sickkids.ca&amp;sz=128" alt="SickKids icon"><strong>SickKids</strong><span>Toronto, Ontario, Canada</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.ucsf.edu&amp;sz=128" alt="UCSF icon"><strong>UCSF Benioff</strong><span>San Francisco, California, United States</span></div>
+          <div class="visual-card"><img src="https://www.google.com/s2/favicons?domain=www.mayoclinic.org&amp;sz=128" alt="Mayo Clinic icon"><strong>Mayo Clinic</strong><span>Rochester, Minnesota, United States</span></div>
+        </div>
+
         <h2>Highest-signal Centers to Evaluate</h2>
         <table>
-          <thead><tr><th>Center</th><th>Public evidence</th><th>PFIC4-specific read</th></tr></thead>
+          <thead><tr><th>Center</th><th>Main location</th><th>Public evidence</th><th>PFIC4-specific read</th></tr></thead>
           <tbody>
-            <tr><td>Cincinnati Children's Rare Liver Disease / PFIC Research Center</td><td>PFIC-focused integrated care/research center; PFIC clinic goal, registry, translational research, clinical trials, 1,447-gene hereditary liver panel, variant-validation pipeline, iPSC-derived hepatocytes, liver organoids, zebrafish, and mouse models. MARCH-PFIC site; ChiLDReN Cincinnati site PI Alexander Miethke.</td><td>Strong U.S. signal for PFIC genetic diagnosis, translational modeling, clinical trials, and transplant integration.</td></tr>
-            <tr><td>King's College Hospital / King's College London</td><td>Original TJP2/PFIC4 discovery group; liver molecular genetics tied to clinical hepatology and multidisciplinary management; MARCH-PFIC site.</td><td>Strong signal for TJP2 genetics, molecular hepatology, histopathology/genotype-phenotype interpretation, and pediatric-to-adult rare liver disease expertise.</td></tr>
-            <tr><td>UMC Groningen / Beatrix Children's Hospital</td><td>NAPPED and TreatFIC initiation; familial cholestatic syndromes, enterohepatic circulation, transplant, prognosis, and treatment-response work.</td><td>Useful for bile-acid response, native-liver survival, biliary diversion, transplant, and TreatFIC-era medication outcomes.</td></tr>
-            <tr><td>Bicetre Hospital / AP-HP Paris-Saclay / Filfoie CRAVB-CG</td><td>French coordinating reference center for biliary atresia and genetic cholestasis with multidisciplinary pediatric hepatology/transplant infrastructure.</td><td>Strong European genetic cholestasis reference-center signal.</td></tr>
-            <tr><td>Children's Hospital Colorado / University of Colorado</td><td>PFIC Network listing; Ronald Sokol chairs PFIC Network Scientific Medical Advisory Board; ChiLDReN network chair/site PI signal.</td><td>Strong pediatric cholestasis, nutrition, transplant, and research-network signal.</td></tr>
-            <tr><td>Texas Children's / Baylor</td><td>Benjamin Shneider PFIC Network advisory-board role; bile-acid transport and pediatric cholestasis research; ChiLDReN site; Paula Hertel PFIC/ChiLDReN signal.</td><td>Relevant to IBAT-response framing and clinical management.</td></tr>
-            <tr><td>UPMC Children's Pittsburgh</td><td>James Squires PFIC Network advisory-board role; ChiLDReN site; transplant hepatology and Starzl Network signal. Patrick McKiernan has inherited metabolic liver disease and PEDFIC 1 PI evidence.</td><td>Strong transplant hepatology, PFIC medication trial, and rare pediatric liver disease network signal.</td></tr>
-            <tr><td>SickKids / University of Toronto</td><td>PFIC Network and ChiLDReN site; Binita Kamath and Simon Ling were original TJP2/PFIC4 discovery authors.</td><td>Strong pediatric hepatology and original TJP2 discovery signal.</td></tr>
-            <tr><td>UCSF / UCSF Benioff Children's</td><td>PFIC Network and ChiLDReN site; Laura Bull is original TJP2/PFIC4 discovery author and genetic cholestasis researcher.</td><td>Strong liver genetics and pediatric hepatology signal.</td></tr>
-            <tr><td>Other PFIC Network/ChiLDReN regional centers</td><td>CHLA, CHOP, Seattle, Riley/Indiana, Lurie Chicago, Children's Healthcare of Atlanta, Primary Children's/Utah, and SLU/Cardinal Glennon have PFIC Network research-network or ChiLDReN signal.</td><td>Verify current PFIC4/TJP2 case experience, transplant capacity, and registry/trial access.</td></tr>
-            <tr><td>Mayo Clinic Pediatric Liver Clinic</td><td>Familial intrahepatic cholestasis conditions, advanced hepatology/transplant certification, multidisciplinary pediatric liver care, living-donor transplant capability, and transition to adult congenital liver care.</td><td>Good general pediatric liver/transplant signal; PFIC-specific public evidence appears less direct.</td></tr>
+            <tr><td>Cincinnati Children's Rare Liver Disease / PFIC Research Center</td><td>Cincinnati, Ohio, United States</td><td>PFIC-focused integrated care/research center; PFIC clinic goal, registry, translational research, clinical trials, 1,447-gene hereditary liver panel, variant-validation pipeline, iPSC-derived hepatocytes, liver organoids, zebrafish, and mouse models. MARCH-PFIC site; ChiLDReN Cincinnati site PI Alexander Miethke.</td><td>Strong U.S. signal for PFIC genetic diagnosis, translational modeling, clinical trials, and transplant integration.</td></tr>
+            <tr><td>King's College Hospital / King's College London</td><td>London, England, United Kingdom</td><td>Original TJP2/PFIC4 discovery group; liver molecular genetics tied to clinical hepatology and multidisciplinary management; MARCH-PFIC site.</td><td>Strong signal for TJP2 genetics, molecular hepatology, histopathology/genotype-phenotype interpretation, and pediatric-to-adult rare liver disease expertise.</td></tr>
+            <tr><td>UMC Groningen / Beatrix Children's Hospital</td><td>Groningen, Netherlands</td><td>NAPPED and TreatFIC initiation; familial cholestatic syndromes, enterohepatic circulation, transplant, prognosis, and treatment-response work.</td><td>Useful for bile-acid response, native-liver survival, biliary diversion, transplant, and TreatFIC-era medication outcomes.</td></tr>
+            <tr><td>Bicetre Hospital / AP-HP Paris-Saclay / Filfoie CRAVB-CG</td><td>Le Kremlin-Bicetre / Paris area, France</td><td>French coordinating reference center for biliary atresia and genetic cholestasis with multidisciplinary pediatric hepatology/transplant infrastructure.</td><td>Strong European genetic cholestasis reference-center signal.</td></tr>
+            <tr><td>Children's Hospital Colorado / University of Colorado</td><td>Aurora, Colorado, United States</td><td>PFIC Network listing; Ronald Sokol chairs PFIC Network Scientific Medical Advisory Board; ChiLDReN network chair/site PI signal.</td><td>Strong pediatric cholestasis, nutrition, transplant, and research-network signal.</td></tr>
+            <tr><td>Texas Children's / Baylor</td><td>Houston, Texas, United States</td><td>Benjamin Shneider PFIC Network advisory-board role; bile-acid transport and pediatric cholestasis research; ChiLDReN site; Paula Hertel PFIC/ChiLDReN signal.</td><td>Relevant to IBAT-response framing and clinical management.</td></tr>
+            <tr><td>UPMC Children's Pittsburgh</td><td>Pittsburgh, Pennsylvania, United States</td><td>James Squires PFIC Network advisory-board role; ChiLDReN site; transplant hepatology and Starzl Network signal. Patrick McKiernan has inherited metabolic liver disease and PEDFIC 1 PI evidence.</td><td>Strong transplant hepatology, PFIC medication trial, and rare pediatric liver disease network signal.</td></tr>
+            <tr><td>SickKids / University of Toronto</td><td>Toronto, Ontario, Canada</td><td>PFIC Network and ChiLDReN site; Binita Kamath and Simon Ling were original TJP2/PFIC4 discovery authors.</td><td>Strong pediatric hepatology and original TJP2 discovery signal.</td></tr>
+            <tr><td>UCSF / UCSF Benioff Children's</td><td>San Francisco, California, United States</td><td>PFIC Network and ChiLDReN site; Laura Bull is original TJP2/PFIC4 discovery author and genetic cholestasis researcher.</td><td>Strong liver genetics and pediatric hepatology signal.</td></tr>
+            <tr><td>Other PFIC Network/ChiLDReN regional centers</td><td>Los Angeles, Philadelphia, Seattle, Indianapolis, Chicago, Atlanta, Salt Lake City, and St. Louis, United States</td><td>CHLA, CHOP, Seattle, Riley/Indiana, Lurie Chicago, Children's Healthcare of Atlanta, Primary Children's/Utah, and SLU/Cardinal Glennon have PFIC Network research-network or ChiLDReN signal.</td><td>Verify current PFIC4/TJP2 case experience, transplant capacity, and registry/trial access.</td></tr>
+            <tr><td>Mayo Clinic Pediatric Liver Clinic</td><td>Rochester, Minnesota, United States</td><td>Familial intrahepatic cholestasis conditions, advanced hepatology/transplant certification, multidisciplinary pediatric liver care, living-donor transplant capability, and transition to adult congenital liver care.</td><td>Good general pediatric liver/transplant signal; PFIC-specific public evidence appears less direct.</td></tr>
           </tbody>
         </table>
 
         <h2>Named Experts and Evidence Signal</h2>
         <table>
-          <thead><tr><th>Name</th><th>Affiliation</th><th>Evidence signal</th></tr></thead>
+          <thead><tr><th>Name</th><th>Affiliation</th><th>Main location</th><th>Evidence signal</th></tr></thead>
           <tbody>
-            <tr><td>Richard J. Thompson</td><td>King's College London / KCH</td><td>Original TJP2/PFIC4 discovery senior author; liver molecular genetics; PFIC Network advisory board; MARCH-PFIC author.</td></tr>
-            <tr><td>Laura N. Bull</td><td>UCSF</td><td>Original TJP2/PFIC4 discovery author; PFIC Network advisory board; cholestasis genetics.</td></tr>
-            <tr><td>Ronald J. Sokol</td><td>Children's Hospital Colorado</td><td>PFIC Network advisory-board chair; ChiLDReN leadership; original TJP2 discovery author.</td></tr>
-            <tr><td>Henkjan J. Verkade / Bettina Hansen</td><td>UMC Groningen / Toronto-Erasmus context</td><td>NAPPED/TreatFIC outcome and natural-history leadership.</td></tr>
-            <tr><td>Akihiro Asai / Chunyue Yin</td><td>Cincinnati Children's</td><td>PFIC disease modeling, TJP2 deficiency model involvement, liver biology, cholestasis, molecular genetics.</td></tr>
-            <tr><td>Alexander G. Miethke</td><td>Cincinnati Children's</td><td>ChiLDReN site PI; liver transplant medical director; pediatric genetic liver disease/fibrosis biomarker research.</td></tr>
-            <tr><td>Emmanuel Gonzales / Emmanuel Jacquemin</td><td>Bicetre / Paris-Saclay</td><td>Genetic cholestasis and rare pediatric liver disease network leadership.</td></tr>
-            <tr><td>Benjamin L. Shneider / Paula Hertel</td><td>Texas Children's / Baylor</td><td>Bile-acid transport, intrahepatic cholestasis, pediatric cholestasis, ChiLDReN, PFIC education.</td></tr>
-            <tr><td>James E. Squires / Patrick J. McKiernan</td><td>UPMC Children's Pittsburgh</td><td>Transplant hepatology, ChiLDReN, Starzl Network, PEDFIC PI signal.</td></tr>
-            <tr><td>Binita Kamath / Simon Ling</td><td>SickKids / University of Toronto</td><td>Original TJP2 discovery authors and ChiLDReN investigators.</td></tr>
-            <tr><td>Silvia Vilarinho</td><td>Yale</td><td>PFIC Network advisory board; adult PFIC and liver genomics.</td></tr>
-            <tr><td>Gitta Lubke / Antonia Felzen / Pasquale Piccolo</td><td>PFIC Network, UMC Groningen, TIGEM</td><td>Registry, TreatFIC, patient-centered research, and root-cause therapy research direction.</td></tr>
+            <tr><td>Richard J. Thompson</td><td>King's College London / KCH</td><td>London, England, United Kingdom</td><td>Original TJP2/PFIC4 discovery senior author; liver molecular genetics; PFIC Network advisory board; MARCH-PFIC author.</td></tr>
+            <tr><td>Laura N. Bull</td><td>UCSF</td><td>San Francisco, California, United States</td><td>Original TJP2/PFIC4 discovery author; PFIC Network advisory board; cholestasis genetics.</td></tr>
+            <tr><td>Ronald J. Sokol</td><td>Children's Hospital Colorado</td><td>Aurora, Colorado, United States</td><td>PFIC Network advisory-board chair; ChiLDReN leadership; original TJP2 discovery author.</td></tr>
+            <tr><td>Henkjan J. Verkade / Bettina Hansen</td><td>UMC Groningen / Toronto-Erasmus context</td><td>Groningen, Netherlands; Toronto, Canada / Rotterdam, Netherlands research context</td><td>NAPPED/TreatFIC outcome and natural-history leadership.</td></tr>
+            <tr><td>Akihiro Asai / Chunyue Yin</td><td>Cincinnati Children's</td><td>Cincinnati, Ohio, United States</td><td>PFIC disease modeling, TJP2 deficiency model involvement, liver biology, cholestasis, molecular genetics.</td></tr>
+            <tr><td>Alexander G. Miethke</td><td>Cincinnati Children's</td><td>Cincinnati, Ohio, United States</td><td>ChiLDReN site PI; liver transplant medical director; pediatric genetic liver disease/fibrosis biomarker research.</td></tr>
+            <tr><td>Emmanuel Gonzales / Emmanuel Jacquemin</td><td>Bicetre / Paris-Saclay</td><td>Le Kremlin-Bicetre / Paris area, France</td><td>Genetic cholestasis and rare pediatric liver disease network leadership.</td></tr>
+            <tr><td>Benjamin L. Shneider / Paula Hertel</td><td>Texas Children's / Baylor</td><td>Houston, Texas, United States</td><td>Bile-acid transport, intrahepatic cholestasis, pediatric cholestasis, ChiLDReN, PFIC education.</td></tr>
+            <tr><td>James E. Squires / Patrick J. McKiernan</td><td>UPMC Children's Pittsburgh</td><td>Pittsburgh, Pennsylvania, United States</td><td>Transplant hepatology, ChiLDReN, Starzl Network, PEDFIC PI signal.</td></tr>
+            <tr><td>Binita Kamath / Simon Ling</td><td>SickKids / University of Toronto</td><td>Toronto, Ontario, Canada</td><td>Original TJP2 discovery authors and ChiLDReN investigators.</td></tr>
+            <tr><td>Silvia Vilarinho</td><td>Yale</td><td>New Haven, Connecticut, United States</td><td>PFIC Network advisory board; adult PFIC and liver genomics.</td></tr>
+            <tr><td>Gitta Lubke / Antonia Felzen / Pasquale Piccolo</td><td>PFIC Network, UMC Groningen, TIGEM</td><td>PFIC Network; Groningen, Netherlands; Pozzuoli, Italy</td><td>Registry, TreatFIC, patient-centered research, and root-cause therapy research direction.</td></tr>
           </tbody>
         </table>
 
