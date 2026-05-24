@@ -243,6 +243,16 @@ Use in packet:
 - Caveat that bile duct paucity may be absent or less clear in early infancy.
 - Supports surveillance framing beyond liver-only care: liver tests, AFP/ultrasound, growth, blood pressure, fractures/nutrition, vascular/cardiology, ophthalmology, renal labs, and developmental/behavioral assessment.
 
+### Cholestatic Pruritus in Children: Conventional Therapies and Beyond
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10215450/
+
+Use in packet:
+
+- Supports the mechanism-to-candidate treatment table's itch-signaling row.
+- Reviews bile acids, ATX/LPA, opioid, serotonin, and sleep-related contributors to pediatric cholestatic pruritus.
+- Supports careful pediatric framing for rifampin, naltrexone, sertraline, antihistamines, IBAT inhibitors, surgery, and transplant when pruritus is refractory.
+
 ### ICP guideline and pregnancy-liver guidance
 
 SOGC Guideline No. 452 abstract: https://www.jogc.com/article/S1701-2163(24)00441-9/abstract

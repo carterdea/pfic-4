@@ -6,6 +6,16 @@
 - This repo is not medical advice. Frame outputs as research for discussion with a treating hepatology, genetics, transplant, or rare-disease team.
 - Keep patient/family-specific details out of committed packet files. If private context is needed, put it only in `markdown/personal.md` and `html/personal.html`; those exact files are ignored by git.
 
+## Goals
+- Build a durable research packet that helps families and clinicians understand PFIC4 from first principles: the `TJP2` defect, tight-junction and canalicular-barrier failure, bile-acid leakage or reflux, pruritus, liver injury, fibrosis, cirrhosis, transplant risk, and HCC concern.
+- Use that mechanism-first model to search for treatment strategies beyond current high-cost options, while keeping evidence strength and safety limits explicit.
+- Break down treatments that appear to help PFIC4 or related cholestatic diseases into active ingredients, excipients, mechanism, dose form, pharmacology, monitoring needs, adverse effects, and cost drivers.
+- Look for lower-cost or more accessible candidate strategies only when there is a plausible mechanistic bridge, such as reducing bile-acid pool size, interrupting enterohepatic recirculation, improving bile-acid composition, protecting hepatocytes or cholangiocytes, reducing pruritus burden, supporting nutrition and fat-soluble vitamins, or slowing fibrosis.
+- Compare PFIC4 with related diseases where treatments may transfer cautiously: other low-GGT PFIC types, `TJP2`/tight-junction disease, Alagille syndrome, bile acid synthesis defects, cholestatic pruritus disorders, ICP, BRIC, and adult genetic cholestasis.
+- Prioritize interventions with a realistic long-term outlook: symptom relief plus objective disease markers such as serum bile acids, bilirubin, AST/ALT, GGT, INR, albumin, growth, vitamins, fibrosis, portal hypertension, AFP/HCC surveillance, transplant-free survival, and quality of life.
+- Keep the purpose patient-centered and public-interest oriented: PFIC4 is rare and underfunded, so the packet should make the research landscape clearer, cheaper to navigate, and easier to discuss with qualified hepatology, genetics, transplant, and rare-disease teams.
+- Do not present speculative alternatives as treatments. Clearly label each idea as direct PFIC4 evidence, broader PFIC evidence, related-disease evidence, mechanistic inference, or unresolved hypothesis.
+
 ## Git workflow
 - For this repo, committing directly to `main` is allowed when the user asks for a commit or push.
 - Do not create pull requests unless the user specifically asks for one.

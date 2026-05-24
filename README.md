@@ -4,6 +4,12 @@ Personal research notes on PFIC4, a confirmed `TJP2`-associated genetic cholesta
 
 Scope: this packet is primarily about PFIC4/TJP2. Other PFIC subtypes, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, and broader genetic cholestasis appear only as comparison context, treatment-label context, differential context, or center-search context.
 
+## Long-term research goal
+
+The long-term goal is to help identify safer, more accessible, and potentially lower-cost treatment strategies for PFIC4. The packet approaches this by breaking the disease down from first principles: `TJP2` dysfunction, tight-junction and canalicular-barrier failure, bile-acid leakage or reflux, pruritus, liver injury, fibrosis, cirrhosis, transplant risk, and HCC concern.
+
+Research should compare treatments that already help PFIC4 or related cholestatic diseases by mechanism, active ingredient, formulation, monitoring burden, side effects, evidence strength, and cost. Candidate ideas should be labeled clearly as direct PFIC4 evidence, broader PFIC evidence, related-disease evidence, mechanistic inference, or unresolved hypothesis. This packet is for discussion with qualified hepatology, genetics, transplant, and rare-disease teams, not for self-directed treatment.
+
 The packet is organized by format:
 
 - `markdown/` contains agent-facing source notes.
