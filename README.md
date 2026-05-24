@@ -23,5 +23,6 @@ Start here:
 - `html/clinician-pfic4-brief.html` and `markdown/clinician-pfic4-brief.md`
 - `html/layperson-treatment-escalation.html` and `markdown/layperson-treatment-escalation.md`
 - `html/clinician-treatment-escalation.html` and `markdown/clinician-treatment-escalation.md`
+- `html/cheap-generic-options-vs-ibat.html` and `markdown/cheap-generic-options-vs-ibat.md`
 - `html/layperson-pfic-specialists-and-centers.html` and `markdown/layperson-pfic-specialists-and-centers.md`
 - `html/clinician-pfic-specialists-and-centers.html` and `markdown/clinician-pfic-specialists-and-centers.md`

@@ -1,6 +1,6 @@
 # PFIC4 research packet
 
-Reviewed: 2026-05-23
+Reviewed: 2026-05-24
 
 HTML companion: [pfic4-research-packet.html](../html/pfic4-research-packet.html)
 
@@ -16,6 +16,7 @@ Related files:
 - [Clinician brief](clinician-pfic4-brief.md) / [HTML](../html/clinician-pfic4-brief.html)
 - [Treatment escalation guide for family discussion](layperson-treatment-escalation.md) / [HTML](../html/layperson-treatment-escalation.html)
 - [Treatment escalation clinician brief](clinician-treatment-escalation.md) / [HTML](../html/clinician-treatment-escalation.html)
+- [Cheap/generic options compared with IBAT inhibitors](cheap-generic-options-vs-ibat.md) / [HTML](../html/cheap-generic-options-vs-ibat.html)
 - [PFIC4 natural history](pfic4-natural-history.md) / [HTML](../html/pfic4-natural-history.html)
 - [TJP2 gene guide for family discussion](layperson-tjp2-gene-guide.md) / [HTML](../html/layperson-tjp2-gene-guide.html)
 - [TJP2 gene brief for clinicians](clinician-tjp2-gene-brief.md) / [HTML](../html/clinician-tjp2-gene-brief.html)
@@ -95,6 +96,8 @@ These are commonly discussed in PFIC/cholestatic pruritus, but most are not PFIC
 - Sertraline: sometimes used for cholestatic itch through central itch-pathway effects; pediatric evidence is limited.
 - Hydroxyzine or diphenhydramine: may help sleep but often do not solve cholestatic itch by themselves.
 - Ondansetron or phenobarbital: sometimes used historically; evidence is less strong.
+
+For a mechanism-first comparison of lower-cost options against IBAT inhibitors, including cholestyramine/colesevelam/colestipol, rifampin, UDCA/TUDCA, naltrexone, sertraline, antihistamines/sleep aids, fat-soluble vitamins, and MCT nutrition, see [cheap/generic options compared with IBAT inhibitors](cheap-generic-options-vs-ibat.md).
 
 ## Improving quality of life
 

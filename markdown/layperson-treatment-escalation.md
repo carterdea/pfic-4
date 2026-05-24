@@ -1,6 +1,6 @@
 # PFIC4 treatment escalation guide for family discussion
 
-Reviewed: 2026-05-23
+Reviewed: 2026-05-24
 
 This is a general research summary for discussing PFIC4 treatment escalation with a hepatology, genetics, transplant, or rare-disease team. It is not medical advice and should not be used to change treatment without a clinician.
 
@@ -14,6 +14,7 @@ Related packet files:
 - [PFIC4 clinician treatment escalation brief](clinician-treatment-escalation.md) / [HTML](../html/clinician-treatment-escalation.html)
 - [PFIC4 clinician brief](clinician-pfic4-brief.md) / [HTML](../html/clinician-pfic4-brief.html)
 - [PFIC4 natural history](pfic4-natural-history.md) / [HTML](../html/pfic4-natural-history.html)
+- [Cheap/generic options compared with IBAT inhibitors](cheap-generic-options-vs-ibat.md) / [HTML](../html/cheap-generic-options-vs-ibat.html)
 - [TJP2 gene guide](layperson-tjp2-gene-guide.md) / [HTML](../html/layperson-tjp2-gene-guide.html)
 - [Livmarli / maralixibat details](livmarli-maralixibat.md) / [HTML](../html/livmarli-maralixibat.html)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md) / [HTML](../html/bylvay-odevixibat.html)
@@ -80,9 +81,11 @@ Common discussion items include:
 - Hydroxyzine or diphenhydramine: may help sleep but usually do not solve bile-acid itch by themselves.
 - Ondansetron or phenobarbital: selected or older options with weaker evidence.
 
+For a deeper comparison of lower-cost options with IBAT inhibitors, see [cheap/generic options compared with IBAT inhibitors](cheap-generic-options-vs-ibat.md). The short version is that bile-acid binders, also called bile-acid sequestrants, such as cholestyramine, colesevelam, and colestipol, are the closest cheap gut-based strategy, while rifampin, naltrexone, sertraline, and antihistamines mainly target itch or sleep pathways rather than the underlying bile-acid burden.
+
 ## When nutrition and vitamins enter the conversation
 
-Nutrition is part of the first plan, not a backup plan. Cholestasis can make it harder to absorb fat and fat-soluble vitamins. IBAT inhibitors and bile-acid binding medicines can also affect vitamin absorption.
+Nutrition is part of the first plan, not a backup plan. Cholestasis can make it harder to absorb fat and fat-soluble vitamins. IBAT inhibitors and bile-acid binding medicines, also called bile-acid sequestrants, such as cholestyramine, colesevelam, and colestipol, can also affect vitamin absorption.
 
 Ask the team about:
 
@@ -105,6 +108,10 @@ This usually enters the conversation when:
 - A PFIC center with surgical experience can review the case.
 
 Important caveat: most biliary-diversion evidence is broader PFIC evidence, not large PFIC4-only evidence. It should be discussed with a center that understands PFIC genetics, surgical risks, nutrition, and transplant timing.
+
+Risk warning: biliary diversion is major surgery, not a simple itch treatment. Published PFIC reviews report that some children improve, but some still need transplant later. Risks can include stoma leakage or blockage, skin problems around the stoma, high bile output, dehydration, low salt/electrolyte levels, diarrhea or frequent stools, poor absorption, infection or cholangitis, bile leak, repeat surgery, return of itching, or worsening liver disease despite surgery. The key question is not only "can it reduce itching?" but "is this child's liver stage, nutrition, anatomy, and PFIC4 genetics a good fit for surgery now?"
+
+Rare rescue/bridge option: albumin dialysis, sometimes called MARS, is different from ordinary kidney dialysis. It has been reported to temporarily improve severe cholestatic itching in some non-PFIC4 cholestasis cases and one PFIC3 pregnancy case, but there is no strong PFIC4-specific proof. If it ever comes up, it should be treated as a specialist-center bridge option, not a cure or a replacement for PFIC4 escalation planning.
 
 ## When liver transplant enters the conversation
 
@@ -139,6 +146,7 @@ PFIC4 has published liver cancer reports in children and adults. That does not g
 - Maralixibat has direct PFIC4 trial inclusion, but not a large PFIC4-only trial.
 - Odevixibat has PFIC labeling and PFIC trial evidence, but the pivotal randomized trial was PFIC1/PFIC2.
 - Biliary diversion and transplant timing need individualized expert review because genotype, fibrosis, nutrition, HCC concern, and quality of life all matter.
+- Albumin dialysis/MARS has only limited bridge-style evidence outside PFIC4; it should not be treated as proven PFIC4 disease-modifying therapy.
 
 ## Key sources
 
@@ -150,3 +158,6 @@ PFIC4 has published liver cancer reports in children and adults. That does not g
 - MARCH-PFIC maralixibat trial: https://pubmed.ncbi.nlm.nih.gov/38723644/
 - PEDFIC odevixibat trial: https://pubmed.ncbi.nlm.nih.gov/35780807/
 - Genotypes and clinical variants in PFIC review: https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/
+- Biliary diversion in PFIC systematic review/meta-analysis: https://pubmed.ncbi.nlm.nih.gov/35051344/
+- PFIC outcomes after biliary diversion by genetic subtype: https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1074229/full
+- MARS albumin dialysis cholestatic-pruritus case series: https://pmc.ncbi.nlm.nih.gov/articles/PMC8456761/

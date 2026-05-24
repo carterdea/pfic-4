@@ -131,7 +131,7 @@ When using a panel, check what the test actually covers: older PFIC genes alone 
 
 | Bucket | Symptom management | Disease-targeted or escalation logic |
 | --- | --- | --- |
-| PFIC / transporter-barrier spectrum | IBAT inhibitors, rifampin, bile acid binders in selected cases, naltrexone/sertraline/sedating agents as specialist-directed adjuncts, nutrition/vitamins | Genotype affects IBAT expectations, malignancy risk, biliary diversion candidacy, and transplant timing. |
+| PFIC / transporter-barrier spectrum | IBAT inhibitors, rifampin, bile acid binders, also called bile-acid sequestrants, such as cholestyramine, colesevelam, and colestipol in selected cases, naltrexone/sertraline/sedating agents as specialist-directed adjuncts, nutrition/vitamins | Genotype affects IBAT expectations, malignancy risk, biliary diversion candidacy, and transplant timing. |
 | Alagille syndrome | IBAT inhibitors for cholestatic pruritus, nutrition/vitamins, xanthoma and sleep management | Multisystem surveillance for cardiac, renal, vascular, skeletal, ophthalmologic, growth, and portal-hypertension complications. |
 | Bile acid synthesis/conjugation defects | Vitamins/nutrition; itch therapy usually not the central issue in classic presentations | Primary bile-acid replacement and biochemical monitoring of abnormal metabolites; late diagnosis with advanced fibrosis has worse prognosis. |
 | ICP / adult-onset cholestatic disease | Obstetric bile-acid monitoring, UDCA for symptoms in many protocols, delivery timing by obstetric risk guidance | Severe/recurrent/early ICP or family history should trigger hepatology/genetic review and postpartum liver-risk follow-up. |

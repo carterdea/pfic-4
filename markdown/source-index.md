@@ -1,6 +1,6 @@
 # PFIC4 source index
 
-Reviewed: 2026-05-23
+Reviewed: 2026-05-24
 
 This file lists the main sources used for the layperson and clinician PFIC4 documents. I prioritized current drug labels, clinical trials, GeneReviews/NIH resources, and recent peer-reviewed reviews/case series.
 
@@ -16,6 +16,7 @@ HTML packet files:
 - [Clinician brief](../html/clinician-pfic4-brief.html)
 - [Treatment escalation guide for family discussion](../html/layperson-treatment-escalation.html)
 - [Treatment escalation clinician brief](../html/clinician-treatment-escalation.html)
+- [Cheap/generic options compared with IBAT inhibitors](../html/cheap-generic-options-vs-ibat.html)
 - [PFIC4 natural history](../html/pfic4-natural-history.html)
 - [TJP2 gene guide for family discussion](../html/layperson-tjp2-gene-guide.html)
 - [TJP2 gene brief for clinicians](../html/clinician-tjp2-gene-brief.html)
@@ -125,6 +126,31 @@ Use in packet:
 - Mechanism: reversible IBAT inhibition and reduced terminal ileum bile-acid reabsorption.
 - Warnings: hepatotoxicity, diarrhea/dehydration, fat-soluble vitamin deficiency, fracture/bleeding.
 - Trial 1/NCT03566238 in PFIC1/PFIC2 and serum bile-acid/pruritus effects.
+
+### Cheap/generic option labels and support sources
+
+URLs:
+
+- Cholestyramine/Questran label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=362ddd91-a63f-4ec6-841a-75785dd208c8
+- Colesevelam label: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28701657-640a-67d6-e56f-cf5c672c6e2a
+- Colestipol label: https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=fa6c3e11-84e9-433d-aa74-7cd34336bbed
+- Ursodiol label: https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b636694a-26af-4ed2-8b77-197e82a46de7
+- Rifampin label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c39ee75-ae96-456d-bf47-16d49865345e
+- Naltrexone label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f58d9be1-a428-45df-9c0b-369e93e71c6a
+- Sertraline label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1f99e897-1b70-40b0-8c19-71d0bba19422
+- Hydroxyzine label: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cc6a12ed-411b-4b0c-8108-58ef7db8da55
+- Children's Benadryl/diphenhydramine label: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fc9181b9-c92d-493e-8d7c-4a4239c6c092
+- UDCA pediatric cholestasis systematic review, 2023: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280691
+- Diagnosis and management of Alagille and PFIC, 2024: https://pmc.ncbi.nlm.nih.gov/articles/PMC10984671/
+
+Use in packet:
+
+- Supports [cheap/generic options compared with IBAT inhibitors](cheap-generic-options-vs-ibat.md).
+- Separates gut bile-acid binders, also called bile-acid sequestrants, such as cholestyramine, colesevelam, and colestipol, from IBAT inhibitors: similar enterohepatic-circulation goal, different mechanism and weaker PFIC4 evidence.
+- Captures label cautions for bile-acid sequestrants such as cholestyramine, colesevelam, and colestipol: drug binding, vitamin A/D/E/K malabsorption, constipation, pediatric GI obstruction concerns, and timing away from other medicines.
+- Captures rifampin label cautions: hepatotoxicity, broad enzyme/transporter induction, drug interactions, and need for liver-test monitoring in liver impairment or prolonged use.
+- Captures naltrexone, sertraline, hydroxyzine, and diphenhydramine as itch/sleep-pathway tools rather than bile-acid-burden treatments, with pediatric and hepatic cautions.
+- Supports treating TUDCA as a related chemical hypothesis rather than established PFIC4 care.
 
 ## Drug pricing sources
 
@@ -309,6 +335,51 @@ Use in packet:
 - Supports IBAT inhibitor consideration while confirmatory genetic testing is underway when clinical/biochemical PFIC suspicion is high, after urgent alternative diagnoses are excluded.
 - Provides monitoring intervals used in escalation documents: clinical assessment/liver biochemistry/fat-soluble vitamins/serum bile acids/growth every 3-6 months, and ultrasound plus liver stiffness every 6-12 months; cirrhosis surveillance with ultrasound and AFP every 6 months.
 - Names refractory disease, end-stage liver disease, or intractable pruritus as triggers for case-by-case escalation including transplant.
+
+### Biliary diversion in PFIC systematic review/meta-analysis
+
+URL: https://pubmed.ncbi.nlm.nih.gov/35051344/
+
+Use in packet:
+
+- Supports biliary diversion as an option for PFIC with pruritus refractory to medical management.
+- Gives pooled PFIC child outcomes across partial external biliary drainage, partial internal biliary drainage, and ileal exclusion: pruritus resolution in 59.5%, later liver transplant in 27%, and complications more common with partial external diversion than partial internal diversion.
+- Supports caution that results should be interpreted by subtype/procedure and that postoperative bile-acid and bilirubin response help predict later transplant need.
+
+### PFIC outcomes after biliary diversion by genetic subtype
+
+URL: https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1074229/full
+
+Use in packet:
+
+- Supports genotype-specific caution around biliary diversion response.
+- Reports documented complications after partial external biliary diversion including high-output stoma, electrolyte depletion, stoma obstruction, stoma leakage, recurrent cholangitis, and a bile leak requiring emergent laparotomy after later stoma-related surgery in one patient.
+- Supports treating bile-acid fall after diversion as an important response marker.
+
+### Surgical versus medical management of PFIC review
+
+URL: https://www.mdpi.com/2227-9067/10/6/949
+
+Use in packet:
+
+- Broad review comparing surgical biliary diversion and IBAT inhibitor literature in PFIC.
+- Supports listing adverse events after surgical biliary diversion: stoma irritation/retraction, dehydration and electrolyte imbalance with external diversion, diarrhea/frequent bowel movements with internal diversion, revision surgery, and possible transplant despite surgery.
+- Supports the framing that surgery can be a bridge or delay strategy in selected patients, not a guaranteed cure.
+
+### Albumin dialysis/MARS for refractory cholestatic pruritus
+
+Case series: https://pmc.ncbi.nlm.nih.gov/articles/PMC8456761/
+
+PFIC3 pregnancy case report: https://pmc.ncbi.nlm.nih.gov/articles/PMC2773349/
+
+Severe cholestatic DILI case series: https://pmc.ncbi.nlm.nih.gov/articles/PMC9374190/
+
+Use in packet:
+
+- Supports a limited note that albumin dialysis/MARS is different from ordinary kidney dialysis and can remove albumin-bound bilirubin, bile acids, or other pruritogens.
+- Evidence is broader cholestasis rescue/bridge evidence, not PFIC4-specific disease-modifying evidence.
+- In the 2021 cholestatic-pruritus case series, repeated MARS gave relief ranging from weeks to months and was described as supportive therapy or bridge-to-transplant.
+- The PFIC-variant evidence found was a single PFIC3 pregnancy case, not PFIC4.
 
 ### Genotypes and clinical variants in PFIC review
 

@@ -1,6 +1,6 @@
 # PFIC4 treatment escalation: clinician brief
 
-Reviewed: 2026-05-23
+Reviewed: 2026-05-24
 
 This brief is a general literature-oriented discussion aid for a hepatology, genetics, transplant, or rare-disease team. It is not medical advice and does not include patient-specific treatment history, lab values, or genetic reports.
 
@@ -14,6 +14,7 @@ Related packet files:
 - [PFIC4 family treatment escalation guide](layperson-treatment-escalation.md) / [HTML](../html/layperson-treatment-escalation.html)
 - [PFIC4 family discussion guide](layperson-pfic4-guide.md) / [HTML](../html/layperson-pfic4-guide.html)
 - [PFIC4 natural history](pfic4-natural-history.md) / [HTML](../html/pfic4-natural-history.html)
+- [Cheap/generic options compared with IBAT inhibitors](cheap-generic-options-vs-ibat.md) / [HTML](../html/cheap-generic-options-vs-ibat.html)
 - [TJP2 gene brief for clinicians](clinician-tjp2-gene-brief.md) / [HTML](../html/clinician-tjp2-gene-brief.html)
 - [Livmarli / maralixibat details](livmarli-maralixibat.md) / [HTML](../html/livmarli-maralixibat.html)
 - [Bylvay / odevixibat details](bylvay-odevixibat.md) / [HTML](../html/bylvay-odevixibat.html)
@@ -42,13 +43,14 @@ Use this as a discussion map, not a treatment menu. The strongest PFIC4 logic is
 
 | Mechanism target | Candidate strategies to discuss | PFIC4 bridge | Evidence strength for PFIC4 | Main monitoring or stop signal |
 | --- | --- | --- | --- | --- |
-| Bile-acid pool reduction | Maralixibat or odevixibat; bile-acid sequestrants when tolerated and timed away from other medicines; dose/timing optimization before declaring failure. | TJP2 disease is a barrier/leakage problem, so lowering the recirculating bile-acid load may reduce hepatocyte and nerve exposure even without repairing tight junctions. | Maralixibat has direct PFIC4 inclusion in MARCH-PFIC, but small numbers. Odevixibat is PFIC-labeled with stronger randomized PFIC1/PFIC2 evidence and broader/open-label extrapolation. Sequestrants are broader cholestatic-pruritus support. | Itch/sleep score, serum bile acids, bilirubin, AST/ALT/GGT, diarrhea/dehydration, fat-soluble vitamins, INR, weight/growth, and decompensation signs. |
+| Bile-acid pool reduction | Maralixibat or odevixibat; bile-acid sequestrants, meaning gut bile-acid binders such as cholestyramine, colesevelam, or colestipol, when tolerated and timed away from other medicines; dose/timing optimization before declaring failure. | TJP2 disease is a barrier/leakage problem, so lowering the recirculating bile-acid load may reduce hepatocyte and nerve exposure even without repairing tight junctions. | Maralixibat has direct PFIC4 inclusion in MARCH-PFIC, but small numbers. Odevixibat is PFIC-labeled with stronger randomized PFIC1/PFIC2 evidence and broader/open-label extrapolation. Bile-acid sequestrants such as cholestyramine, colesevelam, or colestipol are broader cholestatic-pruritus support. | Itch/sleep score, serum bile acids, bilirubin, AST/ALT/GGT, diarrhea/dehydration, fat-soluble vitamins, INR, weight/growth, and decompensation signs. |
 | Enterohepatic interruption | IBAT inhibition; partial external or internal biliary diversion; ileal exclusion; rarely temporary drainage strategies in expert settings. | If bile acids reach the intestine, interrupting ileal reabsorption or diverting bile can increase fecal bile-acid loss and reduce return to the liver. | Broader PFIC evidence; strongest historical surgical experience is PFIC1/PFIC2 and selected low-GGT PFIC before advanced cirrhosis. PFIC4-specific outcome data are limited. | Pre-surgery fibrosis/cirrhosis and portal-hypertension status; post-intervention serum bile-acid fall, pruritus, growth, stoma/bowel complications, malabsorption, and transplant need. |
 | Bile-acid composition | UDCA/ursodiol to make the bile-acid pool more hydrophilic; cholic acid or chenodeoxycholic acid only if a bile-acid synthesis defect is a real differential or co-diagnosis; avoid assuming primary bile-acid replacement treats PFIC4. | Hydrophilic bile-acid replacement may reduce detergent toxicity in some cholestatic disorders, but PFIC4 is not primarily a bile-acid synthesis defect. | General cholestasis/PFIC support; stronger disease-targeted logic for PFIC3 or bile-acid synthesis defects than for PFIC4. | Bilirubin, AST/ALT/GGT, serum bile acids, stool tolerance, growth, vitamin status, and clear evidence that response is sustained rather than transient. |
 | Itch signaling | Rifampin; naltrexone or naloxone-class opioid antagonism; sertraline; hydroxyzine/diphenhydramine for sleep; ondansetron or phenobarbital only as selected specialist-directed options. | Cholestatic itch is multifactorial: bile acids, ATX/LPA signaling, endogenous opioids, serotonin pathways, and sleep disruption can all matter. These drugs may reduce itch burden without fixing bile leakage. | Broader cholestatic-pruritus and pediatric cholestasis evidence; not PFIC4-specific disease modification. | Itch/sleep diary, sedation or behavioral effects, liver tests for rifampin, drug interactions, withdrawal-like effects with opioid antagonists, QT or GI concerns where relevant. |
 | Hepatocyte and cholangiocyte protection | Reduce bile-acid exposure with IBAT/diversion when responsive; UDCA when tolerated; rifampin-style detoxification logic only with liver-test monitoring; 4-phenylbutyrate or other chaperone/ER-stress ideas only as research-level or genotype-specific specialist discussion. | The injury model is bile-acid reflux/leakage into liver tissue. Lowering exposure is more plausible than trying to repair TJP2 with currently available drugs. | Mostly broader PFIC/cholestasis evidence and mechanistic inference. Chaperone data are mainly PFIC1/PFIC2 trafficking contexts, not established PFIC4 care. | AST/ALT, bilirubin, serum bile acids, synthetic function, drug hepatotoxicity, fibrosis markers, and whether objective markers improve alongside symptoms. |
 | Fibrosis slowing | No established PFIC4 anti-fibrotic drug. Focus on sustained bile-acid reduction, nutrition/vitamin correction, portal-hypertension surveillance, early surgical/transplant review, and avoiding delayed escalation when fibrosis progresses. | Fibrosis is downstream of chronic cholestatic injury. Slowing it likely depends on controlling bile-acid injury and intervening before decompensation. | Unresolved for PFIC4. Long-term prevention of fibrosis, HCC, liver failure, and transplant after medical response remains uncertain. | Elastography/liver stiffness, ultrasound, platelets/spleen, INR, albumin, bilirubin, AFP/imaging plan, ascites/varices, growth, and quality of life. |
 | Vitamin and nutrition support | Fat-soluble vitamins A/D/E/K; vitamin K and INR interpretation; MCT or special formula, calorie/protein support, dietitian involvement, bone-health monitoring, and medication timing around binders/IBAT therapy. | Cholestasis and bile-acid manipulation can impair fat and vitamin absorption. Nutrition does not fix TJP2, but it can prevent avoidable growth, bleeding, neurologic, bone, and perioperative risk. | Strong general cholestasis/genetic cholestasis support; applies across PFIC stages. | Weight/height velocity, intake, stool burden, diarrhea/dehydration, vitamin A/D/E levels, INR/vitamin K response, fractures or low bone density, and whether binders or IBAT therapy worsen deficiencies. |
+| Temporary extracorporeal support | Albumin dialysis/MARS or plasmapheresis only as rescue or bridge therapy in highly selected refractory cholestatic-pruritus cases. | Albumin dialysis can remove albumin-bound bilirubin, bile acids, or pruritogens, but it does not repair TJP2 or replace PFIC4-directed escalation. | No strong PFIC4-specific evidence found. Evidence includes broader cholestasis case series, severe cholestatic DILI reports, and a single PFIC3 pregnancy case. | Need for expert-center availability, vascular access/anticoagulation planning, hemodynamic tolerance, bleeding/infection risk, bilirubin/bile-acid/itch response, and whether benefit lasts long enough to change the transplant/surgery plan. |
 
 ## Escalation pathway
 
@@ -90,6 +92,8 @@ For PFIC4:
 
 Supportive itch medications enter early when itch causes sleep loss, skin injury, or functional impairment, and later as adjuncts or alternatives if IBAT therapy is unavailable, only partly effective, or not tolerated. Evidence is mostly broader cholestasis/PFIC rather than PFIC4-specific.
 
+For a mechanism-first table comparing lower-cost options with IBAT inhibitors, including label-level cautions for bile-acid sequestrants (gut bile-acid binders such as cholestyramine, colesevelam, and colestipol), rifampin, naltrexone, sertraline, hydroxyzine, and diphenhydramine, see [cheap/generic options compared with IBAT inhibitors](cheap-generic-options-vs-ibat.md).
+
 | Option | Role | Cautions |
 | --- | --- | --- |
 | UDCA / ursodiol | Often tried because of low risk profile and bile-flow rationale | Variable PFIC response; not reliable alone for severe cholestatic itch. |
@@ -109,13 +113,17 @@ Track:
 - Weight, height, BMI or weight-for-length, growth velocity, intake, stool burden, diarrhea, dehydration.
 - Vitamins A, D, E, and INR/vitamin K status.
 - Bone health when vitamin D deficiency, fractures, poor growth, or chronic cholestasis are present.
-- Whether bile-acid sequestrants or IBAT inhibitors are worsening vitamin absorption or interfering with drug timing.
+- Whether bile-acid sequestrants (cholestyramine, colesevelam, or colestipol) or IBAT inhibitors are worsening vitamin absorption or interfering with drug timing.
 
 ## Biliary diversion
 
 Biliary diversion or ileal exclusion enters after inadequate medical control of pruritus or bile-acid burden, usually before advanced cirrhosis, and only through an expert PFIC/hepatobiliary surgery team. GeneReviews describes partial external biliary diversion and partial ileal exclusion as surgical ways to interrupt enterohepatic circulation. It notes poorer outcomes when cirrhosis is already present and describes post-procedure serum bile-acid normalization as an important favorable sign in historical PFIC data.
 
 PFIC4-specific caution: the direct evidence base is small. The rationale is mechanistically similar to IBAT inhibition, but response should not be assumed from PFIC1/PFIC2 experience. Discuss surgical candidacy in the context of fibrosis, portal hypertension, synthetic function, nutritional status, HCC concern, and the family's ability to manage stoma or bowel-related complications.
+
+Risk note: biliary diversion is not a low-risk procedure. A PFIC meta-analysis of 424 children reported pruritus resolution in about 60%, later liver transplant in 27%, and higher complication rates with partial external biliary diversion than partial internal diversion (38% vs 21.8%). Reported problems include stoma leakage or obstruction, peristomal skin injury/retraction, high-output bile loss, dehydration, hyponatremia or other electrolyte depletion, diarrhea/frequent stools, malabsorption, cholangitis or infection, bile leak, need for revision or reoperation, recurrent pruritus, and progression to transplant despite surgery. The risk-benefit discussion should include whether objective markers fall after diversion, because post-procedure bile-acid and bilirubin response predicts longer-term success better than symptom hopes alone.
+
+Rare rescue/bridge note: ordinary kidney dialysis is not a standard PFIC4 treatment. Albumin dialysis systems such as MARS have case-series evidence for temporary relief of refractory cholestatic pruritus and bilirubin/bile-acid burden in broader cholestasis, including one PFIC3 pregnancy case, but no strong PFIC4-specific evidence was found. Treat this as an expert-center bridge discussion only, not disease-modifying PFIC4 therapy.
 
 ## Liver transplant
 
@@ -154,5 +162,9 @@ Practical action: ask the treating center whether PFIC4 surveillance starts at d
 - PEDFIC odevixibat trial: https://pubmed.ncbi.nlm.nih.gov/35780807/
 - Genotypes and clinical variants in PFIC review: https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/
 - Cholestatic Pruritus in Children: Conventional Therapies and Beyond: https://pmc.ncbi.nlm.nih.gov/articles/PMC10215450/
+- Biliary diversion in PFIC systematic review/meta-analysis: https://pubmed.ncbi.nlm.nih.gov/35051344/
+- PFIC outcomes after biliary diversion by genetic subtype: https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1074229/full
+- MARS albumin dialysis cholestatic-pruritus case series: https://pmc.ncbi.nlm.nih.gov/articles/PMC8456761/
+- PFIC3 pregnancy albumin dialysis case report: https://pmc.ncbi.nlm.nih.gov/articles/PMC2773349/
 - Sambrotta et al., 2014, `TJP2` mutations and progressive cholestatic liver disease: https://pmc.ncbi.nlm.nih.gov/articles/PMC4061468/
 - Adult TJP2/PFIC4 family with cirrhosis and HCC: https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/
