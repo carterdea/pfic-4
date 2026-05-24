@@ -1,0 +1,30 @@
+{
+  "headshots": {
+    "akihiro-asai": "https://cincinnatichildrens.widen.net/content/2hgoqtzbrr/jpeg/20221101_CVH0646_LIVERLAB.jpeg?w=320&h=480&keep=c&crop=yes&quality=80&x.app=portals",
+    "alexander-miethke": "https://cincinnatichildrens.widen.net/content/yxul86qd2n/jpeg/20161212_Alexander-Miethke_rn-6.jpg?w=320&h=480&keep=c&crop=yes&quality=80&x.app=portals",
+    "antonia-felzen": "https://research.rug.nl/files-asset/193577373/Bildschirmfoto_2021_11_17_um_21.52.22.png?w=320&f=jpg",
+    "benjamin-shneider": "https://cdn.bcm.edu/sites/default/files/profile_photos/shneider-benjamin-27cec5e8bde4.jpeg",
+    "bettina-hansen": "https://www.erasmusmc.nl/-/media/erasmusmc/images/2-researchers/29-maart-2022/hansen_bettina_gezw.jpg",
+    "binita-kamath": "https://static.emedevents.com/uploads/speakers/200/9739dc0ed4714d0689e854b633946ad2.png",
+    "chunyue-yin": "https://cincinnatichildrens.widen.net/content/2rnyapj1gk/jpeg/20221101_CVH0565_LIVERLAB.jpeg?w=320&h=480&keep=c&crop=yes&quality=80&x.app=portals",
+    "henkjan-verkade": "https://www.rug.nl/staff/h.j.verkade/10-237-01-verkade-henkjan-falk-2024-pasfoto-verkleind.jpg",
+    "laura-bull": "https://cancer.ucsf.edu/sites/cancer.ucsf.edu/files/styles/medium/public/images/person/Bull_Laura.jpg?itok=exkzb8gt",
+    "pasquale-piccolo": "https://www.tigem.it/research/research-faculty/piccolo/@@images/6ed543b4-ff4c-47b6-acd8-65a0b96e2d7a.jpeg",
+    "paula-hertel": "https://www.texaschildrens.org/sites/tc/files/styles/coh_large/public/2024-01/HertelPaulaMarie.jpg?itok=GGd3CyA6",
+    "richard-thompson": "https://kclpure.kcl.ac.uk/portal/files-asset/176858754/RJ_Thompson.JPG?w=320&f=jpg",
+    "ronald-sokol": "https://som.cuanschutz.edu/FIMS/Content/faculty/5796/CU-Doctors-5796.jpg?TimeStamp=638464568301430000",
+    "silvia-vilarinho": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/cf02f081-eb0d-41ca-aba7-1bb43dc92725"
+  },
+  "logos": {
+    "ap-hp-logo": "https://www.google.com/s2/favicons?domain=www.aphp.fr&sz=128",
+    "childrens-colorado-logo": "https://www.google.com/s2/favicons?domain=www.childrenscolorado.org&sz=128",
+    "cincinnati-childrens-logo": "https://www.google.com/s2/favicons?domain=www.cincinnatichildrens.org&sz=128",
+    "kings-college-london-logo": "https://www.google.com/s2/favicons?domain=www.kcl.ac.uk&sz=128",
+    "mayo-clinic-logo": "https://www.google.com/s2/favicons?domain=www.mayoclinic.org&sz=128",
+    "sickkids-logo": "https://www.google.com/s2/favicons?domain=www.sickkids.ca&sz=128",
+    "texas-childrens-logo": "https://www.google.com/s2/favicons?domain=www.texaschildrens.org&sz=128",
+    "ucsf-logo": "https://www.google.com/s2/favicons?domain=www.ucsf.edu&sz=128",
+    "umc-groningen-logo": "https://www.google.com/s2/favicons?domain=www.umcg.nl&sz=128",
+    "upmc-childrens-logo": "https://www.google.com/s2/favicons?domain=www.chp.edu&sz=128"
+  }
+}
