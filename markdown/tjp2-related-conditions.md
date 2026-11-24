@@ -4,7 +4,25 @@ Research checked: 2026-11-24. For discussion with hepatology, genetics, and the 
 
 HTML companion: [tjp2-related-conditions.html](../html/tjp2-related-conditions.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | **[Related conditions](tjp2-related-conditions.md)**
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Current page: PFIC4 & TJP2 / Related conditions.
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Separate three different questions.** TJP2-associated conditions, complications of cholestasis, and similar diseases need different evidence.
+- **Associated findings are not inevitable diagnoses.** Hearing-loss evidence is limited; rare eye and other observations need individual assessment.
+- **Some complications have secondary explanations.** Vitamin deficiency, portal hypertension, or liver dysfunction may explain findings without a separate TJP2 syndrome.
+- **Genetic reanalysis should answer a specific question.** Unresolved variants, unclear phase, or an unusual clinical pattern are reasons to discuss the existing report with genetics.
 
 Related: [Research updates](pfic4-research-updates.md), [parent guide](pfic4-parent-practical-guide.md), [family gene guide](layperson-tjp2-gene-guide.md), [clinician gene brief](clinician-tjp2-gene-brief.md), [genetic cholestasis comparison](clinician-genetic-cholestasis-overview.md), [source index](source-index.md).
 

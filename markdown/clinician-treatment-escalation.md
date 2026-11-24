@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Treatments for other
 
 HTML companion: [clinician-treatment-escalation.html](../html/clinician-treatment-escalation.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | **[Clinician escalation brief](clinician-treatment-escalation.md)** | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Treatment escalation: [Family guide](layperson-treatment-escalation.md) | **[Clinician brief](clinician-treatment-escalation.md)**
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Assess symptoms and objective disease markers together.** Pruritus response does not establish prevention of fibrosis, HCC, or transplant in PFIC4.
+- **Keep evidence tiers explicit.** Maralixibat has small randomized-trial PFIC4 subgroup inclusion. Odevixibat has direct uncontrolled TJP2 reports alongside randomized PFIC1/PFIC2 evidence. Other candidates often rely on broader disease evidence or inference.
+- **Support nutrition and fat-soluble vitamins at every stage.** Monitor growth, intake, deficiencies, drug timing, and treatment-related diarrhea.
+- **Define escalation thresholds before treatment trials.** Refractory symptoms, growth failure, progression, decompensation, or HCC concern warrant expert surgical or transplant review.
 
 Related packet files:
 
@@ -40,6 +58,8 @@ The practical escalation question is not only whether itch improves. It is wheth
 | Liver transplant | Broader PFIC/genetic cholestasis plus PFIC4 severe-course reports | Definitive escalation for end-stage disease, decompensation, HCC, or refractory pruritus/growth/nutrition burden despite other options. |
 
 ## Mechanism-to-candidate treatment map
+
+> **Key takeaway:** A plausible mechanism is a reason for specialist discussion, not proof of PFIC4 treatment benefit.
 
 Use this as a discussion map, not a treatment menu. The strongest PFIC4 logic is still upstream reduction of bile-acid exposure plus careful monitoring. Candidate strategies in the lower-evidence rows should be treated as related-disease evidence or mechanistic inference until a PFIC/genetic cholestasis team decides they fit the patient's genotype, anatomy, fibrosis stage, age, and medication history.
 

@@ -4,57 +4,81 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>PFIC4 natural history</title>
-  <style>
-    :root { --ink:#18212f; --muted:#5c687a; --line:#d9e0ea; --paper:#fff; --soft:#f5f7fb; --accent:#0f6b7a; --warning:#8a4b06; --warning-soft:#fff4df; }
-    * { box-sizing: border-box; }
-    body { margin: 0; color: var(--ink); background: var(--soft); font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    header, main { padding: 28px 24px; }
-    header { background: var(--paper); border-bottom: 1px solid var(--line); }
-    .wrap { max-width: 1080px; margin: 0 auto; }
-    h1, h2, h3 { line-height: 1.18; margin: 0 0 14px; }
-    h1 { font-size: clamp(2rem, 4vw, 3rem); letter-spacing: 0; }
-    h2 { font-size: 1.45rem; padding-top: 22px; border-top: 1px solid var(--line); }
-    h3 { font-size: 1.1rem; margin-top: 22px; }
-    p { margin: 0 0 14px; }
-    a { color: var(--accent); text-underline-offset: 2px; }
-    code { background: #eef2f7; border: 1px solid #dfe6ef; border-radius: 4px; padding: 0 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .93em; }
-    nav { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
-    nav a { border: 1px solid var(--line); border-radius: 6px; background: var(--paper); padding: 7px 11px; text-decoration: none; color: var(--ink); }
-    section { background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 22px; }
-    .meta { color: var(--muted); font-size: .95rem; }
-    .notice { background: var(--warning-soft); border-left: 4px solid var(--warning); padding: 12px 14px; margin: 18px 0; }
-    ul { margin: 0 0 16px 22px; padding: 0; }
-    li { margin: 5px 0; }
-    table { width: 100%; border-collapse: collapse; margin: 16px 0 22px; font-size: .95rem; }
-    th, td { border: 1px solid var(--line); padding: 10px; vertical-align: top; text-align: left; }
-    th { background: #eef4f6; }
-    @media (max-width: 760px) {
-      header, main { padding-left: 16px; padding-right: 16px; }
-      section { padding: 18px; }
-      table { display: block; overflow-x: auto; }
-    }
-    .source-link:not(:focus-within) { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
-  </style>
+  <link rel="stylesheet" href="packet.css">
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <h1>PFIC4 natural history</h1>
-      <p class="source-link"><a href="../markdown/pfic4-natural-history.md">Markdown source</a></p>
-      <nav aria-label="Related pages">
-        <a href="pfic4-research-packet.html">Combined packet</a>
-        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
-        <a href="pfic4-research-updates.html">Research updates</a>
-        <a href="tjp2-related-conditions.html">Related conditions</a>
-        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
-        <a href="clinician-pfic4-brief.html">Clinician brief</a>
-        <a href="livmarli-maralixibat.html">Livmarli</a>
-        <a href="bylvay-odevixibat.html">Bylvay</a>
-        <a href="source-index.html">Sources</a>
-      </nav>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="packet-navigation">
+  <nav class="global-nav" aria-label="Packet navigation">
+    <div class="global-nav-bar">
+      <a class="packet-brand" href="pfic4-research-packet.html">PFIC4 research</a>
+      <div class="global-topics">
+      <details class="global-topic" name="packet-topics">
+        <summary>Overview</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-genetic-cholestasis-overview.html">Family guide</a></li>
+          <li><a href="clinician-genetic-cholestasis-overview.html">Clinician overview</a></li>
+          <li><a href="pfic4-research-packet.html">Combined packet</a></li>
+          <li><a href="pfic4-parent-practical-guide.html">Practical parent guide</a></li>
+          <li><a href="pfic4-research-updates.html">Research updates</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary class="current-topic">PFIC4 &amp; TJP2</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic4-guide.html">PFIC4 family guide</a></li>
+          <li><a href="clinician-pfic4-brief.html">PFIC4 clinician brief</a></li>
+          <li><a href="layperson-tjp2-gene-guide.html">TJP2 family guide</a></li>
+          <li><a href="clinician-tjp2-gene-brief.html">TJP2 clinician brief</a></li>
+          <li><a href="pfic4-natural-history.html" aria-current="page">Natural history</a></li>
+          <li><a href="tjp2-related-conditions.html">Related conditions</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Treatments</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-treatment-escalation.html">Family escalation guide</a></li>
+          <li><a href="clinician-treatment-escalation.html">Clinician escalation brief</a></li>
+          <li><a href="cheap-generic-options-vs-ibat.html">Lower-cost options</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Drug details</summary>
+        <ul class="global-topic-list">
+          <li><a href="livmarli-maralixibat.html">Livmarli / maralixibat</a></li>
+          <li><a href="bylvay-odevixibat.html">Bylvay / odevixibat</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Specialists</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic-specialists-and-centers.html">Family center guide</a></li>
+          <li><a href="clinician-pfic-specialists-and-centers.html">Clinician center brief</a></li>
+        </ul>
+      </details>
+<a class="global-source" href="source-index.html">Sources</a>
+      </div>
     </div>
-  </header>
-  <main>
+  </nav>
+  <div class="audience-nav">
+    <span class="audience-topic">PFIC4 &amp; TJP2</span>
+    <span>Natural history</span>
+  </div>
+  </div>
+  <header><div class="wrap"><h1>PFIC4 natural history</h1>
+<section class="page-summary" aria-labelledby="key-points">
+<h2 id="key-points">Key points</h2>
+<ul>
+<li><strong>Published courses vary widely.</strong> TJP2-associated disease ranges from severe infantile cholestasis to milder, recurrent, or later-recognized disease.</li>
+<li><strong>Variant class provides clues, not a forecast.</strong> Biallelic predicted protein-truncating variants have the strongest reported association with earlier, more severe disease.</li>
+<li><strong>Small cohorts limit prognosis.</strong> Case reports and family series cannot provide a reliable individual progression or cancer-risk percentage.</li>
+<li><strong>Follow the observed course.</strong> Treatment response, growth, liver markers, fibrosis, and an explicit HCC surveillance plan matter alongside genetics.</li>
+</ul>
+</section>
+
+<nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#bottom-line">Bottom line</a></li><li><a href="#what-is-known-about-early-severe-disease">What is known about early severe disease</a></li><li><a href="#what-is-known-about-milder-recurrent-or-later-disease">What is known about milder, recurrent, or later disease</a></li><li><a href="#genotype-and-phenotype-uncertainty">Genotype and phenotype uncertainty</a></li><li><a href="#hcc-and-progression">HCC and progression</a></li><li><a href="#how-to-use-this-in-appointments">How to use this in appointments</a></li><li><a href="#evidence-limits">Evidence limits</a></li><li><a href="#key-sources">Key sources</a></li></ul></nav>
+</div></header>
+  <main id="main">
     <div class="wrap">
       <section>
 <p>Reviewed: 2026-05-23</p>
@@ -69,7 +93,7 @@
 <li><a href="clinician-tjp2-gene-brief.html">TJP2 gene brief for clinicians</a> / <a href="../html/clinician-tjp2-gene-brief.html">HTML</a></li>
 <li><a href="source-index.html">Source index</a> / <a href="../html/source-index.html">HTML</a></li>
 </ul>
-<h2>Bottom line</h2>
+<h2 id="bottom-line">Bottom line</h2>
 <ul>
 <li>PFIC4 natural history is variable. Published <code>TJP2</code> disease ranges from early severe infantile cholestasis to milder, intermittent, later-onset, pregnancy-triggered, or adult-recognized disease.</li>
 <li>The strongest genotype signal is that biallelic predicted protein-truncating variants, especially when both alleles are predicted truncating, are associated with earlier and more severe disease.</li>
@@ -77,23 +101,25 @@
 <li>Genotype does not fully predict phenotype. Same-family and same-variant reports show different ages of onset, different severity, and possible modifier effects from other cholestasis genes or triggers.</li>
 <li>HCC concern is real but based on small numbers. It should trigger an explicit surveillance plan rather than a false certainty statement.</li>
 </ul>
-<h2>What is known about early severe disease</h2>
+<h2 id="what-is-known-about-early-severe-disease">What is known about early severe disease</h2>
 <p>The first PFIC4 report, Sambrotta et al. 2014, described 12 affected children from eight families with chronic low-GGT cholestatic liver disease. All presented in the first three months of life. The reported variants were predicted to abolish TJP2 translation; hepatic studies showed absent TJP2 protein, abnormal claudin-1 localization, and tight-junction structural disruption. Nine of 12 required liver transplant, two had stable liver disease with mild portal hypertension at ages four and seven, and one died at 13 months.</p>
 <p>This is the clearest direct PFIC4 evidence for an early severe course. It fits the mechanism: when TJP2 is absent, the canalicular tight-junction barrier can fail and bile constituents can leak or reflux into liver tissue.</p>
 <p>The 2024 Lal et al. cohort strengthens this variant-class signal. In 44 children with TJP2 deficiency-related cholestasis, those with predicted protein-truncating mutations on both alleles, labeled TJP2-C, had more early infantile cholestasis, less jaundice clearance, more ascites, higher serum bile acids, and much lower native-liver survival than children with at least one missense allele. Median age at death or liver transplant in TJP2-C was 2.5 years.</p>
-<h2>What is known about milder, recurrent, or later disease</h2>
+<h2 id="what-is-known-about-milder-recurrent-or-later-disease">What is known about milder, recurrent, or later disease</h2>
 <p>Zhang et al. 2020 reviewed seven pediatric patients with biallelic <code>TJP2</code> variants and found a broader spectrum than the original severe cohort. Their patients had remitting and persistent cholestasis; six responded to cholestyramine, ursodeoxycholic acid, or both; none required liver transplant or developed HCC or cholangiocarcinoma during the reported follow-up. Missense variants in that report decreased but did not abolish TJP2 expression in vitro.</p>
 <p>Familial hypercholanemia in Amish patients is an older example that <code>TJP2</code> biology can cause pruritus and fat malabsorption without classic progressive liver disease. That disorder involved complex inheritance with <code>TJP2</code> and <code>BAAT</code>, so it should be treated as spectrum context, not direct PFIC4 prognosis.</p>
 <p>BRIC-like or recurrent cholestasis has also been reported with a single heterozygous <code>TJP2</code> variant of uncertain functional significance. That is weak evidence for causality, but it supports the broader idea that PFIC, BRIC, ICP, and adult cholestasis can overlap across cholestasis genes.</p>
 <p>Adult family reports add another caution. Wei et al. 2020 described a homozygous nonsense <code>TJP2</code> variant in a large family with very variable expression: some homozygous adults had cirrhosis, portal hypertension, and HCC, while other homozygous siblings had elevated liver enzymes without cirrhosis at the time of evaluation. The authors raised age-dependent penetrance and modifier variants as possible explanations.</p>
-<h2>Genotype and phenotype uncertainty</h2>
+<h2 id="genotype-and-phenotype-uncertainty">Genotype and phenotype uncertainty</h2>
+<aside class="takeaway" aria-label="Key takeaway"><p><strong>Key takeaway</strong>Genotype helps frame risk; it does not determine one patient&#x27;s future.</p></aside>
+
 <p>November 2026 interpretation update: Lal et al. classified 21 children as two missense alleles, seven as missense plus predicted truncating, and 16 as two predicted truncating alleles. Its headline comparison grouped the first two categories together. A prognosis for the seven-child mixed group cannot be read directly from the pooled comparator. A pathogenic allele plus an unresolved VUS also cannot be assigned to a confirmed disease-causing genotype category without further interpretation. See <a href="pfic4-research-updates.html">current research review</a>.</p>
-<table>
+<div class="table-scroll" role="region" aria-label="Comparison table 1" tabindex="0"><table>
 <thead>
 <tr>
-<th>Variant or evidence pattern</th>
-<th>What it suggests</th>
-<th>How strong it is</th>
+<th scope="col">Variant or evidence pattern</th>
+<th scope="col">What it suggests</th>
+<th scope="col">How strong it is</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -126,12 +152,12 @@
 <td>May contribute to susceptibility, triggers, or modifier burden</td>
 <td>Weaker and more context-dependent; do not overread without genetics review</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p>The practical interpretation is not &quot;missense means mild&quot; or &quot;loss-of-function means hopeless.&quot; It is better to ask whether the exact variants are predicted to remove protein entirely, disrupt splicing, alter a key domain, or leave residual function, then compare that with the actual phenotype: bile acids, bilirubin, GGT, pruritus, growth, vitamins, INR, albumin, platelets, spleen size, imaging, elastography, fibrosis/cirrhosis, AFP, and treatment response.</p>
-<h2>HCC and progression</h2>
+<h2 id="hcc-and-progression">HCC and progression</h2>
 <p>PFIC4 has published childhood and adult HCC reports. Zhou et al. reported pediatric HCC in TJP2 deficiency, including a child with neonatal-onset intermittent jaundice who presented with acute liver failure and multifocal HCC, and another child transplanted at two years with cirrhosis and HCC found in the explant. Wei et al. reported adult cirrhosis, portal hypertension, and liver cancer in a homozygous <code>TJP2</code> family.</p>
 <p>This does not produce a reliable PFIC4-specific percentage risk. The evidence base is too small and biased toward severe reported cases. It does support asking the care team for a concrete HCC surveillance plan: when to start ultrasound and AFP, whether surveillance is every six months, and whether the threshold differs with fibrosis, cirrhosis, genotype, or transplant evaluation.</p>
-<h2>How to use this in appointments</h2>
+<h2 id="how-to-use-this-in-appointments">How to use this in appointments</h2>
 <p>Questions to ask the clinical team:</p>
 <ul>
 <li>What are the exact <code>TJP2</code> variants, transcript, cDNA/protein notation, zygosity, and phase?</li>
@@ -142,7 +168,7 @@
 <li>What objective markers define improvement, stability, or progression over the next 3-12 months?</li>
 <li>What exact findings would trigger biliary diversion discussion, transplant-center evaluation, or HCC workup?</li>
 </ul>
-<h2>Evidence limits</h2>
+<h2 id="evidence-limits">Evidence limits</h2>
 <ul>
 <li>PFIC4 cohorts remain small, and many papers are case reports or family reports.</li>
 <li>Severe cases are more likely to be published, so case reports can overstate progression risk.</li>
@@ -150,7 +176,7 @@
 <li>Genotype categories are useful but incomplete; variant interpretation can change as ClinVar, functional studies, and new cohorts grow.</li>
 <li>Treatment response can change symptoms and labs, but PFIC4-specific proof that medical therapy prevents fibrosis, HCC, or transplant remains limited.</li>
 </ul>
-<h2>Key sources</h2>
+<h2 id="key-sources">Key sources</h2>
 <ul>
 <li>Sambrotta et al., 2014, <code>TJP2</code> mutations and progressive cholestatic liver disease: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4061468/">https://pmc.ncbi.nlm.nih.gov/articles/PMC4061468/</a></li>
 <li>Zhang et al., 2020, <code>TJP2</code> hepatobiliary disorders and clinical diversity: <a href="https://pubmed.ncbi.nlm.nih.gov/31696999/">https://pubmed.ncbi.nlm.nih.gov/31696999/</a></li>
@@ -165,6 +191,17 @@
 
       </section>
     </div>
-  </main>
+  <footer class="related-pages"><h2>Related pages</h2><nav aria-label="Related pages">
+        <a href="pfic4-research-packet.html">Combined packet</a>
+        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
+        <a href="pfic4-research-updates.html">Research updates</a>
+        <a href="tjp2-related-conditions.html">Related conditions</a>
+        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
+        <a href="clinician-pfic4-brief.html">Clinician brief</a>
+        <a href="livmarli-maralixibat.html">Livmarli</a>
+        <a href="bylvay-odevixibat.html">Bylvay</a>
+        <a href="source-index.html">Sources</a>
+      </nav><p class="source-link"><a href="../markdown/pfic4-natural-history.md">Markdown source</a></p></footer>
+</main>
 </body>
 </html>

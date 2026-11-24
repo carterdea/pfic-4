@@ -8,7 +8,25 @@ Scope: this packet is mainly about confirmed PFIC4 caused by `TJP2`. Other PFIC 
 
 HTML companion: [layperson-genetic-cholestasis-overview.html](../html/layperson-genetic-cholestasis-overview.html)
 
+Packet navigation:
+
+- Overview: **[Family guide](layperson-genetic-cholestasis-overview.md)** | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Genetic cholestasis overview: **[Family guide](layperson-genetic-cholestasis-overview.md)** | [Clinician overview](clinician-genetic-cholestasis-overview.md)
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Genetic cholestasis includes different problems.** Genes can affect bile pumps, cell seals, bile-duct development, or bile-acid chemistry.
+- **PFIC4 is the TJP2 cell-seal disorder.** Other cholestasis diagnoses provide comparison context, not interchangeable treatment evidence.
+- **Tests need interpretation together.** GGT and bile-acid patterns are clues; the exact gene and variants help explain the condition.
+- **Treatment follows the underlying problem.** Bile-acid synthesis defects, Alagille syndrome, and PFIC can need different treatment and monitoring plans.
 
 Related packet pages:
 
@@ -121,6 +139,8 @@ The gene result should help the care team move from "there is cholestasis" to "w
 The gene does not answer everything by itself. The same gene can behave differently in different people, so the team still has to track symptoms, labs, growth, vitamins, imaging, fibrosis, and treatment response over time.
 
 ## Treatment buckets
+
+> **Key takeaway:** Two families can both hear "cholestasis" and need different tests, monitoring, and treatments.
 
 Different genetic cholestasis diseases can use some of the same symptom medicines, but the deeper treatment logic differs.
 

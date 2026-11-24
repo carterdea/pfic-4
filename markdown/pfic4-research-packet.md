@@ -4,7 +4,25 @@ Reviewed: 2026-05-24
 
 HTML companion: [pfic4-research-packet.html](../html/pfic4-research-packet.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | **[Combined packet](pfic4-research-packet.md)** | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Current page: Overview / Combined packet.
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **PFIC4 is linked to TJP2 barrier dysfunction.** Bile-acid leakage or reflux can contribute to itching and liver injury. Severity varies.
+- **IBAT inhibitors reduce bile-acid recycling.** Maralixibat has small randomized-trial PFIC4 subgroup inclusion. Odevixibat has direct observational TJP2 reports; its pivotal randomized trial studied PFIC1/PFIC2.
+- **Supportive treatments have distinct targets.** Gut binders, itch medicines, vitamins, and nutrition need separate evidence and safety review with the treating team.
+- **Track more than itch.** Bile acids, bilirubin, growth, vitamins, liver function, fibrosis, and HCC surveillance help guide treatment and escalation.
 
 ## November 24, 2026 expansion: start here
 
@@ -65,6 +83,8 @@ Things that may influence severity or quality of life include exact `TJP2` varia
 For a focused evidence review on early severe disease, milder/recurrent disease, and genotype-phenotype uncertainty, see [PFIC4 natural history](pfic4-natural-history.md).
 
 ## Drugs
+
+> **Key takeaway:** Symptom improvement and objective liver response need separate tracking.
 
 Dedicated drug pages:
 

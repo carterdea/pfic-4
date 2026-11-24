@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes,
 
 HTML companion: [clinician-genetic-cholestasis-overview.html](../html/clinician-genetic-cholestasis-overview.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | **[Clinician overview](clinician-genetic-cholestasis-overview.md)** | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Genetic cholestasis overview: [Family guide](layperson-genetic-cholestasis-overview.md) | **[Clinician overview](clinician-genetic-cholestasis-overview.md)**
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Use gene-first, mechanism-based framing.** Transporter, tight-junction, duct-development, and bile-acid synthesis disorders need different interpretation.
+- **PFIC, BRIC, and ICP describe clinical patterns.** Overlapping genes can produce progressive, episodic, or trigger-associated disease.
+- **GGT and bile acids are triage clues.** They do not replace variant interpretation, segregation, imaging, or specialized bile-acid testing when indicated.
+- **Transfer treatment evidence cautiously.** PFIC4/TJP2 is the packet's focus; Alagille and synthesis-defect evidence does not establish PFIC4 benefit.
 
 Related packet pages:
 
@@ -130,6 +148,8 @@ Initial workup should still protect time-sensitive diagnoses such as biliary atr
 When using a panel, check what the test actually covers: older PFIC genes alone are not enough for a modern cholestasis differential. The panel or exome/genome workflow should include copy-number analysis where relevant, current PFIC-like genes, Alagille genes, bile acid synthesis/conjugation genes, and genes that point to syndromic intestinal, renal, hearing, vascular, or ciliary disease. If the clinical picture and result disagree, re-review the phenotype and the raw variant evidence rather than forcing the patient into the nearest PFIC number.
 
 ## Treatment implications by bucket
+
+> **Key takeaway:** A shared symptom does not make the underlying diseases or their treatments interchangeable.
 
 | Bucket | Symptom management | Disease-targeted or escalation logic |
 | --- | --- | --- |

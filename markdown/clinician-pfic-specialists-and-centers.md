@@ -4,7 +4,25 @@ Reviewed: 2026-05-23
 
 HTML companion: [clinician-pfic-specialists-and-centers.html](../html/clinician-pfic-specialists-and-centers.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | **[Clinician center brief](clinician-pfic-specialists-and-centers.md)**
+- Sources: [Sources](source-index.md)
+
+Specialists and centers: [Family guide](layperson-pfic-specialists-and-centers.md) | **[Clinician brief](clinician-pfic-specialists-and-centers.md)**
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Evaluate programs by evidence and clinical fit.** This is a referral research list, not a ranking.
+- **Separate PFIC4-specific from broader PFIC expertise.** Publications, trial participation, variant interpretation, and multidisciplinary capacity provide different signals.
+- **Confirm current access and experience.** PFIC4 patient volumes and remote second-opinion availability are not established by this packet.
+- **Send a longitudinal second-opinion packet.** Include exact genetics, biochemical trends, nutrition, imaging, prior treatment response, and the clinical decision needing review.
 
 November 24, 2026 expansion: [researcher contributions, recent findings, and registry status](pfic4-research-updates.md). The older directory below remains a May snapshot, not a fresh verification of every clinician's affiliation or referral availability.
 
@@ -86,6 +104,8 @@ Public evidence was weighted in this order:
 | Root-cause therapies | Direct TJP2 preclinical work includes a 2025 mRNA patent application with cell experiments. No human TJP2 replacement trial was identified in the November 2026 registry search. See the research update; a patent does not establish clinical efficacy. |
 
 ## Suggested second-opinion packet
+
+> **Key takeaway:** The most useful referral names the decision needing review and includes the evidence behind it.
 
 - Genetic report with transcript, variant nomenclature, zygosity, classification, parental testing, and any reanalysis history.
 - Baseline and longitudinal serum bile acids, total/direct bilirubin, AST/ALT, GGT, INR, albumin, platelets, CBC, AFP.

@@ -4,7 +4,25 @@ Reviewed: 2026-05-23
 
 HTML companion: [pfic4-natural-history.html](../html/pfic4-natural-history.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | **[Natural history](pfic4-natural-history.md)** | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Current page: PFIC4 & TJP2 / Natural history.
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Published courses vary widely.** TJP2-associated disease ranges from severe infantile cholestasis to milder, recurrent, or later-recognized disease.
+- **Variant class provides clues, not a forecast.** Biallelic predicted protein-truncating variants have the strongest reported association with earlier, more severe disease.
+- **Small cohorts limit prognosis.** Case reports and family series cannot provide a reliable individual progression or cancer-risk percentage.
+- **Follow the observed course.** Treatment response, growth, liver markers, fibrosis, and an explicit HCC surveillance plan matter alongside genetics.
 
 This is a research summary about PFIC4 natural history for discussion with a hepatology, genetics, transplant, or rare-disease team. It is not medical advice and does not predict any one patient's course.
 
@@ -46,6 +64,8 @@ BRIC-like or recurrent cholestasis has also been reported with a single heterozy
 Adult family reports add another caution. Wei et al. 2020 described a homozygous nonsense `TJP2` variant in a large family with very variable expression: some homozygous adults had cirrhosis, portal hypertension, and HCC, while other homozygous siblings had elevated liver enzymes without cirrhosis at the time of evaluation. The authors raised age-dependent penetrance and modifier variants as possible explanations.
 
 ## Genotype and phenotype uncertainty
+
+> **Key takeaway:** Genotype helps frame risk; it does not determine one patient's future.
 
 November 2026 interpretation update: Lal et al. classified 21 children as two missense alleles, seven as missense plus predicted truncating, and 16 as two predicted truncating alleles. Its headline comparison grouped the first two categories together. A prognosis for the seven-child mixed group cannot be read directly from the pooled comparator. A pathogenic allele plus an unresolved VUS also cannot be assigned to a confirmed disease-causing genotype category without further interpretation. See [current research review](pfic4-research-updates.md).
 

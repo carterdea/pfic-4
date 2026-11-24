@@ -4,50 +4,82 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>TJP2 gene guide for family discussion</title>
-  <style>
-    :root { --ink:#18212f; --muted:#5c687a; --line:#d9e0ea; --paper:#fff; --soft:#f5f7fb; --accent:#0f6b7a; --accent-soft:#e3f4f6; --warning:#8a4b06; --warning-soft:#fff4df; }
-    * { box-sizing: border-box; }
-    body { margin: 0; color: var(--ink); background: var(--soft); font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    header, main { padding: 28px 24px; }
-    header { background: var(--paper); border-bottom: 1px solid var(--line); }
-    .wrap { max-width: 1080px; margin: 0 auto; }
-    h1, h2, h3 { line-height: 1.18; margin: 0 0 14px; }
-    h1 { font-size: clamp(2rem, 4vw, 3rem); }
-    h2 { font-size: 1.55rem; padding-top: 22px; border-top: 1px solid var(--line); }
-    h3 { font-size: 1.15rem; margin-top: 22px; }
-    p { margin: 0 0 14px; }
-    a { color: var(--accent); text-underline-offset: 2px; }
-    code { background: #eef2f7; border: 1px solid #dfe6ef; border-radius: 4px; padding: 0 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .93em; }
-    nav { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
-    nav a { border: 1px solid var(--line); border-radius: 6px; background: var(--paper); padding: 7px 11px; text-decoration: none; color: var(--ink); }
-    section { background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 22px; }
-    .meta { color: var(--muted); font-size: .95rem; }
-    .notice { background: var(--warning-soft); border-left: 4px solid var(--warning); padding: 12px 14px; margin: 18px 0; }
-    .callout { background: var(--accent-soft); border-left: 4px solid var(--accent); padding: 12px 14px; margin: 18px 0; }
-    ul { margin: 0 0 16px 22px; padding: 0; }
-    li { margin: 5px 0; overflow-wrap: anywhere; }
-    .source-link:not(:focus-within) { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
-  </style>
+  <link rel="stylesheet" href="packet.css">
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <h1>TJP2 gene guide for family discussion</h1>
-      <p class="source-link"><a href="../markdown/layperson-tjp2-gene-guide.md">Markdown source</a></p>
-      <nav aria-label="Related pages">
-        <a href="pfic4-research-packet.html">Combined packet</a>
-        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
-        <a href="pfic4-research-updates.html">Research updates</a>
-        <a href="tjp2-related-conditions.html">Related conditions</a>
-        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
-        <a href="clinician-pfic4-brief.html">Clinician brief</a>
-        <a href="livmarli-maralixibat.html">Livmarli</a>
-        <a href="bylvay-odevixibat.html">Bylvay</a>
-        <a href="source-index.html">Sources</a>
-      </nav>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="packet-navigation">
+  <nav class="global-nav" aria-label="Packet navigation">
+    <div class="global-nav-bar">
+      <a class="packet-brand" href="pfic4-research-packet.html">PFIC4 research</a>
+      <div class="global-topics">
+      <details class="global-topic" name="packet-topics">
+        <summary>Overview</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-genetic-cholestasis-overview.html">Family guide</a></li>
+          <li><a href="clinician-genetic-cholestasis-overview.html">Clinician overview</a></li>
+          <li><a href="pfic4-research-packet.html">Combined packet</a></li>
+          <li><a href="pfic4-parent-practical-guide.html">Practical parent guide</a></li>
+          <li><a href="pfic4-research-updates.html">Research updates</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary class="current-topic">PFIC4 &amp; TJP2</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic4-guide.html">PFIC4 family guide</a></li>
+          <li><a href="clinician-pfic4-brief.html">PFIC4 clinician brief</a></li>
+          <li><a href="layperson-tjp2-gene-guide.html" aria-current="page">TJP2 family guide</a></li>
+          <li><a href="clinician-tjp2-gene-brief.html">TJP2 clinician brief</a></li>
+          <li><a href="pfic4-natural-history.html">Natural history</a></li>
+          <li><a href="tjp2-related-conditions.html">Related conditions</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Treatments</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-treatment-escalation.html">Family escalation guide</a></li>
+          <li><a href="clinician-treatment-escalation.html">Clinician escalation brief</a></li>
+          <li><a href="cheap-generic-options-vs-ibat.html">Lower-cost options</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Drug details</summary>
+        <ul class="global-topic-list">
+          <li><a href="livmarli-maralixibat.html">Livmarli / maralixibat</a></li>
+          <li><a href="bylvay-odevixibat.html">Bylvay / odevixibat</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Specialists</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic-specialists-and-centers.html">Family center guide</a></li>
+          <li><a href="clinician-pfic-specialists-and-centers.html">Clinician center brief</a></li>
+        </ul>
+      </details>
+<a class="global-source" href="source-index.html">Sources</a>
+      </div>
     </div>
-  </header>
-  <main>
+  </nav>
+  <nav class="audience-nav" aria-label="Guide audience">
+    <span class="audience-topic">TJP2 gene</span>
+    <a href="layperson-tjp2-gene-guide.html" aria-current="page">Family guide</a>
+    <a href="clinician-tjp2-gene-brief.html">Clinician brief</a>
+  </nav>
+  </div>
+  <header><div class="wrap"><h1>TJP2 gene guide for family discussion</h1>
+<section class="page-summary" aria-labelledby="key-points">
+<h2 id="key-points">Key points</h2>
+<ul>
+<li><strong>TJP2 helps organize seals between cells.</strong> In the liver, these seals help keep bile inside tiny bile channels.</li>
+<li><strong>PFIC4 usually involves both gene copies.</strong> A genetics team should interpret the exact variants, inheritance, and family testing needs.</li>
+<li><strong>The gene name does not predict one fixed course.</strong> Published TJP2 disease ranges from milder or recurrent cholestasis to severe childhood liver disease.</li>
+<li><strong>Treatment can reduce downstream burden.</strong> IBAT inhibitors may reduce bile-acid recycling, but they do not repair the TJP2 defect.</li>
+</ul>
+</section>
+
+<nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#plain-english-summary">Plain-English summary</a></li><li><a href="#how-inheritance-usually-works">How inheritance usually works</a></li><li><a href="#what-tjp2-does-in-the-liver">What TJP2 does in the liver</a></li><li><a href="#what-this-does-and-does-not-mean">What this does and does not mean</a></li><li><a href="#why-the-gene-matters-for-care">Why the gene matters for care</a></li><li><a href="#what-to-ask-the-care-team">What to ask the care team</a></li><li><a href="#key-sources">Key sources</a></li></ul></nav>
+</div></header>
+  <main id="main">
     <div class="wrap">
       <section>
 <p>Reviewed: 2026-05-23</p>
@@ -63,11 +95,11 @@
 <li><a href="clinician-tjp2-gene-brief.html">TJP2 clinician gene brief</a></li>
 <li><a href="source-index.html">Source index</a></li>
 </ul>
-<h2>Plain-English summary</h2>
+<h2 id="plain-english-summary">Plain-English summary</h2>
 <p><code>TJP2</code> is the gene that tells the body how to make tight junction protein 2, also called ZO-2. Tight junctions help cells seal to each other. In the liver, those seals help keep bile in the tiny bile channels where it belongs.</p>
 <p>PFIC4 happens when disease-causing changes in <code>TJP2</code> weaken that seal. Bile acids can leak back toward liver cells instead of staying safely inside the bile pathway. Bile acids are useful for digestion, but they can irritate and injure liver tissue when they build up or leak into the wrong place. That helps explain itching, cholestasis, and possible liver scarring over time.</p>
 <p>The gene result names the cause of the disease. It does not automatically predict exactly how severe the disease will be, how fast it will change, or which treatment will work best.</p>
-<h2>How inheritance usually works</h2>
+<h2 id="how-inheritance-usually-works">How inheritance usually works</h2>
 <p>Most PFIC4 is autosomal recessive. That usually means:</p>
 <ul>
 <li>A person has two copies of <code>TJP2</code>, one from each biological parent.</li>
@@ -77,7 +109,7 @@
 <li>When both parents are carriers, each pregnancy has a chance of an affected child, a carrier child, or a child who inherited neither changed copy.</li>
 </ul>
 <p>The exact family risk depends on the exact variants and family testing. A genetic counselor can translate the report into inheritance and testing recommendations for relatives.</p>
-<h2>What TJP2 does in the liver</h2>
+<h2 id="what-tjp2-does-in-the-liver">What TJP2 does in the liver</h2>
 <p>Think of liver cells as forming tiny channels that carry bile. Tight junctions are part of the seal around those channels. TJP2 helps organize that seal.</p>
 <p>When TJP2 is missing or not working well:</p>
 <ul>
@@ -88,10 +120,12 @@
 <li>Itching can be severe because bile acids and cholestasis affect itch pathways.</li>
 </ul>
 <p>This is different from some other PFIC types where the main issue is a bile transporter pump. PFIC4 is more of a barrier problem.</p>
-<h2>What this does and does not mean</h2>
+<h2 id="what-this-does-and-does-not-mean">What this does and does not mean</h2>
 <p>PFIC4 is not caused by parenting choices, diet, infection, or lifestyle. Food, hydration, illness, sleep, and medications can affect day-to-day symptoms and nutrition, but they are not the root genetic cause.</p>
 <p>The same gene name can still cover a wide range of disease. Some <code>TJP2</code> changes may stop the protein from being made. Other changes may leave some protein function. Published reports show that PFIC4 can range from recurrent or milder cholestasis to severe childhood liver disease. That is why objective follow-up matters even when symptoms improve.</p>
-<h2>Why the gene matters for care</h2>
+<h2 id="why-the-gene-matters-for-care">Why the gene matters for care</h2>
+<aside class="takeaway" aria-label="Key takeaway"><p><strong>Key takeaway</strong>The genetic result and the actual course of liver disease both matter for care.</p></aside>
+
 <p>The <code>TJP2</code> result can help the care team:</p>
 <ul>
 <li>Confirm the PFIC4 diagnosis.</li>
@@ -102,7 +136,7 @@
 </ul>
 <p>Current PFIC medicines such as maralixibat and odevixibat do not repair <code>TJP2</code>. They reduce bile-acid recirculation from the intestine back to the liver. If they help, that is still meaningful because lowering the bile-acid burden can improve itch and lab markers.</p>
 <p>For a step-by-step treatment escalation discussion, see <a href="layperson-treatment-escalation.html">PFIC4 treatment escalation guide for family discussion</a>.</p>
-<h2>What to ask the care team</h2>
+<h2 id="what-to-ask-the-care-team">What to ask the care team</h2>
 <p>For a November 2026 review of other conditions associated with this gene, rare eye/hearing reports, and symptoms that can instead arise from vitamin deficiency, see <a href="tjp2-related-conditions.html">TJP2 and related conditions</a>. A condition listed next to a gene is not a diagnosis of that condition in every person with a variant.</p>
 <ul>
 <li>What are the exact <code>TJP2</code> variants on the genetic report?</li>
@@ -114,7 +148,7 @@
 <li>What is the plan for liver cancer screening in PFIC4?</li>
 <li>What findings would make the team discuss biliary diversion or transplant evaluation?</li>
 </ul>
-<h2>Key sources</h2>
+<h2 id="key-sources">Key sources</h2>
 <ul>
 <li>NCBI Gene: <code>TJP2</code> / Gene ID 9414: <a href="https://www.ncbi.nlm.nih.gov/gene/9414">https://www.ncbi.nlm.nih.gov/gene/9414</a></li>
 <li>NIH GARD PFIC4: <a href="https://rarediseases.info.nih.gov/diseases/9803/cholestasis-progressive-familial-intrahepatic-4">https://rarediseases.info.nih.gov/diseases/9803/cholestasis-progressive-familial-intrahepatic-4</a></li>
@@ -126,6 +160,17 @@
 
       </section>
     </div>
-  </main>
+  <footer class="related-pages"><h2>Related pages</h2><nav aria-label="Related pages">
+        <a href="pfic4-research-packet.html">Combined packet</a>
+        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
+        <a href="pfic4-research-updates.html">Research updates</a>
+        <a href="tjp2-related-conditions.html">Related conditions</a>
+        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
+        <a href="clinician-pfic4-brief.html">Clinician brief</a>
+        <a href="livmarli-maralixibat.html">Livmarli</a>
+        <a href="bylvay-odevixibat.html">Bylvay</a>
+        <a href="source-index.html">Sources</a>
+      </nav><p class="source-link"><a href="../markdown/layperson-tjp2-gene-guide.md">Markdown source</a></p></footer>
+</main>
 </body>
 </html>

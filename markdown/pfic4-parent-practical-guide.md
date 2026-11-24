@@ -4,7 +4,25 @@ Research checked: 2026-11-24. Use this to prepare conversations with the treatin
 
 HTML companion: [pfic4-parent-practical-guide.html](../html/pfic4-parent-practical-guide.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | **[Practical parent guide](pfic4-parent-practical-guide.md)** | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Current page: Overview / Practical parent guide.
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Track each child separately.** A sibling's response or difficult year does not predict the other child's course.
+- **Ask about quality of life and liver stability.** Less scratching and better sleep matter, but do not answer every progression question.
+- **Get the follow-up plan in writing.** Name the tests, surveillance schedule, escalation triggers, and person reviewing results.
+- **Include nutrition, school, and family burden.** Sleep, feeding, school participation, and caregiver exhaustion are care needs.
 
 Related: [Combined packet](pfic4-research-packet.md), [research and researchers](pfic4-research-updates.md), [related conditions](tjp2-related-conditions.md), [treatment escalation](layperson-treatment-escalation.md), [source index](source-index.md).
 

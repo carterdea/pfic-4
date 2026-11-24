@@ -4,52 +4,86 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>A practical PFIC4 guide for parents</title>
-  <style>
-    * { box-sizing: border-box; }
-    body { margin: 0; color: #18212f; background: white; font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    header, main { max-width: 1120px; padding: 28px 24px; margin: 0 auto; }
-    header { border-bottom: 1px solid #d9e0ea; }
-    h1, h2, h3 { line-height: 1.25; }
-    h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 0 0 16px; }
-    h2 { font-size: 1.5rem; margin-top: 2.4rem; }
-    h3 { font-size: 1.15rem; margin-top: 1.8rem; }
-    a { color: #0f6b7a; text-underline-offset: 2px; overflow-wrap: anywhere; }
-    nav { display: flex; flex-wrap: wrap; gap: 10px 20px; }
-    p, ul, ol { margin: 0 0 18px; }
-    li { margin: 7px 0; }
-    code { font-size: .92em; overflow-wrap: anywhere; }
-    table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: .95rem; }
-    th, td { border: 1px solid #d9e0ea; padding: 10px; vertical-align: top; text-align: left; }
-    th { background: #f2f5f6; }
-    img { max-width: 100%; height: auto; }
-    @media (max-width: 760px) { header, main { padding: 20px 16px; } table { display: block; overflow-x: auto; } }
-    @media print { nav { display: none; } header, main { max-width: none; padding: 0; } h2, h3 { break-after: avoid; } tr { break-inside: avoid; } }
-    .source-link:not(:focus-within) { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
-</style>
+  <link rel="stylesheet" href="packet.css">
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <h1>A practical PFIC4 guide for parents</h1>
-      <p class="source-link"><a href="../markdown/pfic4-parent-practical-guide.md">Markdown source</a></p>
-      <nav aria-label="Related pages">
-        <a href="pfic4-research-packet.html">Combined packet</a>
-        <a href="pfic4-research-updates.html">Research updates</a>
-        <a href="tjp2-related-conditions.html">Related conditions</a>
-        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
-        <a href="clinician-pfic4-brief.html">Clinician brief</a>
-        <a href="livmarli-maralixibat.html">Livmarli</a>
-        <a href="bylvay-odevixibat.html">Bylvay</a>
-        <a href="source-index.html">Sources</a>
-      </nav>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="packet-navigation">
+  <nav class="global-nav" aria-label="Packet navigation">
+    <div class="global-nav-bar">
+      <a class="packet-brand" href="pfic4-research-packet.html">PFIC4 research</a>
+      <div class="global-topics">
+      <details class="global-topic" name="packet-topics">
+        <summary class="current-topic">Overview</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-genetic-cholestasis-overview.html">Family guide</a></li>
+          <li><a href="clinician-genetic-cholestasis-overview.html">Clinician overview</a></li>
+          <li><a href="pfic4-research-packet.html">Combined packet</a></li>
+          <li><a href="pfic4-parent-practical-guide.html" aria-current="page">Practical parent guide</a></li>
+          <li><a href="pfic4-research-updates.html">Research updates</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>PFIC4 &amp; TJP2</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic4-guide.html">PFIC4 family guide</a></li>
+          <li><a href="clinician-pfic4-brief.html">PFIC4 clinician brief</a></li>
+          <li><a href="layperson-tjp2-gene-guide.html">TJP2 family guide</a></li>
+          <li><a href="clinician-tjp2-gene-brief.html">TJP2 clinician brief</a></li>
+          <li><a href="pfic4-natural-history.html">Natural history</a></li>
+          <li><a href="tjp2-related-conditions.html">Related conditions</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Treatments</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-treatment-escalation.html">Family escalation guide</a></li>
+          <li><a href="clinician-treatment-escalation.html">Clinician escalation brief</a></li>
+          <li><a href="cheap-generic-options-vs-ibat.html">Lower-cost options</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Drug details</summary>
+        <ul class="global-topic-list">
+          <li><a href="livmarli-maralixibat.html">Livmarli / maralixibat</a></li>
+          <li><a href="bylvay-odevixibat.html">Bylvay / odevixibat</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Specialists</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic-specialists-and-centers.html">Family center guide</a></li>
+          <li><a href="clinician-pfic-specialists-and-centers.html">Clinician center brief</a></li>
+        </ul>
+      </details>
+<a class="global-source" href="source-index.html">Sources</a>
+      </div>
     </div>
-  </header>
-  <main>
+  </nav>
+  <div class="audience-nav">
+    <span class="audience-topic">Overview</span>
+    <span>Practical parent guide</span>
+  </div>
+  </div>
+  <header><div class="wrap"><h1>A practical PFIC4 guide for parents</h1>
+<section class="page-summary" aria-labelledby="key-points">
+<h2 id="key-points">Key points</h2>
+<ul>
+<li><strong>Track each child separately.</strong> A sibling&#x27;s response or difficult year does not predict the other child&#x27;s course.</li>
+<li><strong>Ask about quality of life and liver stability.</strong> Less scratching and better sleep matter, but do not answer every progression question.</li>
+<li><strong>Get the follow-up plan in writing.</strong> Name the tests, surveillance schedule, escalation triggers, and person reviewing results.</li>
+<li><strong>Include nutrition, school, and family burden.</strong> Sleep, feeding, school participation, and caregiver exhaustion are care needs.</li>
+</ul>
+</section>
+
+<nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#the-parent-takeaways-i-would-put-first">The parent takeaways I would put first</a></li><li><a href="#understand-what-the-medicines-are-accomplishing">Understand what the medicines are accomplishing</a></li><li><a href="#a-separate-one-page-follow-up-sheet-for-each-child">A separate one-page follow-up sheet for each child</a></li><li><a href="#get-a-specific-surveillance-plan">Get a specific surveillance plan</a></li><li><a href="#nutrition-is-more-than-eating-enough">Nutrition is more than eating enough</a></li><li><a href="#medicines-make-the-household-instructions-unambiguous">Medicines: make the household instructions unambiguous</a></li><li><a href="#sleep-school-and-family-life-belong-in-the-treatment-goals">Sleep, school, and family life belong in the treatment goals</a></li><li><a href="#plan-for-problems-before-they-happen">Plan for problems before they happen</a></li><li><a href="#what-a-second-opinion-should-answer">What a second opinion should answer</a></li><li><a href="#unresolved-questions-to-take-to-the-next-visit">Unresolved questions to take to the next visit</a></li></ul></nav>
+</div></header>
+  <main id="main">
     <div class="wrap">
       <section>
 <p>Research checked: 2026-11-24. Use this to prepare conversations with the treating team. It does not set medication doses or replace each child&#39;s care plan.</p>
 <p>Related: <a href="pfic4-research-packet.html">Combined packet</a>, <a href="pfic4-research-updates.html">research and researchers</a>, <a href="tjp2-related-conditions.html">related conditions</a>, <a href="layperson-treatment-escalation.html">treatment escalation</a>, <a href="source-index.html">source index</a>.</p>
-<h2>The parent takeaways I would put first</h2>
+<h2 id="the-parent-takeaways-i-would-put-first">The parent takeaways I would put first</h2>
 <ol>
 <li>Track each child&#39;s course separately. A sibling&#39;s good response or difficult year is not a forecast for the other child.</li>
 <li>Ask two questions about treatment: &quot;Is life better?&quot; and &quot;Is the liver stable?&quot; Better sleep and less scratching matter, but they do not answer every progression question.</li>
@@ -59,18 +93,18 @@
 <li>Follow root-cause research with specific milestones. A patent or conference presentation does not yet provide a treatment a child can receive.</li>
 </ol>
 <p>These are priorities drawn from the evidence review and proposed organization for family care, not a validated PFIC4 decision score.</p>
-<h2>Understand what the medicines are accomplishing</h2>
+<h2 id="understand-what-the-medicines-are-accomplishing">Understand what the medicines are accomplishing</h2>
 <p>The tight-junction defect can disturb both the seal around bile channels and the organization of the bile-draining surface of liver cells. Reducing bile-acid recirculation can reduce stress downstream without repairing TJP2. The <a href="pfic4-research-updates.html">research update</a> explains the human-cell evidence and treatment studies.</p>
 <p>Before a medication change, agree on a baseline, goals, a review date, and a plan for side effects. Include the child&#39;s own report when age permits. Ask what would count as inadequate response despite better itching, and what would count as meaningful benefit even if a laboratory result remains abnormal.</p>
 <p>There is no established PFIC4-specific serum bile-acid number that guarantees protection from transplant or HCC. Ask the team to explain the target it uses and the evidence behind it.</p>
-<h2>A separate one-page follow-up sheet for each child</h2>
+<h2 id="a-separate-one-page-follow-up-sheet-for-each-child">A separate one-page follow-up sheet for each child</h2>
 <p>The table is a proposed visit aid. The care team chooses which measures are needed and how often. Keep dates, units, reference ranges, medication exposure, and illness context with every result. Compare trends, not isolated values.</p>
-<table>
+<div class="table-scroll" role="region" aria-label="Comparison table 1" tabindex="0"><table>
 <thead>
 <tr>
-<th>Domain</th>
-<th>What to record or request</th>
-<th>What it helps the team assess</th>
+<th scope="col">Domain</th>
+<th scope="col">What to record or request</th>
+<th scope="col">What it helps the team assess</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -118,9 +152,9 @@
 <td>Actual product, concentration, dose, weight at prescription, timing, missed doses, refill barriers, adverse effects.</td>
 <td>Whether a change reflects disease, exposure, tolerability, or interrupted supply.</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p>Background: <a href="https://www.ncbi.nlm.nih.gov/books/NBK584020/">GeneReviews</a> and <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10772241/">PFIC diagnosis/treatment opinion paper</a>. The checklist is not an instruction to obtain every test at every visit.</p>
-<h2>Get a specific surveillance plan</h2>
+<h2 id="get-a-specific-surveillance-plan">Get a specific surveillance plan</h2>
 <p>Childhood HCC has been reported with TJP2 deficiency. This warrants a clear plan without assigning a frightening risk percentage that current cohorts cannot support. Ask:</p>
 <ul>
 <li>Does this center start PFIC4 cancer surveillance at diagnosis, or use another threshold?</li>
@@ -130,14 +164,14 @@
 <li>Does the plan change after a strong medication response?</li>
 </ul>
 <p>Do not wait for visible jaundice or a return of itch to ask these questions. See <a href="pfic4-natural-history.html">natural history and HCC evidence</a>.</p>
-<h2>Nutrition is more than eating enough</h2>
+<h2 id="nutrition-is-more-than-eating-enough">Nutrition is more than eating enough</h2>
 <p>PFIC Network&#39;s August 2026 nutrition guidance explains that ordinary multivitamins can be inadequate when fat absorption is impaired and that water-miscible formulations may improve absorption. MCT-enriched nutrition can help some children, but it does not replace every required dietary fat. A pediatric liver dietitian should individualize calories, protein, fat composition, and vitamin replacement. Do not independently remove fat or whole food groups to try to treat the gene defect. <a href="https://www.pfic.org/network_library/nutritional-management-of-pfic/">Laura Bull&#39;s nutrition guidance</a>.</p>
 <p>Ask whether growth is following the child&#39;s own trajectory, how vitamin replacement will be checked, whether feeding has become stressful, and who can help with product coverage. Dietitian, feeding, and psychological support can address different parts of the same difficulty.</p>
-<h2>Medicines: make the household instructions unambiguous</h2>
+<h2 id="medicines-make-the-household-instructions-unambiguous">Medicines: make the household instructions unambiguous</h2>
 <p>Have the pharmacist check the entire schedule, including vitamins and any bile-acid binder. Both U.S. IBAT labels require separation from bile-acid binding resins. Exact concentration, formulation, storage, administration, and missed-dose instructions should come from the child&#39;s prescription and current label. Never infer a sibling&#39;s dose from the other child&#39;s bottle.</p>
 <p>The labels require liver-test and vitamin monitoring and address persistent diarrhea, dehydration, bleeding, and liver decompensation. Ask for a written call/hold/restart plan; do not create one from this packet. <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167">Livmarli label</a>, <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa">Bylvay label</a>.</p>
 <p>For two affected children, a practical arrangement is a separately labeled medication list, dosing tools, follow-up sheet, and refill record for each. Ask whether appointments and routine labs can be coordinated while preserving separate clinical decisions.</p>
-<h2>Sleep, school, and family life belong in the treatment goals</h2>
+<h2 id="sleep-school-and-family-life-belong-in-the-treatment-goals">Sleep, school, and family life belong in the treatment goals</h2>
 <p>The 2026 PFIC registry baseline study included 161 people across PFIC and BRIC diagnoses. More severe itch was associated with worse sleep and lower family quality of life. Families also reported substantial financial and care-access burdens. This was a voluntary registry association study, not proof that one treatment solves these problems or a PFIC4-only estimate. <a href="https://pubmed.ncbi.nlm.nih.gov/41609050/">Fischer, Lubke and colleagues</a>.</p>
 <p>Practical discussion prompts:</p>
 <ul>
@@ -148,10 +182,10 @@
 <li>Psychological support can help a child and family manage a demanding illness. It does not imply that cholestatic itch is imagined.</li>
 </ul>
 <p>These are proposed accommodations to discuss, not legal eligibility advice or a required school policy.</p>
-<h2>Plan for problems before they happen</h2>
+<h2 id="plan-for-problems-before-they-happen">Plan for problems before they happen</h2>
 <p>Seek emergency assessment for vomiting blood, black/tarry stool suggesting bleeding, sudden confusion or marked difficulty waking, or serious breathing difficulty. Heavy bleeding or severe dehydration also warrants urgent assessment. Contact the liver team promptly for new abdominal swelling, substantially worsening jaundice, unusual bruising/bleeding, or persistent vomiting/diarrhea, following their specific instructions. This is not an exhaustive triage list. <a href="https://www.ncbi.nlm.nih.gov/books/NBK584020/">Clinical overview</a>.</p>
 <p>Ask the team to document the after-hours number, where to go, which records to carry, how to manage illness affecting oral intake, and when medicine side effects require a call. Ask about immunizations and precautions for the child&#39;s current stage, especially if transplant evaluation may become relevant.</p>
-<h2>What a second opinion should answer</h2>
+<h2 id="what-a-second-opinion-should-answer">What a second opinion should answer</h2>
 <p>Bring the genetic report, later segregation or reanalysis results, longitudinal labs, imaging, growth charts, medication-response history, and symptom goals. Ask for a written opinion on:</p>
 <ul>
 <li>How secure and complete is the molecular explanation?</li>
@@ -161,7 +195,7 @@
 <li>Is there a research registry or TJP2-specific study that fits?</li>
 </ul>
 <p>A transplant consultation can clarify future options before an emergency; it is not the same as deciding to transplant now. A transplant replaces the liver but also brings surgery, lifelong follow-up, and immunosuppression. Other PFIC subtypes have different extrahepatic and recurrence issues, so ask for TJP2-specific counseling. See <a href="layperson-treatment-escalation.html">escalation guide</a>.</p>
-<h2>Unresolved questions to take to the next visit</h2>
+<h2 id="unresolved-questions-to-take-to-the-next-visit">Unresolved questions to take to the next visit</h2>
 <ul>
 <li>Are both children&#39;s exact variants, phase, and updated interpretations documented individually?</li>
 <li>What are the next three measurable goals for each child, and when will they be reviewed?</li>
@@ -172,6 +206,16 @@
 
       </section>
     </div>
-  </main>
+  <footer class="related-pages"><h2>Related pages</h2><nav aria-label="Related pages">
+        <a href="pfic4-research-packet.html">Combined packet</a>
+        <a href="pfic4-research-updates.html">Research updates</a>
+        <a href="tjp2-related-conditions.html">Related conditions</a>
+        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
+        <a href="clinician-pfic4-brief.html">Clinician brief</a>
+        <a href="livmarli-maralixibat.html">Livmarli</a>
+        <a href="bylvay-odevixibat.html">Bylvay</a>
+        <a href="source-index.html">Sources</a>
+      </nav><p class="source-link"><a href="../markdown/pfic4-parent-practical-guide.md">Markdown source</a></p></footer>
+</main>
 </body>
 </html>

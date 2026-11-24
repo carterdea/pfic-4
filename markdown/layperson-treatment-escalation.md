@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Treatments used in o
 
 HTML companion: [layperson-treatment-escalation.html](../html/layperson-treatment-escalation.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: **[Family escalation guide](layperson-treatment-escalation.md)** | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Treatment escalation: **[Family guide](layperson-treatment-escalation.md)** | [Clinician brief](clinician-treatment-escalation.md)
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Treatment has several targets.** Itch, bile-acid burden, growth, nutrition, and liver health need attention together.
+- **IBAT inhibitors and supportive medicines have different roles.** Maralixibat has small PFIC4 trial-subgroup inclusion; many older itch medicines rely on broader cholestasis evidence.
+- **Nutrition and vitamins continue throughout care.** They support growth and address malabsorption while other treatments are assessed.
+- **Escalation depends on symptoms and liver status.** Inadequate control may prompt expert discussion of biliary diversion or transplant evaluation. Advanced liver disease changes those decisions.
 
 Related packet files:
 
@@ -40,6 +58,8 @@ PFIC4 is caused by `TJP2` changes that affect tight junctions, the seals between
 | Liver transplant evaluation | If liver disease progresses, cancer is suspected, or symptoms/growth/nutrition remain severe despite other options | Replace the liver when risk or suffering becomes too high for other approaches. |
 
 ## What the team watches before escalating
+
+> **Key takeaway:** Less scratching is only one part of treatment response. Growth, blood tests, vitamins, and liver status also matter.
 
 Bring visits back to objective markers. A patient can feel better while some lab risks remain, or labs can improve while itch still ruins sleep.
 

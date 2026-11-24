@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Non-PFIC `TJP2` asso
 
 HTML companion: [clinician-tjp2-gene-brief.html](../html/clinician-tjp2-gene-brief.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | **[TJP2 clinician brief](clinician-tjp2-gene-brief.md)** | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+TJP2 gene: [Family guide](layperson-tjp2-gene-guide.md) | **[Clinician brief](clinician-tjp2-gene-brief.md)**
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **TJP2 encodes ZO-2, a tight-junction protein.** Biallelic pathogenic variants are associated with PFIC4.
+- **The working mechanism is barrier dysfunction.** Disrupted junction organization and claudin-1 localization can permit bile reflux or leakage.
+- **Variant interpretation needs clinical context.** Confirm transcript, phase, classification, and possible residual function; genotype does not fully predict phenotype.
+- **Treatment addresses downstream consequences.** Enterohepatic interruption does not repair TJP2. Longitudinal liver markers and an explicit HCC surveillance plan remain important.
 
 Related packet files:
 
@@ -77,6 +95,8 @@ Monitoring questions to clarify:
 - Are there extrahepatic screening needs based on the exact variants or patient phenotype?
 
 ## Treatment relevance
+
+> **Key takeaway:** Reducing the bile-acid pool does not correct the underlying tight-junction defect.
 
 The gene-level defect is not currently corrected by approved PFIC medications. Current treatment logic is indirect:
 

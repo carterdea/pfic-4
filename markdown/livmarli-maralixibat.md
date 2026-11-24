@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Livmarli's broader P
 
 HTML companion: [livmarli-maralixibat.html](../html/livmarli-maralixibat.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: **[Livmarli / maralixibat](livmarli-maralixibat.md)** | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Current page: Drug details / Livmarli / maralixibat.
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Maralixibat reduces bile-acid recycling.** It blocks intestinal reabsorption without repairing the TJP2 defect.
+- **PFIC4 patients were directly included.** MARCH-PFIC included a small TJP2/PFIC4 subgroup. The broader trial result is not a large PFIC4-specific result.
+- **Formulation matters.** The reviewed label distinguishes PFIC solution strength from the Alagille solution and limits tablet eligibility by weight and swallowing ability.
+- **Response needs safety monitoring.** Liver tests, diarrhea and hydration, fat-soluble vitamins, and INR matter. Public price examples below are historical, not expected out-of-pocket costs.
 
 Related packet files:
 
@@ -93,6 +111,8 @@ Trial 2 rates highlighted in the label/subagent review included diarrhea 57.4% w
 
 ## Trial evidence
 
+> **Key takeaway:** Direct PFIC4 trial inclusion is useful evidence, but the subgroup was very small.
+
 This table focuses on PFIC-relevant maralixibat trials. It does not list every maralixibat study in other cholestatic diseases such as Alagille syndrome.
 
 | Trial | Design | Population | PFIC4 relevance | Main evidence signal | Practical read |
@@ -109,7 +129,7 @@ PFIC4 read: this is supportive because PFIC4 patients were directly included, bu
 
 Drugs.com price guide examples checked on 2026-05-23. These are public cash-price examples, not expected out-of-pocket costs. Real cost depends on dose, formulation, insurance, specialty pharmacy, and assistance programs.
 
-| "Plan" style card | What the public listing showed | Simple read |
+| Public example | What the public listing showed | Simple read |
 | --- | --- | --- |
 | Oral liquid public example | 9.5 mg/mL oral liquid from about $56,957 per 30 mL | About $1,899 per mL in the visible public listing. PFIC uses the 19 mg/mL solution, so do not use this to calculate the actual PFIC cost. |
 | Tablet public example | 10 mg tablets from about $59,955 per 30 tablets | About $1,999 per tablet. Tablet use depends on weight and ability to swallow tablets. |

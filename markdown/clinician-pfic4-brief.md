@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2, not other PFIC subty
 
 HTML companion: [clinician-pfic4-brief.html](../html/clinician-pfic4-brief.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | **[PFIC4 clinician brief](clinician-pfic4-brief.md)** | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+PFIC4: [Family guide](layperson-pfic4-guide.md) | **[Clinician brief](clinician-pfic4-brief.md)**
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **PFIC4 is a TJP2-associated barrier disorder.** Tight-junction dysfunction can permit paracellular bile reflux or leakage; it is not primarily a BSEP pump defect.
+- **IBAT evidence differs by drug.** MARCH-PFIC included a very small TJP2/PFIC4 subgroup. Odevixibat has direct observational TJP2 reports, while PEDFIC 1 studied PFIC1/PFIC2.
+- **Separate symptom response from disease modification.** Follow serum bile acids, bilirubin, synthetic function, growth, vitamins, fibrosis, and portal-hypertension markers alongside itch.
+- **Make escalation and HCC surveillance explicit.** Refractory symptoms, nutritional failure, progression, decompensation, or malignancy concern require specialist review.
 
 Targeted evidence update, 2026-11-24: [research/researcher review](pfic4-research-updates.md), [non-liver associations and differential](tjp2-related-conditions.md), and [parent visit guide](pfic4-parent-practical-guide.md). See these for direct TJP2 odevixibat reports, TJP2 mRNA preclinical work, variant-class limitations, and 2026 patient-reported outcomes. Older pricing and conference snapshots below keep their original dates.
 
@@ -46,6 +64,8 @@ Expected clinical pattern:
 
 ## Current PFIC-directed drug options
 
+> **Key takeaway:** PFIC4 trial inclusion supports cautious interpretation, not certainty about long-term disease modification.
+
 ### Comparison table
 
 Prices below are public cash/price-guide examples checked on 2026-05-23, not expected out-of-pocket cost. Dose, formulation, insurance coverage, manufacturer assistance, and specialty-pharmacy contracts can dominate actual cost.
@@ -73,7 +93,7 @@ Prices below are public cash/price-guide examples checked on 2026-05-23, not exp
 | Odevixibat | PEDFIC 1 / NCT03566238 | Phase 3, 24-week randomized placebo-controlled trial; 62 pediatric PFIC1/PFIC2 patients. | Positive pruritus assessments 55% combined odevixibat vs 30% placebo; serum bile-acid response 33% vs 0%. | No PFIC4 in pivotal randomized trial. |
 | Odevixibat | PEDFIC 2 / NCT03659916 | Open-label extension and broader PFIC enrollment; EU results report 116 participants through a 2024 cutoff. | Longer-term serum bile-acid and pruritus response signals; EMA product information describes broader PFIC subgroups including PFIC3/PFIC4/PFIC6/episodic PFIC. | Broader-genotype support, but open-label and weaker than PFIC4-specific randomized evidence. |
 
-### Public price examples in card form
+### Public price examples
 
 These are public cash-price examples, not expected out-of-pocket cost. Dose, formulation, insurance coverage, manufacturer assistance, and specialty-pharmacy contracts can dominate actual cost.
 

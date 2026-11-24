@@ -4,7 +4,25 @@ Reviewed: 2026-05-23
 
 HTML companion: [layperson-pfic-specialists-and-centers.html](../html/layperson-pfic-specialists-and-centers.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: **[Family center guide](layperson-pfic-specialists-and-centers.md)** | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Specialists and centers: **[Family guide](layperson-pfic-specialists-and-centers.md)** | [Clinician brief](clinician-pfic-specialists-and-centers.md)
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Use this as a shortlist to investigate.** The programs and people below are not a hospital ranking.
+- **Look for relevant experience.** PFIC/genetic cholestasis work, pediatric hepatology, transplant access, genetics, and nutrition support are useful signals.
+- **Verify practical fit directly.** Age, geography, insurance, consultation availability, and the specific second-opinion question affect the choice.
+- **Bring records that show the course over time.** Exact TJP2 variants, laboratory trends, imaging, growth, and medication responses help a specialist assess the case.
 
 For the November 24, 2026 researcher shortlist, each group's recent work, and the questions they are equipped to answer, read [research updates and researchers](pfic4-research-updates.md). The directory below retains its May review date; current appointment availability and remote-review pathways need confirmation.
 
@@ -91,6 +109,8 @@ This list means "publicly visible PFIC or genetic cholestasis leadership," not "
 - Root-cause therapy is still research-stage. A 2025 TJP2 mRNA patent describes cell experiments; it does not establish an available treatment. See the updated review for details and limits.
 
 ## How to choose who to contact first
+
+> **Key takeaway:** Public PFIC research activity is a useful signal, not proof of experience with a specific TJP2 variant.
 
 Start with practical constraints, then expertise:
 

@@ -4,241 +4,85 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>PFIC4 research packet</title>
-  <style>
-    :root {
-      color-scheme: light;
-      --ink: #18212f;
-      --muted: #5c687a;
-      --line: #d9e0ea;
-      --paper: #ffffff;
-      --soft: #f5f7fb;
-      --accent: #0f6b7a;
-      --accent-soft: #e3f4f6;
-      --warning: #8a4b06;
-      --warning-soft: #fff4df;
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      color: var(--ink);
-      background: var(--soft);
-      font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
-
-    header {
-      background: var(--paper);
-      border-bottom: 1px solid var(--line);
-      padding: 36px 24px 28px;
-    }
-
-    .wrap {
-      max-width: 1080px;
-      margin: 0 auto;
-    }
-
-    h1, h2, h3 {
-      line-height: 1.18;
-      margin: 0 0 14px;
-    }
-
-    h1 {
-      font-size: clamp(2rem, 4vw, 3.25rem);
-      letter-spacing: 0;
-    }
-
-    h2 {
-      font-size: 1.7rem;
-      padding-top: 22px;
-      border-top: 1px solid var(--line);
-    }
-
-    h3 {
-      font-size: 1.18rem;
-      margin-top: 26px;
-    }
-
-    p {
-      margin: 0 0 14px;
-    }
-
-    a {
-      color: var(--accent);
-      text-decoration-thickness: 1px;
-      text-underline-offset: 2px;
-    }
-
-    code {
-      background: #eef2f7;
-      border: 1px solid #dfe6ef;
-      border-radius: 4px;
-      padding: 0 4px;
-      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-      font-size: 0.93em;
-    }
-
-    nav {
-      margin-top: 22px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
-
-    nav a {
-      display: inline-flex;
-      align-items: center;
-      min-height: 36px;
-      border: 1px solid var(--line);
-      border-radius: 6px;
-      background: var(--paper);
-      padding: 7px 11px;
-      text-decoration: none;
-      color: var(--ink);
-    }
-
-    main {
-      padding: 26px 24px 56px;
-    }
-
-    section {
-      background: var(--paper);
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      padding: 24px;
-      margin-bottom: 22px;
-    }
-
-    .meta {
-      color: var(--muted);
-      font-size: 0.95rem;
-    }
-
-    .notice {
-      background: var(--warning-soft);
-      border-left: 4px solid var(--warning);
-      padding: 12px 14px;
-      margin: 18px 0;
-    }
-
-    .callout {
-      background: var(--accent-soft);
-      border-left: 4px solid var(--accent);
-      padding: 12px 14px;
-      margin: 18px 0;
-    }
-
-    ul, ol {
-      margin: 0 0 16px 22px;
-      padding: 0;
-    }
-
-    li {
-      margin: 5px 0;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 14px 0 20px;
-      font-size: 0.95rem;
-    }
-
-    th, td {
-      border: 1px solid var(--line);
-      padding: 9px 10px;
-      text-align: left;
-      vertical-align: top;
-    }
-
-    th {
-      background: #eef3f8;
-    }
-
-    .price-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
-      gap: 14px;
-      margin: 16px 0;
-    }
-
-    .price-card {
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      background: #fbfcfe;
-      padding: 16px;
-    }
-
-    .price-card h4 {
-      margin: 0 0 8px;
-      font-size: 1rem;
-    }
-
-    .price {
-      display: block;
-      font-size: 1.25rem;
-      font-weight: 700;
-      line-height: 1.15;
-      margin-bottom: 4px;
-    }
-
-    .fine-print {
-      color: var(--muted);
-      font-size: 0.9rem;
-    }
-
-    .source-list li {
-      overflow-wrap: anywhere;
-    }
-
-    @media print {
-      body {
-        background: #fff;
-      }
-
-      header,
-      main {
-        padding-left: 0;
-        padding-right: 0;
-      }
-
-      section {
-        border: 0;
-        border-radius: 0;
-        break-inside: avoid;
-      }
-
-      nav {
-        display: none;
-      }
-    }
-    .source-link:not(:focus-within) { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
-  </style>
+  <link rel="stylesheet" href="packet.css">
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <h1>PFIC4 research packet</h1>
-      <p class="source-link"><a href="../markdown/pfic4-research-packet.md">Markdown source</a></p>
-      <nav aria-label="Related pages">
-        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
-        <a href="pfic4-research-updates.html">Research updates</a>
-        <a href="tjp2-related-conditions.html">Related conditions</a>
-        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
-        <a href="clinician-pfic4-brief.html">Clinician brief</a>
-        <a href="livmarli-maralixibat.html">Livmarli</a>
-        <a href="bylvay-odevixibat.html">Bylvay</a>
-        <a href="source-index.html">Sources</a>
-      </nav>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="packet-navigation">
+  <nav class="global-nav" aria-label="Packet navigation">
+    <div class="global-nav-bar">
+      <a class="packet-brand" href="pfic4-research-packet.html">PFIC4 research</a>
+      <div class="global-topics">
+      <details class="global-topic" name="packet-topics">
+        <summary class="current-topic">Overview</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-genetic-cholestasis-overview.html">Family guide</a></li>
+          <li><a href="clinician-genetic-cholestasis-overview.html">Clinician overview</a></li>
+          <li><a href="pfic4-research-packet.html" aria-current="page">Combined packet</a></li>
+          <li><a href="pfic4-parent-practical-guide.html">Practical parent guide</a></li>
+          <li><a href="pfic4-research-updates.html">Research updates</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>PFIC4 &amp; TJP2</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic4-guide.html">PFIC4 family guide</a></li>
+          <li><a href="clinician-pfic4-brief.html">PFIC4 clinician brief</a></li>
+          <li><a href="layperson-tjp2-gene-guide.html">TJP2 family guide</a></li>
+          <li><a href="clinician-tjp2-gene-brief.html">TJP2 clinician brief</a></li>
+          <li><a href="pfic4-natural-history.html">Natural history</a></li>
+          <li><a href="tjp2-related-conditions.html">Related conditions</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Treatments</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-treatment-escalation.html">Family escalation guide</a></li>
+          <li><a href="clinician-treatment-escalation.html">Clinician escalation brief</a></li>
+          <li><a href="cheap-generic-options-vs-ibat.html">Lower-cost options</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Drug details</summary>
+        <ul class="global-topic-list">
+          <li><a href="livmarli-maralixibat.html">Livmarli / maralixibat</a></li>
+          <li><a href="bylvay-odevixibat.html">Bylvay / odevixibat</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Specialists</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic-specialists-and-centers.html">Family center guide</a></li>
+          <li><a href="clinician-pfic-specialists-and-centers.html">Clinician center brief</a></li>
+        </ul>
+      </details>
+<a class="global-source" href="source-index.html">Sources</a>
+      </div>
     </div>
-  </header>
-  <main>
+  </nav>
+  <div class="audience-nav">
+    <span class="audience-topic">Overview</span>
+    <span>Combined packet</span>
+  </div>
+  </div>
+  <header><div class="wrap"><h1>PFIC4 research packet</h1>
+<section class="page-summary" aria-labelledby="key-points">
+<h2 id="key-points">Key points</h2>
+<ul>
+<li><strong>PFIC4 is linked to TJP2 barrier dysfunction.</strong> Bile-acid leakage or reflux can contribute to itching and liver injury. Severity varies.</li>
+<li><strong>IBAT inhibitors reduce bile-acid recycling.</strong> Maralixibat has small randomized-trial PFIC4 subgroup inclusion. Odevixibat has direct observational TJP2 reports; its pivotal randomized trial studied PFIC1/PFIC2.</li>
+<li><strong>Supportive treatments have distinct targets.</strong> Gut binders, itch medicines, vitamins, and nutrition need separate evidence and safety review with the treating team.</li>
+<li><strong>Track more than itch.</strong> Bile acids, bilirubin, growth, vitamins, liver function, fibrosis, and HCC surveillance help guide treatment and escalation.</li>
+</ul>
+</section>
+
+<nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#november-24-2026-expansion-start-here">November 24, 2026 expansion: start here</a></li><li><a href="#layperson-guide">Layperson guide</a></li><li><a href="#drugs">Drugs</a></li><li><a href="#improving-quality-of-life">Improving quality of life</a></li><li><a href="#clinician-brief">Clinician brief</a></li><li><a href="#source-index">Source index</a></li><li><a href="#evidence-limits">Evidence limits</a></li></ul></nav>
+</div></header>
+  <main id="main">
     <div class="wrap">
       <section>
 <p>Reviewed: 2026-05-24</p>
-<h2>November 24, 2026 expansion: start here</h2>
+<h2 id="november-24-2026-expansion-start-here">November 24, 2026 expansion: start here</h2>
 <p>The new <a href="pfic4-research-updates.html">research and researchers review</a> separates direct PFIC4 findings from broader PFIC evidence, preclinical mRNA work, and incomplete conference reports. The <a href="tjp2-related-conditions.html">related-conditions guide</a> explains familial hypercholanemia, rare eye/hearing observations, secondary vitamin complications, and similar genetic diseases. The <a href="pfic4-parent-practical-guide.html">practical parent guide</a> turns the evidence into individual follow-up, surveillance, nutrition, school, and visit questions.</p>
 <p>Direct observational TJP2 odevixibat reports are now included; describing all PFIC4 evidence for that drug as extrapolated was incomplete. No current medicine has established prevention of PFIC4 HCC or transplant. New root-cause work includes a TJP2 mRNA patent with cell experiments, not an available human treatment. See the linked review for sources and limits.</p>
 <p>The earlier sections below retain their original review dates, including May 2026 cash-price snapshots. They are not newly verified prices. Exact family genotypes and medical history are excluded from this shared packet.</p>
@@ -263,12 +107,12 @@
 <li><a href="source-index.html">Source index</a> / <a href="../html/source-index.html">HTML</a></li>
 </ul>
 <p>For broader disease context, start with the genetic cholestasis overview pages. They explain how PFIC4/TJP2 fits alongside PFIC1-3, newer PFIC-like genes, BRIC, intrahepatic cholestasis of pregnancy, Alagille syndrome, and bile acid synthesis defects. Use the family overview for plain-language appointment preparation and the clinician overview for the gene/mechanism table.</p>
-<h2>Layperson guide</h2>
-<h3>One-page summary</h3>
+<h2 id="layperson-guide">Layperson guide</h2>
+<h3 id="one-page-summary">One-page summary</h3>
 <p>PFIC4 is a rare inherited cholestatic liver disease caused by disease-causing changes in <code>TJP2</code>, the gene for tight junction protein 2, also called ZO-2. In the liver, tight junctions help seal spaces between liver cells around tiny bile channels. When TJP2 does not work well, bile acids can leak back into liver tissue instead of staying in the bile pathway. Bile acids are detergent-like and can irritate nerves, drive severe itching, and injure liver cells over time.</p>
 <p>Maralixibat does not fix the <code>TJP2</code> tight-junction problem. It blocks bile acid reabsorption in the last part of the small intestine, so more bile acids leave in stool and less recirculates back to the liver. If a patient responds, that suggests reducing the bile-acid pool is helping symptoms and may be helping biochemical liver stress.</p>
 <p>The other currently approved PFIC drug in the same class is odevixibat, brand name Bylvay. Livmarli, brand name for maralixibat, is indicated for cholestatic pruritus in PFIC patients 12 months and older. Bylvay is indicated for pruritus in PFIC patients 3 months and older. Both are IBAT inhibitors. They are alternatives in the same general strategy, not cures.</p>
-<h3>What causes PFIC4 besides genetics?</h3>
+<h3 id="what-causes-pfic4-besides-genetics">What causes PFIC4 besides genetics?</h3>
 <p>The root cause is the inherited <code>TJP2</code> variants. Outside of that, disease burden appears to come mainly from this cycle:</p>
 <ul>
 <li>TJP2 dysfunction weakens the tight seal between liver cells.</li>
@@ -280,18 +124,20 @@
 <p>PFIC4 is not known to be caused by parenting choices, diet, infection, or lifestyle. Diet and illness can affect day-to-day health, nutrition, hydration, and medication tolerance, but they are not the underlying cause.</p>
 <p>Things that may influence severity or quality of life include exact <code>TJP2</code> variants, bile-acid and bilirubin control, growth and nutrition status, fat-soluble vitamin levels, medication response, side effects, fibrosis/portal hypertension/cirrhosis status, sleep disruption, and skin injury from scratching.</p>
 <p>For a focused evidence review on early severe disease, milder/recurrent disease, and genotype-phenotype uncertainty, see <a href="pfic4-natural-history.html">PFIC4 natural history</a>.</p>
-<h2>Drugs</h2>
+<h2 id="drugs">Drugs</h2>
+<aside class="takeaway" aria-label="Key takeaway"><p><strong>Key takeaway</strong>Symptom improvement and objective liver response need separate tracking.</p></aside>
+
 <p>Dedicated drug pages:</p>
 <ul>
 <li><a href="livmarli-maralixibat.html">Livmarli / maralixibat details</a></li>
 <li><a href="bylvay-odevixibat.html">Bylvay / odevixibat details</a></li>
 </ul>
-<table>
+<div class="table-scroll" role="region" aria-label="Comparison table 1" tabindex="0"><table>
 <thead>
 <tr>
-<th>Topic</th>
-<th>Maralixibat (Livmarli)</th>
-<th>Odevixibat (Bylvay)</th>
+<th scope="col">Topic</th>
+<th scope="col">Maralixibat (Livmarli)</th>
+<th scope="col">Odevixibat (Bylvay)</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -344,15 +190,15 @@
 <td>More direct PFIC4 trial inclusion, but the PFIC4 subgroup was small</td>
 <td>Same class and PFIC-labeled; useful alternative discussion if response/tolerability becomes a problem</td>
 </tr>
-</tbody></table>
-<h3>Public price examples in plain English</h3>
+</tbody></table></div>
+<h3 id="public-price-examples-in-plain-english">Public price examples in plain English</h3>
 <p>These are public cash-price examples, not expected out-of-pocket cost. Insurance, specialty pharmacy contracts, copay support, manufacturer assistance, dose, and formulation can dominate actual cost.</p>
-<table>
+<div class="table-scroll" role="region" aria-label="Comparison table 2" tabindex="0"><table>
 <thead>
 <tr>
-<th>Public example</th>
-<th>Listed package</th>
-<th>Simple read</th>
+<th scope="col">Public example</th>
+<th scope="col">Listed package</th>
+<th scope="col">Simple read</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -375,8 +221,8 @@
 <td>$14,152-$14,859 per 30 capsules of 400 mcg</td>
 <td>About $472-$495 per capsule.</td>
 </tr>
-</tbody></table>
-<h3>Supportive or off-label pruritus drugs</h3>
+</tbody></table></div>
+<h3 id="supportive-or-off-label-pruritus-drugs">Supportive or off-label pruritus drugs</h3>
 <p>These are commonly discussed in PFIC/cholestatic pruritus, but most are not PFIC4-specific disease-modifying drugs:</p>
 <ul>
 <li>Ursodeoxycholic acid (UDCA, also called ursodiol): a hydrophilic bile acid.</li>
@@ -388,13 +234,13 @@
 <li>Ondansetron or phenobarbital: sometimes used historically; evidence is less strong.</li>
 </ul>
 <p>For a mechanism-first comparison of lower-cost options against IBAT inhibitors, including cholestyramine/colesevelam/colestipol, rifampin, UDCA/TUDCA, naltrexone, sertraline, antihistamines/sleep aids, fat-soluble vitamins, and MCT nutrition, see <a href="cheap-generic-options-vs-ibat.html">cheap/generic options compared with IBAT inhibitors</a>.</p>
-<h2>Improving quality of life</h2>
+<h2 id="improving-quality-of-life">Improving quality of life</h2>
 <p>Bring objective data to visits. A simple daily log can capture morning itch score, nighttime itch score, sleep wakeups, skin injury, missed activities, diarrhea, abdominal pain, vomiting, and dehydration symptoms.</p>
 <p>For skin and sleep: keep nails short, use bland moisturizers, avoid hot baths and overheating, use soft sleep clothing and bedding, and ask whether sleep-targeted medications are appropriate.</p>
 <p>For nutrition: ask about weight, height, fat-soluble vitamins A/D/E/K, INR, bone health, and medium-chain triglyceride or higher-calorie nutrition support if growth is lagging.</p>
 <p>For liver progression: ask about AST, ALT, bilirubin, GGT, albumin, INR, serum bile acids, platelets, spleen size, ultrasound, elastography/FibroScan, AFP, and HCC surveillance.</p>
 <p>Urgent symptoms to clarify with the care team ahead of time include new abdominal swelling, vomiting blood, black stools, confusion, severe sleepiness, easy bruising/bleeding, dehydration from diarrhea, rapidly worsening jaundice, fever with worsening liver symptoms, or severe abdominal pain.</p>
-<h2>Clinician brief</h2>
+<h2 id="clinician-brief">Clinician brief</h2>
 <p>PFIC4 is TJP2/ZO-2-associated genetic cholestatic liver disease, usually autosomal recessive. The clinically relevant mechanism is not a canalicular transporter pump defect in the same sense as BSEP deficiency. TJP2 is a tight-junction scaffolding protein. Reported pathobiology includes impaired canalicular tight-junction integrity and mislocalization/failure of claudin-1 at the bile-canalicular membrane, allowing paracellular reflux/leakage of bile constituents into hepatic parenchyma.</p>
 <p>This offers a plausible reason PFIC4 may respond to IBAT inhibition: bile-acid secretion into bile and delivery to the intestine can be preserved enough for interruption of enterohepatic recirculation to reduce hepatic bile-acid load.</p>
 <p>Expected clinical pattern:</p>
@@ -405,15 +251,15 @@
 <li>Genotype-phenotype signal exists but is incomplete.</li>
 <li>Extrahepatic reports need separate evidence review; see <a href="tjp2-related-conditions.html">related conditions</a> for rare retinal observations, limited hearing-gene validity, and secondary vitamin complications.</li>
 </ul>
-<h3>PFIC trial evidence table</h3>
-<table>
+<h3 id="pfic-trial-evidence-table">PFIC trial evidence table</h3>
+<div class="table-scroll" role="region" aria-label="Comparison table 3" tabindex="0"><table class="wide-table">
 <thead>
 <tr>
-<th>Drug</th>
-<th>Trial</th>
-<th>Design and population</th>
-<th>Key signal</th>
-<th>PFIC4 read</th>
+<th scope="col">Drug</th>
+<th scope="col">Trial</th>
+<th scope="col">Design and population</th>
+<th scope="col">Key signal</th>
+<th scope="col">PFIC4 read</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -444,31 +290,31 @@
 <td>Longer-term serum bile-acid and pruritus response signals; EMA product information describes broader PFIC subgroups including PFIC3/PFIC4/PFIC6/episodic PFIC.</td>
 <td>Broader-genotype support, but open-label and weaker than PFIC4-specific randomized evidence.</td>
 </tr>
-</tbody></table>
-<h3>Monitoring and response questions</h3>
+</tbody></table></div>
+<h3 id="monitoring-and-response-questions">Monitoring and response questions</h3>
 <p>Potential response metrics include daily pruritus tracking, sleep disruption, excoriations, serum bile acids, total/direct bilirubin, AST, ALT, GGT, INR, albumin, platelets, CBC, fat-soluble vitamins A/D/E and INR/vitamin K status, growth velocity, stool burden/diarrhea, liver stiffness/elastography, and ultrasound.</p>
 <p>Monitoring frequency from PFIC opinion literature commonly centers on clinical assessment, liver biochemistry, fat-soluble vitamins, serum bile acids, growth, pruritus, and quality of life every 3-6 months, with liver ultrasound and stiffness assessment every 6-12 months. For established cirrhosis, ultrasound plus AFP every 6 months is consistent with HCC surveillance practice. Because PFIC4 has published HCC cases and GeneReviews lists PFIC4 surveillance &quot;For HCC&quot;, clarify whether the treating center screens all PFIC4 patients at a 6-month interval or risk-stratifies by fibrosis/cirrhosis.</p>
-<h3>Disease-modifying uncertainty</h3>
+<h3 id="disease-modifying-uncertainty">Disease-modifying uncertainty</h3>
 <p>Maralixibat and odevixibat clearly target pruritus and serum-bile-acid burden. Whether early durable bile-acid reduction prevents fibrosis progression and transplant in PFIC4 specifically remains less certain because PFIC4 cohorts are small. Clinical response should therefore be judged by itch plus serum bile acids, bilirubin, growth, sleep, vitamin status, and fibrosis/portal-hypertension markers.</p>
-<h3>Escalation pathways</h3>
+<h3 id="escalation-pathways">Escalation pathways</h3>
 <p>Consider specialist discussion of biliary diversion or transplant evaluation with intractable pruritus, growth failure, refractory nutritional/vitamin deficiency, progressive fibrosis/cirrhosis, portal hypertension, synthetic dysfunction, decompensation, or HCC concern.</p>
 <p>For a focused staged review of when IBAT inhibitors, supportive itch medications, nutrition/vitamin management, biliary diversion, transplant evaluation, and HCC surveillance enter the conversation, see <a href="layperson-treatment-escalation.html">PFIC4 treatment escalation for families</a> and <a href="clinician-treatment-escalation.html">PFIC4 treatment escalation for clinicians</a>.</p>
-<h2>Source index</h2>
-<h3>Drug labels and pricing</h3>
+<h2 id="source-index">Source index</h2>
+<h3 id="drug-labels-and-pricing">Drug labels and pricing</h3>
 <ul>
 <li>Livmarli (maralixibat) DailyMed label: <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167">https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167</a></li>
 <li>Bylvay (odevixibat) DailyMed label: <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa">https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa</a></li>
 <li>Livmarli price guide: <a href="https://www.drugs.com/price-guide/livmarli">https://www.drugs.com/price-guide/livmarli</a></li>
 <li>Bylvay price guide: <a href="https://www.drugs.com/price-guide/bylvay">https://www.drugs.com/price-guide/bylvay</a></li>
 </ul>
-<h3>Trials and trial registries</h3>
+<h3 id="trials-and-trial-registries">Trials and trial registries</h3>
 <ul>
 <li>MARCH-PFIC maralixibat trial: <a href="https://pubmed.ncbi.nlm.nih.gov/38723644/">https://pubmed.ncbi.nlm.nih.gov/38723644/</a> and <a href="https://clinicaltrials.gov/study/NCT03905330">https://clinicaltrials.gov/study/NCT03905330</a></li>
 <li>MARCH-ON maralixibat extension: <a href="https://clinicaltrials.gov/study/NCT04185363">https://clinicaltrials.gov/study/NCT04185363</a> and <a href="https://mirumpharma.com/wp-content/uploads/2024/05/R-Thompson-ESPGHAN-2024-Longterm-maintenance-of-response-after-2-years-of-MRX-treatment-in-PFIC_MARCHON-data.pdf">https://mirumpharma.com/wp-content/uploads/2024/05/R-Thompson-ESPGHAN-2024-Longterm-maintenance-of-response-after-2-years-of-MRX-treatment-in-PFIC_MARCHON-data.pdf</a></li>
 <li>PEDFIC odevixibat trial: <a href="https://pubmed.ncbi.nlm.nih.gov/35780807/">https://pubmed.ncbi.nlm.nih.gov/35780807/</a></li>
 <li>PEDFIC 2 odevixibat extension: <a href="https://clinicaltrials.gov/study/NCT03659916">https://clinicaltrials.gov/study/NCT03659916</a> and <a href="https://www.clinicaltrialsregister.eu/ctr-search/trial/2017-002325-38/results">https://www.clinicaltrialsregister.eu/ctr-search/trial/2017-002325-38/results</a></li>
 </ul>
-<h3>Guidelines and expert reviews</h3>
+<h3 id="guidelines-and-expert-reviews">Guidelines and expert reviews</h3>
 <ul>
 <li>EASL Clinical Practice Guidelines on genetic cholestatic liver diseases: <a href="https://pubmed.ncbi.nlm.nih.gov/38851996/">https://pubmed.ncbi.nlm.nih.gov/38851996/</a></li>
 <li>GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview: <a href="https://www.ncbi.nlm.nih.gov/books/NBK584020/">https://www.ncbi.nlm.nih.gov/books/NBK584020/</a></li>
@@ -477,7 +323,7 @@
 <li>Genotypes and clinical variants in PFIC review: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/">https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/</a></li>
 <li>Pediatric cholestatic diseases in the era of IBAT inhibitors: <a href="https://www.mdpi.com/2036-7503/18/1/19">https://www.mdpi.com/2036-7503/18/1/19</a></li>
 </ul>
-<h3>Specialists, hospitals, and research networks</h3>
+<h3 id="specialists-hospitals-and-research-networks">Specialists, hospitals, and research networks</h3>
 <ul>
 <li>PFIC Network Global PFIC Hospital Directory: <a href="https://www.pfic.org/pfic-hospital-directory/">https://www.pfic.org/pfic-hospital-directory/</a></li>
 <li>PFIC Network Scientific Medical Advisory Board: <a href="https://www.pfic.org/about-pfic-network/pfic-medical-advisory-board/">https://www.pfic.org/about-pfic-network/pfic-medical-advisory-board/</a></li>
@@ -487,19 +333,19 @@
 <li>Filfoie rare liver disease expert centers: <a href="https://en.filfoie.com/rare-liver-diseases-expert-centers/">https://en.filfoie.com/rare-liver-diseases-expert-centers/</a></li>
 <li>PFIC Network Project IMPACT and research-roadmap priorities: <a href="https://www.pfic.org/project-impact/">https://www.pfic.org/project-impact/</a> and <a href="https://impactroadmap.pfic.org/pfic-patient-centered-cer-priorities/">https://impactroadmap.pfic.org/pfic-patient-centered-cer-priorities/</a></li>
 </ul>
-<h3>PFIC4-specific reports</h3>
+<h3 id="pfic4-specific-reports">PFIC4-specific reports</h3>
 <ul>
 <li>PFIC4 case report, 2024: <a href="https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-024-04662-5">https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-024-04662-5</a></li>
 <li>Adult TJP2/PFIC4 family with cirrhosis and HCC: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/</a></li>
 <li>PFIC4 missense variant and phenotypic variability, 2025: <a href="https://www.nature.com/articles/s10038-025-01338-w">https://www.nature.com/articles/s10038-025-01338-w</a></li>
 <li>PFIC4 natural history page: <a href="pfic4-natural-history.html">Markdown</a> / <a href="../html/pfic4-natural-history.html">HTML</a></li>
 </ul>
-<h3>Patient-facing rare disease resources</h3>
+<h3 id="patient-facing-rare-disease-resources">Patient-facing rare disease resources</h3>
 <ul>
 <li>GARD PFIC4: <a href="https://rarediseases.info.nih.gov/diseases/9803/cholestasis-progressive-familial-intrahepatic-4">https://rarediseases.info.nih.gov/diseases/9803/cholestasis-progressive-familial-intrahepatic-4</a></li>
 <li>Orphanet PFIC4: <a href="https://www.orpha.net/en/disease/detail/480483">https://www.orpha.net/en/disease/detail/480483</a></li>
 </ul>
-<h2>Evidence limits</h2>
+<h2 id="evidence-limits">Evidence limits</h2>
 <ul>
 <li>PFIC4-specific cohorts are very small.</li>
 <li>Maralixibat has randomized trial inclusion of PFIC4, but PFIC4 n was small.</li>
@@ -509,6 +355,16 @@
 
       </section>
     </div>
-  </main>
+  <footer class="related-pages"><h2>Related pages</h2><nav aria-label="Related pages">
+        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
+        <a href="pfic4-research-updates.html">Research updates</a>
+        <a href="tjp2-related-conditions.html">Related conditions</a>
+        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
+        <a href="clinician-pfic4-brief.html">Clinician brief</a>
+        <a href="livmarli-maralixibat.html">Livmarli</a>
+        <a href="bylvay-odevixibat.html">Bylvay</a>
+        <a href="source-index.html">Sources</a>
+      </nav><p class="source-link"><a href="../markdown/pfic4-research-packet.md">Markdown source</a></p></footer>
+</main>
 </body>
 </html>

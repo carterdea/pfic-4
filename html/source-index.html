@@ -4,55 +4,90 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>PFIC4 source index</title>
-  <style>
-    :root { --ink:#18212f; --muted:#5c687a; --line:#d9e0ea; --paper:#fff; --soft:#f5f7fb; --accent:#0f6b7a; --warning:#8a4b06; --warning-soft:#fff4df; }
-    * { box-sizing: border-box; }
-    body { margin: 0; color: var(--ink); background: var(--soft); font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    header, main { padding: 28px 24px; }
-    header { background: var(--paper); border-bottom: 1px solid var(--line); }
-    .wrap { max-width: 1080px; margin: 0 auto; }
-    h1, h2, h3 { line-height: 1.18; margin: 0 0 14px; }
-    h1 { font-size: clamp(2rem, 4vw, 3rem); }
-    h2 { font-size: 1.45rem; padding-top: 22px; border-top: 1px solid var(--line); }
-    p { margin: 0 0 14px; }
-    a { color: var(--accent); text-underline-offset: 2px; }
-    nav { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
-    nav a { border: 1px solid var(--line); border-radius: 6px; background: var(--paper); padding: 7px 11px; text-decoration: none; color: var(--ink); }
-    section { background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 24px; margin-bottom: 22px; }
-    .meta { color: var(--muted); font-size: .95rem; }
-    .notice { background: var(--warning-soft); border-left: 4px solid var(--warning); padding: 12px 14px; margin: 18px 0; }
-    ul { margin: 0 0 16px 22px; padding: 0; }
-    li { margin: 5px 0; overflow-wrap: anywhere; }
-    .source-link:not(:focus-within) { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
-  </style>
+  <link rel="stylesheet" href="packet.css">
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <h1>PFIC4 source index</h1>
-      <p class="source-link"><a href="../markdown/source-index.md">Markdown source</a></p>
-      <nav aria-label="Related pages">
-        <a href="pfic4-research-packet.html">Combined packet</a>
-        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
-        <a href="pfic4-research-updates.html">Research updates</a>
-        <a href="tjp2-related-conditions.html">Related conditions</a>
-        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
-        <a href="clinician-pfic4-brief.html">Clinician brief</a>
-        <a href="livmarli-maralixibat.html">Livmarli</a>
-        <a href="bylvay-odevixibat.html">Bylvay</a>
-      </nav>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="packet-navigation">
+  <nav class="global-nav" aria-label="Packet navigation">
+    <div class="global-nav-bar">
+      <a class="packet-brand" href="pfic4-research-packet.html">PFIC4 research</a>
+      <div class="global-topics">
+      <details class="global-topic" name="packet-topics">
+        <summary>Overview</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-genetic-cholestasis-overview.html">Family guide</a></li>
+          <li><a href="clinician-genetic-cholestasis-overview.html">Clinician overview</a></li>
+          <li><a href="pfic4-research-packet.html">Combined packet</a></li>
+          <li><a href="pfic4-parent-practical-guide.html">Practical parent guide</a></li>
+          <li><a href="pfic4-research-updates.html">Research updates</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>PFIC4 &amp; TJP2</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic4-guide.html">PFIC4 family guide</a></li>
+          <li><a href="clinician-pfic4-brief.html">PFIC4 clinician brief</a></li>
+          <li><a href="layperson-tjp2-gene-guide.html">TJP2 family guide</a></li>
+          <li><a href="clinician-tjp2-gene-brief.html">TJP2 clinician brief</a></li>
+          <li><a href="pfic4-natural-history.html">Natural history</a></li>
+          <li><a href="tjp2-related-conditions.html">Related conditions</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Treatments</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-treatment-escalation.html">Family escalation guide</a></li>
+          <li><a href="clinician-treatment-escalation.html">Clinician escalation brief</a></li>
+          <li><a href="cheap-generic-options-vs-ibat.html">Lower-cost options</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Drug details</summary>
+        <ul class="global-topic-list">
+          <li><a href="livmarli-maralixibat.html">Livmarli / maralixibat</a></li>
+          <li><a href="bylvay-odevixibat.html">Bylvay / odevixibat</a></li>
+        </ul>
+      </details>
+      <details class="global-topic" name="packet-topics">
+        <summary>Specialists</summary>
+        <ul class="global-topic-list">
+          <li><a href="layperson-pfic-specialists-and-centers.html">Family center guide</a></li>
+          <li><a href="clinician-pfic-specialists-and-centers.html">Clinician center brief</a></li>
+        </ul>
+      </details>
+<a class="global-source" href="source-index.html" aria-current="page">Sources</a>
+      </div>
     </div>
-  </header>
-  <main>
+  </nav>
+  <div class="audience-nav">
+    <span class="audience-topic">Sources</span>
+    <span>Sources</span>
+  </div>
+  </div>
+  <header><div class="wrap"><h1>PFIC4 source index</h1>
+<section class="page-summary" aria-labelledby="key-points">
+<h2 id="key-points">Key points</h2>
+<ul>
+<li><strong>Use labels for formulation and safety details.</strong> The packet links drug labels separately from efficacy publications and price guides.</li>
+<li><strong>Check trial populations before transferring results.</strong> Small PFIC4 subgroup inclusion differs from PFIC1/PFIC2 evidence and open-label follow-up.</li>
+<li><strong>Keep evidence strength visible.</strong> PFIC4 cohorts, case reports, broader PFIC studies, and mechanistic hypotheses answer different questions.</li>
+<li><strong>Dates matter.</strong> The review dates below describe the existing evidence review. Labels, prices, trial status, and referral access need rechecking for a current decision.</li>
+</ul>
+</section>
+
+<nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#november-2026-research-expansion">November 2026 research expansion</a></li><li><a href="#gene-and-disease-definition-sources">Gene and disease-definition sources</a></li><li><a href="#drug-labels">Drug labels</a></li><li><a href="#drug-pricing-sources">Drug pricing sources</a></li><li><a href="#trials-and-trial-registries">Trials and trial registries</a></li><li><a href="#guidelines-and-expert-reviews">Guidelines and expert reviews</a></li><li><a href="#specialist-researcher-hospital-and-research-network-sources">Specialist, researcher, hospital, and research-network sources</a></li><li><a href="#pfic4-specific-reports">PFIC4-specific reports</a></li><li><a href="#patient-facing-rare-disease-resources">Patient-facing rare disease resources</a></li><li><a href="#main-evidence-limitations">Main evidence limitations</a></li></ul></nav>
+</div></header>
+  <main id="main">
     <div class="wrap">
       <section>
 <p>Reviewed: 2026-05-24</p>
 <p>Research expansion checked: 2026-11-24. The dated additions below identify newly reviewed evidence. Earlier pricing snapshots and older program descriptions retain their original review dates; they were not all reverified in this expansion.</p>
 <p>This file lists the main sources used for the layperson and clinician PFIC4 documents. I prioritized current drug labels, clinical trials, GeneReviews/NIH resources, and recent peer-reviewed reviews/case series.</p>
 <p>Scope: this source index supports a confirmed PFIC4/TJP2 packet. Sources about other PFIC types, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, or broader genetic cholestasis are included only when they clarify comparison points, labels, evidence limits, or referral context.</p>
-<h2>November 2026 research expansion</h2>
+<h2 id="november-2026-research-expansion">November 2026 research expansion</h2>
 <p>New reading paths: <a href="pfic4-research-updates.html">research updates and researchers</a>, <a href="tjp2-related-conditions.html">TJP2-related conditions</a>, and <a href="pfic4-parent-practical-guide.html">practical parent guide</a>. Each has an HTML companion.</p>
-<h3>Search and verification scope</h3>
+<h3 id="search-and-verification-scope">Search and verification scope</h3>
 <ul>
 <li>Checked November 24, 2026 using PubMed, current NCBI E-utilities records, ClinicalTrials.gov v2 records, publisher pages, official laboratory/program pages, PFIC Network materials, and a published patent application.</li>
 <li>PubMed search included <code>TJP2[Title/Abstract] AND (cholestasis OR liver) AND 2025:2026[dp]</code>, sorted by publication date. Broader searches covered PFIC4, TJP2 replacement/mRNA, IBAT treatment, non-liver manifestations, and the researchers named below. Earlier foundational and treatment papers were checked separately.</li>
@@ -61,12 +96,12 @@
 <li>Family-specific reports, exact family variant searches, and current variant-record details belong only in the ignored personal companion. No individual genotype or patient history is included here.</li>
 <li>This was a targeted update, not a formal systematic review. Public recruitment and referral status require direct confirmation.</li>
 </ul>
-<table>
+<div class="table-scroll" role="region" aria-label="Comparison table 1" tabindex="0"><table>
 <thead>
 <tr>
-<th>Source, accessed 2026-11-24</th>
-<th>Evidence level and use</th>
-<th>Material limit</th>
+<th scope="col">Source, accessed 2026-11-24</th>
+<th scope="col">Evidence level and use</th>
+<th scope="col">Material limit</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -174,8 +209,8 @@
 <td>Named-expert PFIC Network education.</td>
 <td>Individual nutrition prescriptions need a pediatric liver dietitian.</td>
 </tr>
-</tbody></table>
-<h3>Current programs, registries, and labels rechecked</h3>
+</tbody></table></div>
+<h3 id="current-programs-registries-and-labels-rechecked">Current programs, registries, and labels rechecked</h3>
 <ul>
 <li><a href="https://www.kcl.ac.uk/research/liver-molecular-genetics">King&#39;s Thompson laboratory</a>, <a href="https://www.cincinnatichildrens.org/research/divisions/g/gastroenterology/labs/asai">Cincinnati Asai laboratory</a>, <a href="https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease/team">Cincinnati rare-liver team</a>, and <a href="https://www.cincinnatichildrens.org/bio/m/alexander-miethke">Miethke clinical profile</a>. Support roles and scientific focus, not appointment availability.</li>
 <li><a href="https://www.pfic.org/pfic-hospital-directory/">PFIC Network hospital directory</a>. Preserved non-exhaustive and provider-experience caveats.</li>
@@ -203,8 +238,8 @@
 <li><a href="../html/livmarli-maralixibat.html">Livmarli / maralixibat drug details</a></li>
 <li><a href="../html/bylvay-odevixibat.html">Bylvay / odevixibat drug details</a></li>
 </ul>
-<h2>Gene and disease-definition sources</h2>
-<h3>NCBI Gene: TJP2</h3>
+<h2 id="gene-and-disease-definition-sources">Gene and disease-definition sources</h2>
+<h3 id="ncbi-gene-tjp2">NCBI Gene: TJP2</h3>
 <p>URL: <a href="https://www.ncbi.nlm.nih.gov/gene/9414">https://www.ncbi.nlm.nih.gov/gene/9414</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -212,7 +247,7 @@
 <li>Function summary: tight-junction barrier component needed for tight-junction assembly.</li>
 <li>Alias and associated-phenotype context, including ZO2, PFIC4, and DFNA51.</li>
 </ul>
-<h3>OMIM: TJP2 and PFIC4</h3>
+<h3 id="omim-tjp2-and-pfic4">OMIM: TJP2 and PFIC4</h3>
 <p>TJP2 URL: <a href="https://omim.org/entry/607709">https://omim.org/entry/607709</a></p>
 <p>PFIC4 URL: <a href="https://omim.org/entry/615878">https://omim.org/entry/615878</a></p>
 <p>Use in packet:</p>
@@ -221,7 +256,7 @@
 <li>Autosomal recessive inheritance framing.</li>
 <li>Mechanistic and clinical synopsis language for clinician-facing gene notes.</li>
 </ul>
-<h3>Sambrotta et al., 2014</h3>
+<h3 id="sambrotta-et-al-2014">Sambrotta et al., 2014</h3>
 <p>PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/24614073/">https://pubmed.ncbi.nlm.nih.gov/24614073/</a></p>
 <p>PMC full text: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4061468/">https://pmc.ncbi.nlm.nih.gov/articles/PMC4061468/</a></p>
 <p>Use in packet:</p>
@@ -229,14 +264,14 @@
 <li>Foundational report linking protein-truncating <code>TJP2</code> variants to progressive cholestatic liver disease.</li>
 <li>Evidence for absent TJP2 expression, claudin-1 mislocalization, tight-junction structural disruption, and severe pediatric disease.</li>
 </ul>
-<h3>Tang et al., 2021</h3>
+<h3 id="tang-et-al-2021">Tang et al., 2021</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8421653/">https://pmc.ncbi.nlm.nih.gov/articles/PMC8421653/</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Additional pathogenic <code>TJP2</code> variants and functional/mechanistic evidence.</li>
 <li>Cytoskeleton and cell-polarity context for clinician-facing pathophysiology.</li>
 </ul>
-<h3>Zhang et al., 2020</h3>
+<h3 id="zhang-et-al-2020">Zhang et al., 2020</h3>
 <p>PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/31696999/">https://pubmed.ncbi.nlm.nih.gov/31696999/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -244,7 +279,7 @@
 <li>Supports the point that biallelic <code>TJP2</code> disease can include milder or intermittent forms, not only early transplant-requiring disease.</li>
 <li>Variant-class evidence: truncating or canonical splice-site variants were more severe; missense variants reduced but did not abolish TJP2 expression in vitro.</li>
 </ul>
-<h3>Lal et al., 2024</h3>
+<h3 id="lal-et-al-2024">Lal et al., 2024</h3>
 <p>PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/38447037/">https://pubmed.ncbi.nlm.nih.gov/38447037/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -252,7 +287,7 @@
 <li>TJP2-C group, defined as predicted protein-truncating mutations on both alleles, had more early infantile cholestasis, less jaundice clearance, more ascites, higher serum bile acids, and lower native-liver survival.</li>
 <li>Supports counseling that biallelic predicted truncating variants are a higher-risk pattern while still avoiding deterministic prognosis.</li>
 </ul>
-<h3>TJP2 deficiency and HCC reports</h3>
+<h3 id="tjp2-deficiency-and-hcc-reports">TJP2 deficiency and HCC reports</h3>
 <p>Zhou et al. DOI: <a href="https://doi.org/10.1002/hep.27872">https://doi.org/10.1002/hep.27872</a></p>
 <p>Adult TJP2/PFIC4 family URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/</a></p>
 <p>Use in packet:</p>
@@ -260,8 +295,8 @@
 <li>Supports explicit HCC surveillance discussion in PFIC4.</li>
 <li>Helps separate evidence-supported cancer concern from broader PFIC generalizations.</li>
 </ul>
-<h2>Drug labels</h2>
-<h3>Livmarli (maralixibat)</h3>
+<h2 id="drug-labels">Drug labels</h2>
+<h3 id="livmarli-maralixibat">Livmarli (maralixibat)</h3>
 <p>URL: <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167">https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -271,7 +306,7 @@
 <li>Warnings: hepatotoxicity, GI adverse reactions, fat-soluble vitamin deficiency, fracture/bleeding, propylene glycol toxicity risk in children under 5 years using solution.</li>
 <li>Trial 2/NCT03905330 PFIC cohort: included PFIC4 patients and showed pruritus benefit vs placebo.</li>
 </ul>
-<h3>Bylvay (odevixibat)</h3>
+<h3 id="bylvay-odevixibat">Bylvay (odevixibat)</h3>
 <p>URL: <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa">https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -281,7 +316,7 @@
 <li>Warnings: hepatotoxicity, diarrhea/dehydration, fat-soluble vitamin deficiency, fracture/bleeding.</li>
 <li>Trial 1/NCT03566238 in PFIC1/PFIC2 and serum bile-acid/pruritus effects.</li>
 </ul>
-<h3>Cheap/generic option labels and support sources</h3>
+<h3 id="cheap-generic-option-labels-and-support-sources">Cheap/generic option labels and support sources</h3>
 <p>URLs:</p>
 <ul>
 <li>Cholestyramine/Questran label: <a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=362ddd91-a63f-4ec6-841a-75785dd208c8">https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=362ddd91-a63f-4ec6-841a-75785dd208c8</a></li>
@@ -305,23 +340,23 @@
 <li>Captures naltrexone, sertraline, hydroxyzine, and diphenhydramine as itch/sleep-pathway tools rather than bile-acid-burden treatments, with pediatric and hepatic cautions.</li>
 <li>Supports treating TUDCA as a related chemical hypothesis rather than established PFIC4 care.</li>
 </ul>
-<h2>Drug pricing sources</h2>
-<h3>Livmarli price guide</h3>
+<h2 id="drug-pricing-sources">Drug pricing sources</h2>
+<h3 id="livmarli-price-guide">Livmarli price guide</h3>
 <p>URL: <a href="https://www.drugs.com/price-guide/livmarli">https://www.drugs.com/price-guide/livmarli</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Public cash-price examples for Livmarli oral liquid and tablets.</li>
 <li>Caveat: price-guide values are not expected out-of-pocket costs and may not map exactly to a specific PFIC dose/formulation.</li>
 </ul>
-<h3>Bylvay price guide</h3>
+<h3 id="bylvay-price-guide">Bylvay price guide</h3>
 <p>URL: <a href="https://www.drugs.com/price-guide/bylvay">https://www.drugs.com/price-guide/bylvay</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Public cash-price examples for Bylvay pellets/capsules by strength.</li>
 <li>Caveat: price-guide values are not expected out-of-pocket costs and vary by dose, formulation, insurance, and specialty pharmacy.</li>
 </ul>
-<h2>Trials and trial registries</h2>
-<h3>MARCH-PFIC maralixibat trial</h3>
+<h2 id="trials-and-trial-registries">Trials and trial registries</h2>
+<h3 id="march-pfic-maralixibat-trial">MARCH-PFIC maralixibat trial</h3>
 <p>PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/38723644/">https://pubmed.ncbi.nlm.nih.gov/38723644/</a></p>
 <p>ClinicalTrials.gov: <a href="https://clinicaltrials.gov/study/NCT03905330">https://clinicaltrials.gov/study/NCT03905330</a></p>
 <p>Use in packet:</p>
@@ -330,7 +365,7 @@
 <li>Included broader PFIC genotypes in the all-PFIC cohort, including TJP2/PFIC4.</li>
 <li>Supports maralixibat effect on pruritus and serum bile acids across the studied PFIC population.</li>
 </ul>
-<h3>MARCH-ON maralixibat extension</h3>
+<h3 id="march-on-maralixibat-extension">MARCH-ON maralixibat extension</h3>
 <p>ClinicalTrials.gov: <a href="https://clinicaltrials.gov/study/NCT04185363">https://clinicaltrials.gov/study/NCT04185363</a></p>
 <p>Public conference poster PDF: <a href="https://mirumpharma.com/wp-content/uploads/2024/05/R-Thompson-ESPGHAN-2024-Longterm-maintenance-of-response-after-2-years-of-MRX-treatment-in-PFIC_MARCHON-data.pdf">https://mirumpharma.com/wp-content/uploads/2024/05/R-Thompson-ESPGHAN-2024-Longterm-maintenance-of-response-after-2-years-of-MRX-treatment-in-PFIC_MARCHON-data.pdf</a></p>
 <p>Use in packet:</p>
@@ -339,7 +374,7 @@
 <li>Supports longer-term durability discussion for maralixibat.</li>
 <li>Lower evidentiary weight than blinded randomized data.</li>
 </ul>
-<h3>PEDFIC odevixibat trial</h3>
+<h3 id="pedfic-odevixibat-trial">PEDFIC odevixibat trial</h3>
 <p>PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/35780807/">https://pubmed.ncbi.nlm.nih.gov/35780807/</a></p>
 <p>ClinicalTrials.gov: <a href="https://clinicaltrials.gov/study/NCT03566238">https://clinicaltrials.gov/study/NCT03566238</a></p>
 <p>Use in packet:</p>
@@ -348,7 +383,7 @@
 <li>Supports odevixibat effect on pruritus and serum bile-acid response.</li>
 <li>Helps distinguish direct trial evidence from broader label indication and smaller non-PFIC1/2 evidence.</li>
 </ul>
-<h3>PEDFIC 2 odevixibat extension</h3>
+<h3 id="pedfic-2-odevixibat-extension">PEDFIC 2 odevixibat extension</h3>
 <p>ClinicalTrials.gov: <a href="https://clinicaltrials.gov/study/NCT03659916">https://clinicaltrials.gov/study/NCT03659916</a></p>
 <p>EU trial results: <a href="https://www.clinicaltrialsregister.eu/ctr-search/trial/2017-002325-38/results">https://www.clinicaltrialsregister.eu/ctr-search/trial/2017-002325-38/results</a></p>
 <p>Use in packet:</p>
@@ -357,8 +392,8 @@
 <li>Supports longer-term and broader-genotype discussion for odevixibat.</li>
 <li>Not PFIC4-specific randomized evidence.</li>
 </ul>
-<h2>Guidelines and expert reviews</h2>
-<h3>EASL Clinical Practice Guidelines on genetic cholestatic liver diseases</h3>
+<h2 id="guidelines-and-expert-reviews">Guidelines and expert reviews</h2>
+<h3 id="easl-clinical-practice-guidelines-on-genetic-cholestatic-liver-diseases">EASL Clinical Practice Guidelines on genetic cholestatic liver diseases</h3>
 <p>PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/38851996/">https://pubmed.ncbi.nlm.nih.gov/38851996/</a></p>
 <p>PDF: <a href="https://easlcampus.eu/sites/default/files/2024-08/EASL_CPGs_on_genetic_cholestatic_diseases.pdf">https://easlcampus.eu/sites/default/files/2024-08/EASL_CPGs_on_genetic_cholestatic_diseases.pdf</a></p>
 <p>Guideline summary: <a href="https://www.guidelinecentral.com/guideline/4544241/">https://www.guidelinecentral.com/guideline/4544241/</a></p>
@@ -370,7 +405,7 @@
 <li>Supports referral-center framing because diagnosis and management usually require pediatric/adult hepatology, genetics, pruritus management, nutrition, and transplant expertise.</li>
 <li>Useful caution: the guideline goes deep on selected diseases and does not fully describe every newer PFIC-like gene.</li>
 </ul>
-<h3>GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview</h3>
+<h3 id="genereviews-pediatric-genetic-cholestatic-liver-disease-overview">GeneReviews: Pediatric Genetic Cholestatic Liver Disease Overview</h3>
 <p>URL: <a href="https://www.ncbi.nlm.nih.gov/books/NBK584020/">https://www.ncbi.nlm.nih.gov/books/NBK584020/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -385,7 +420,7 @@
 <li>Gene/mechanism table support for newer or PFIC-like genes including <code>USP53</code>, <code>KIF12</code>, <code>ZFYVE19</code>, <code>SLC51A</code>, and <code>SLC51B</code>.</li>
 <li>Separate table support for bile acid synthesis/conjugation defects and the point that serum bile acids can be low/normal in some defects.</li>
 </ul>
-<h3>GeneReviews: Alagille Syndrome</h3>
+<h3 id="genereviews-alagille-syndrome">GeneReviews: Alagille Syndrome</h3>
 <p>URL: <a href="https://www.ncbi.nlm.nih.gov/books/NBK1273/">https://www.ncbi.nlm.nih.gov/books/NBK1273/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -395,7 +430,7 @@
 <li>Caveat that bile duct paucity may be absent or less clear in early infancy.</li>
 <li>Supports surveillance framing beyond liver-only care: liver tests, AFP/ultrasound, growth, blood pressure, fractures/nutrition, vascular/cardiology, ophthalmology, renal labs, and developmental/behavioral assessment.</li>
 </ul>
-<h3>Cholestatic Pruritus in Children: Conventional Therapies and Beyond</h3>
+<h3 id="cholestatic-pruritus-in-children-conventional-therapies-and-beyond">Cholestatic Pruritus in Children: Conventional Therapies and Beyond</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10215450/">https://pmc.ncbi.nlm.nih.gov/articles/PMC10215450/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -403,7 +438,7 @@
 <li>Reviews bile acids, ATX/LPA, opioid, serotonin, and sleep-related contributors to pediatric cholestatic pruritus.</li>
 <li>Supports careful pediatric framing for rifampin, naltrexone, sertraline, antihistamines, IBAT inhibitors, surgery, and transplant when pruritus is refractory.</li>
 </ul>
-<h3>ICP guideline and pregnancy-liver guidance</h3>
+<h3 id="icp-guideline-and-pregnancy-liver-guidance">ICP guideline and pregnancy-liver guidance</h3>
 <p>SOGC Guideline No. 452 abstract: <a href="https://www.jogc.com/article/S1701-2163(24)00441-9/abstract">https://www.jogc.com/article/S1701-2163(24)00441-9/abstract</a></p>
 <p>FIGO guideline on liver disease and pregnancy: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12177296/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12177296/</a></p>
 <p>Use in packet:</p>
@@ -412,7 +447,7 @@
 <li>Supports non-fasting bile-acid testing, exclusion of other causes, and bile-acid-stratified pregnancy-risk discussion.</li>
 <li>Supports the genetic-cholestasis framing that pregnancy can unmask susceptibility in bile transporter or regulatory genes.</li>
 </ul>
-<h3>Genetic issues in intrahepatic cholestasis of pregnancy</h3>
+<h3 id="genetic-issues-in-intrahepatic-cholestasis-of-pregnancy">Genetic issues in intrahepatic cholestasis of pregnancy</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11384815/">https://pmc.ncbi.nlm.nih.gov/articles/PMC11384815/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -420,14 +455,14 @@
 <li><code>ABCB4</code>, <code>ABCB11</code>, <code>ATP8B1</code>, <code>TJP2</code>, <code>NR1H4</code>, and related genes as contributors in some cases.</li>
 <li>Severe/recurrent/early ICP as a reason to consider genetic and hepatology follow-up.</li>
 </ul>
-<h3>Cholic acid treatment for bile acid synthesis defects systematic review, 2024</h3>
+<h3 id="cholic-acid-treatment-for-bile-acid-synthesis-defects-systematic-review-2024">Cholic acid treatment for bile acid synthesis defects systematic review, 2024</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657003/">https://pmc.ncbi.nlm.nih.gov/articles/PMC11657003/</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Bile acid synthesis defects as a separate treatment bucket from PFIC/IBAT-centered pruritus management.</li>
 <li>Cholic-acid evidence limitations and monitoring caveats.</li>
 </ul>
-<h3>Bile acid synthesis disorder references</h3>
+<h3 id="bile-acid-synthesis-disorder-references">Bile acid synthesis disorder references</h3>
 <p>NORD overview: <a href="https://rarediseases.org/rare-diseases/bile-acid-synthesis-disorders/">https://rarediseases.org/rare-diseases/bile-acid-synthesis-disorders/</a></p>
 <p>Orphanet BASD2: <a href="https://www.orpha.net/en/disease/detail/79303">https://www.orpha.net/en/disease/detail/79303</a></p>
 <p>MedlinePlus BASD1: <a href="https://medlineplus.gov/genetics/condition/congenital-bile-acid-synthesis-defect-type-1/">https://medlineplus.gov/genetics/condition/congenital-bile-acid-synthesis-defect-type-1/</a></p>
@@ -437,7 +472,7 @@
 <li>Supports the distinction between cholic-acid replacement logic and IBAT-inhibitor logic.</li>
 <li>Supports the warning that late diagnosis with advanced liver disease can limit medical response and may require transplant evaluation.</li>
 </ul>
-<h3>Opinion paper on PFIC diagnosis and treatment</h3>
+<h3 id="opinion-paper-on-pfic-diagnosis-and-treatment">Opinion paper on PFIC diagnosis and treatment</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10772241/">https://pmc.ncbi.nlm.nih.gov/articles/PMC10772241/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -447,7 +482,7 @@
 <li>Provides monitoring intervals used in escalation documents: clinical assessment/liver biochemistry/fat-soluble vitamins/serum bile acids/growth every 3-6 months, and ultrasound plus liver stiffness every 6-12 months; cirrhosis surveillance with ultrasound and AFP every 6 months.</li>
 <li>Names refractory disease, end-stage liver disease, or intractable pruritus as triggers for case-by-case escalation including transplant.</li>
 </ul>
-<h3>Biliary diversion in PFIC systematic review/meta-analysis</h3>
+<h3 id="biliary-diversion-in-pfic-systematic-review-meta-analysis">Biliary diversion in PFIC systematic review/meta-analysis</h3>
 <p>URL: <a href="https://pubmed.ncbi.nlm.nih.gov/35051344/">https://pubmed.ncbi.nlm.nih.gov/35051344/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -455,7 +490,7 @@
 <li>Gives pooled PFIC child outcomes across partial external biliary drainage, partial internal biliary drainage, and ileal exclusion: pruritus resolution in 59.5%, later liver transplant in 27%, and complications more common with partial external diversion than partial internal diversion.</li>
 <li>Supports caution that results should be interpreted by subtype/procedure and that postoperative bile-acid and bilirubin response help predict later transplant need.</li>
 </ul>
-<h3>PFIC outcomes after biliary diversion by genetic subtype</h3>
+<h3 id="pfic-outcomes-after-biliary-diversion-by-genetic-subtype">PFIC outcomes after biliary diversion by genetic subtype</h3>
 <p>URL: <a href="https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1074229/full">https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1074229/full</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -463,7 +498,7 @@
 <li>Reports documented complications after partial external biliary diversion including high-output stoma, electrolyte depletion, stoma obstruction, stoma leakage, recurrent cholangitis, and a bile leak requiring emergent laparotomy after later stoma-related surgery in one patient.</li>
 <li>Supports treating bile-acid fall after diversion as an important response marker.</li>
 </ul>
-<h3>Surgical versus medical management of PFIC review</h3>
+<h3 id="surgical-versus-medical-management-of-pfic-review">Surgical versus medical management of PFIC review</h3>
 <p>URL: <a href="https://www.mdpi.com/2227-9067/10/6/949">https://www.mdpi.com/2227-9067/10/6/949</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -471,7 +506,7 @@
 <li>Supports listing adverse events after surgical biliary diversion: stoma irritation/retraction, dehydration and electrolyte imbalance with external diversion, diarrhea/frequent bowel movements with internal diversion, revision surgery, and possible transplant despite surgery.</li>
 <li>Supports the framing that surgery can be a bridge or delay strategy in selected patients, not a guaranteed cure.</li>
 </ul>
-<h3>Albumin dialysis/MARS for refractory cholestatic pruritus</h3>
+<h3 id="albumin-dialysis-mars-for-refractory-cholestatic-pruritus">Albumin dialysis/MARS for refractory cholestatic pruritus</h3>
 <p>Case series: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8456761/">https://pmc.ncbi.nlm.nih.gov/articles/PMC8456761/</a></p>
 <p>PFIC3 pregnancy case report: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2773349/">https://pmc.ncbi.nlm.nih.gov/articles/PMC2773349/</a></p>
 <p>Severe cholestatic DILI case series: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9374190/">https://pmc.ncbi.nlm.nih.gov/articles/PMC9374190/</a></p>
@@ -482,22 +517,22 @@
 <li>In the 2021 cholestatic-pruritus case series, repeated MARS gave relief ranging from weeks to months and was described as supportive therapy or bridge-to-transplant.</li>
 <li>The PFIC-variant evidence found was a single PFIC3 pregnancy case, not PFIC4.</li>
 </ul>
-<h3>Genotypes and clinical variants in PFIC review</h3>
+<h3 id="genotypes-and-clinical-variants-in-pfic-review">Genotypes and clinical variants in PFIC review</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/">https://pmc.ncbi.nlm.nih.gov/articles/PMC11846186/</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>PFIC4 pathobiology and IBAT response rationale.</li>
 <li>Distinction between historical supportive drugs and newer IBAT inhibition.</li>
 </ul>
-<h3>Pediatric cholestatic diseases in the era of IBAT inhibitors</h3>
+<h3 id="pediatric-cholestatic-diseases-in-the-era-of-ibat-inhibitors">Pediatric cholestatic diseases in the era of IBAT inhibitors</h3>
 <p>URL: <a href="https://www.mdpi.com/2036-7503/18/1/19">https://www.mdpi.com/2036-7503/18/1/19</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Recent 2026 review of IBAT inhibitors across pediatric cholestatic diseases.</li>
 <li>Notes that PFIC4/TJP2 may be especially responsive to IBAT inhibitors in small subgroup/real-world observations, with appropriate caution about limited numbers.</li>
 </ul>
-<h2>Specialist, researcher, hospital, and research-network sources</h2>
-<h3>PFIC Network Global PFIC Hospital Directory</h3>
+<h2 id="specialist-researcher-hospital-and-research-network-sources">Specialist, researcher, hospital, and research-network sources</h2>
+<h3 id="pfic-network-global-pfic-hospital-directory">PFIC Network Global PFIC Hospital Directory</h3>
 <p>URL: <a href="https://www.pfic.org/pfic-hospital-directory/">https://www.pfic.org/pfic-hospital-directory/</a></p>
 <p>Use in packet:</p>
 <ul>
@@ -505,14 +540,14 @@
 <li>Important caveat: the directory is not exhaustive, and PFIC Network says it cannot validate every listed treating program or provider&#39;s experience.</li>
 <li>Asterisk notation used as a public signal that a hospital participates in one of several research networks that specialize in PFIC.</li>
 </ul>
-<h3>PFIC Network Scientific Medical Advisory Board</h3>
+<h3 id="pfic-network-scientific-medical-advisory-board">PFIC Network Scientific Medical Advisory Board</h3>
 <p>URL: <a href="https://www.pfic.org/about-pfic-network/pfic-medical-advisory-board/">https://www.pfic.org/about-pfic-network/pfic-medical-advisory-board/</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Identifies public PFIC advisory-board clinicians/researchers: Richard Thompson, Laura Bull, Benjamin Shneider, Ronald Sokol, James Squires, Henkjan Verkade, and Silvia Vilarinho.</li>
 <li>Provides concise public rationale for several &quot;leading&quot; expert signals, including PFIC genetics, pediatric cholestasis, ChiLDReN, NAPPED/TreatFIC, and adult PFIC/liver genomics.</li>
 </ul>
-<h3>Cincinnati Children&#39;s Undiagnosed and Rare Liver Disease Center</h3>
+<h3 id="cincinnati-children-s-undiagnosed-and-rare-liver-disease-center">Cincinnati Children&#x27;s Undiagnosed and Rare Liver Disease Center</h3>
 <p>URLs:</p>
 <ul>
 <li><a href="https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease">https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease</a></li>
@@ -524,7 +559,7 @@
 <li>Supports Cincinnati as a high-signal PFIC care/research program with PFIC clinic, registry, clinical trials, hereditary liver panel, disease modeling, variant validation, and translational research claims.</li>
 <li>Names Akihiro Asai, William Balistreri, and Chunyue Yin as rare liver disease center team members.</li>
 </ul>
-<h3>King&#39;s College London / King&#39;s College Hospital liver molecular genetics and rare liver disease pages</h3>
+<h3 id="king-s-college-london-king-s-college-hospital-liver-molecular-genetics-and-rare-liver-disease-pages">King&#x27;s College London / King&#x27;s College Hospital liver molecular genetics and rare liver disease pages</h3>
 <p>URLs:</p>
 <ul>
 <li><a href="https://www.kcl.ac.uk/research/liver-molecular-genetics">https://www.kcl.ac.uk/research/liver-molecular-genetics</a></li>
@@ -535,7 +570,7 @@
 <li>Supports King&#39;s as a high-signal TJP2/PFIC4 and liver genetics program.</li>
 <li>Documents that Liver Molecular Genetics works closely with King&#39;s College Hospital Clinical Hepatology and is led clinically by Richard Thompson.</li>
 </ul>
-<h3>ChiLDReN Network and LOGIC study</h3>
+<h3 id="children-network-and-logic-study">ChiLDReN Network and LOGIC study</h3>
 <p>URLs:</p>
 <ul>
 <li><a href="https://childrennetwork.org/About-The-Network/ChiLDReN">https://childrennetwork.org/About-The-Network/ChiLDReN</a></li>
@@ -549,14 +584,14 @@
 <li>Supports LOGIC as a natural-history study including PFIC and other pediatric genetic cholestatic disorders.</li>
 <li>Provides research-network evidence for centers such as Children&#39;s Colorado, Cincinnati, Texas Children&#39;s, UPMC Pittsburgh, SickKids, UCSF, CHLA, CHOP, Seattle, Riley/Indiana, Lurie Chicago, Children&#39;s Healthcare of Atlanta, Primary Children&#39;s/Utah, and others.</li>
 </ul>
-<h3>Filfoie rare liver disease expert centers</h3>
+<h3 id="filfoie-rare-liver-disease-expert-centers">Filfoie rare liver disease expert centers</h3>
 <p>URL: <a href="https://en.filfoie.com/rare-liver-diseases-expert-centers/">https://en.filfoie.com/rare-liver-diseases-expert-centers/</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Supports Bicetre/AP-HP Paris-Saclay as the French coordinating reference center for biliary atresia and genetic cholestasis with pediatric hepatology, transplantation, surgery, imaging, endoscopy, pathology, and molecular biology support.</li>
 <li>Names Emmanuel Jacquemin and Emmanuel Gonzales among physicians publicly tied to the reference center.</li>
 </ul>
-<h3>PFIC Network webinar, conference, and research-roadmap materials</h3>
+<h3 id="pfic-network-webinar-conference-and-research-roadmap-materials">PFIC Network webinar, conference, and research-roadmap materials</h3>
 <p>URLs:</p>
 <ul>
 <li><a href="https://www.pfic.org/learn-about-pfic-disease/pfic-webinar-series/">https://www.pfic.org/learn-about-pfic-disease/pfic-webinar-series/</a></li>
@@ -571,63 +606,63 @@
 <li>Supports public PFIC education and research roles for Akihiro Asai, Henkjan Verkade, Emmanuel Gonzales, Paula Hertel, Gitta Lubke, Jim Squires, Richard Thompson, Silvia Vilarinho, Antonia Felzen, and others.</li>
 <li>Supports recent patient-centered research priorities around medication comparisons, surgeries, nutrition, mental-health/itch support, care delivery, insurance/access burden, and quality-of-life outcomes.</li>
 </ul>
-<h3>Mayo Clinic Pediatric Liver Clinic</h3>
+<h3 id="mayo-clinic-pediatric-liver-clinic">Mayo Clinic Pediatric Liver Clinic</h3>
 <p>URL: <a href="https://www.mayoclinic.org/departments-centers/childrens-center/overview/specialty-groups/pediatric-liver-clinic">https://www.mayoclinic.org/departments-centers/childrens-center/overview/specialty-groups/pediatric-liver-clinic</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Supports Mayo as a program to evaluate for complex pediatric liver disease, advanced hepatology/transplant care, transition to adult hepatology, living-donor liver transplant, and familial intrahepatic cholestasis conditions.</li>
 <li>Evidence is general pediatric liver/transplant and familial intrahepatic cholestasis, not as PFIC-specific as the PFIC-dedicated programs.</li>
 </ul>
-<h2>PFIC4-specific reports</h2>
-<h3>PFIC4 case report, 2024</h3>
+<h2 id="pfic4-specific-reports">PFIC4-specific reports</h2>
+<h3 id="pfic4-case-report-2024">PFIC4 case report, 2024</h3>
 <p>URL: <a href="https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-024-04662-5">https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-024-04662-5</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Mechanistic language about TJP2 deficiency, canalicular membrane integrity, bile acid reflux, and PFIC4 variability.</li>
 <li>Case-level example of medical therapy followed by biliary diversion for refractory pruritus.</li>
 </ul>
-<h3>Adult TJP2/PFIC4 family with cirrhosis and HCC</h3>
+<h3 id="adult-tjp2-pfic4-family-with-cirrhosis-and-hcc">Adult TJP2/PFIC4 family with cirrhosis and HCC</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7015721/</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Supports concern for variable expression, cirrhosis, portal hypertension, and HCC in TJP2/PFIC4.</li>
 <li>Useful for clinician discussion of surveillance.</li>
 </ul>
-<h3>Ge et al., 2019, compound heterozygous TJP2 mutations</h3>
+<h3 id="ge-et-al-2019-compound-heterozygous-tjp2-mutations">Ge et al., 2019, compound heterozygous TJP2 mutations</h3>
 <p>URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6339326/">https://pmc.ncbi.nlm.nih.gov/articles/PMC6339326/</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Case-level example of childhood jaundice, pruritus, growth failure, high serum bile acids, normal/low GGT, and compound heterozygous <code>TJP2</code> variants.</li>
 <li>Supports the practical point that symptoms may improve with supportive therapy while serum bile acids can remain high, so biochemical monitoring still matters.</li>
 </ul>
-<h3>Zhou et al., 2015, HCC associated with TJP2 deficiency</h3>
+<h3 id="zhou-et-al-2015-hcc-associated-with-tjp2-deficiency">Zhou et al., 2015, HCC associated with TJP2 deficiency</h3>
 <p>DOI: <a href="https://doi.org/10.1002/hep.27872">https://doi.org/10.1002/hep.27872</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Pediatric HCC reports in TJP2 deficiency.</li>
 <li>Supports explicit HCC surveillance planning while avoiding made-up PFIC4-specific percentage risk.</li>
 </ul>
-<h3>PFIC4 missense variant and phenotypic variability, 2025</h3>
+<h3 id="pfic4-missense-variant-and-phenotypic-variability-2025">PFIC4 missense variant and phenotypic variability, 2025</h3>
 <p>URL: <a href="https://www.nature.com/articles/s10038-025-01338-w">https://www.nature.com/articles/s10038-025-01338-w</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Supports pronounced variability even with the same TJP2 variant.</li>
 <li>Reinforces need for close monitoring.</li>
 </ul>
-<h2>Patient-facing rare disease resources</h2>
-<h3>GARD PFIC4</h3>
+<h2 id="patient-facing-rare-disease-resources">Patient-facing rare disease resources</h2>
+<h3 id="gard-pfic4">GARD PFIC4</h3>
 <p>URL: <a href="https://rarediseases.info.nih.gov/diseases/9803/cholestasis-progressive-familial-intrahepatic-4">https://rarediseases.info.nih.gov/diseases/9803/cholestasis-progressive-familial-intrahepatic-4</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>NIH rare disease summary, disease naming, inheritance context, and family-facing resource pointer.</li>
 </ul>
-<h3>Orphanet PFIC4</h3>
+<h3 id="orphanet-pfic4">Orphanet PFIC4</h3>
 <p>URL: <a href="https://www.orpha.net/en/disease/detail/480483">https://www.orpha.net/en/disease/detail/480483</a></p>
 <p>Use in packet:</p>
 <ul>
 <li>Rare disease naming, prevalence category, inheritance, and age-of-onset context.</li>
 </ul>
-<h2>Main evidence limitations</h2>
+<h2 id="main-evidence-limitations">Main evidence limitations</h2>
 <ul>
 <li>PFIC4-specific cohorts are very small.</li>
 <li>Maralixibat has randomized trial inclusion of PFIC4, but PFIC4 n was small.</li>
@@ -637,6 +672,16 @@
 
       </section>
     </div>
-  </main>
+  <footer class="related-pages"><h2>Related pages</h2><nav aria-label="Related pages">
+        <a href="pfic4-research-packet.html">Combined packet</a>
+        <a href="pfic4-parent-practical-guide.html">Parent guide</a>
+        <a href="pfic4-research-updates.html">Research updates</a>
+        <a href="tjp2-related-conditions.html">Related conditions</a>
+        <a href="layperson-pfic4-guide.html">PFIC4 family guide</a>
+        <a href="clinician-pfic4-brief.html">Clinician brief</a>
+        <a href="livmarli-maralixibat.html">Livmarli</a>
+        <a href="bylvay-odevixibat.html">Bylvay</a>
+      </nav><p class="source-link"><a href="../markdown/source-index.md">Markdown source</a></p></footer>
+</main>
 </body>
 </html>

@@ -4,7 +4,25 @@ Research checked: 2026-11-24. This is a literature review for discussion with he
 
 HTML companion: [pfic4-research-updates.html](../html/pfic4-research-updates.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | **[Research updates](pfic4-research-updates.md)**
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Current page: Overview / Research updates.
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Both IBAT inhibitors have direct TJP2 evidence.** Maralixibat has small randomized-trial subgroup inclusion; odevixibat has uncontrolled reports. Neither establishes PFIC4 prevention of HCC or transplant.
+- **TJP2 replacement work remains preclinical.** The mRNA patent describes cell experiments, not an available human treatment.
+- **Variant-specific prognosis remains limited.** Small cohorts and overlapping reports require cautious interpretation.
+- **Measure daily life as well as laboratory results.** Sleep, school participation, family function, and financial burden belong in treatment discussions.
 
 Related: [Combined packet](pfic4-research-packet.md), [parent guide](pfic4-parent-practical-guide.md), [related conditions](tjp2-related-conditions.md), [natural history](pfic4-natural-history.md), [specialist directory](layperson-pfic-specialists-and-centers.md), [source index](source-index.md).
 

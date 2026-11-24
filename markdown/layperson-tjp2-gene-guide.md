@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Other genes and synd
 
 HTML companion: [layperson-tjp2-gene-guide.html](../html/layperson-tjp2-gene-guide.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | **[TJP2 family guide](layperson-tjp2-gene-guide.md)** | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+TJP2 gene: **[Family guide](layperson-tjp2-gene-guide.md)** | [Clinician brief](clinician-tjp2-gene-brief.md)
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **TJP2 helps organize seals between cells.** In the liver, these seals help keep bile inside tiny bile channels.
+- **PFIC4 usually involves both gene copies.** A genetics team should interpret the exact variants, inheritance, and family testing needs.
+- **The gene name does not predict one fixed course.** Published TJP2 disease ranges from milder or recurrent cholestasis to severe childhood liver disease.
+- **Treatment can reduce downstream burden.** IBAT inhibitors may reduce bile-acid recycling, but they do not repair the TJP2 defect.
 
 Related packet files:
 
@@ -61,6 +79,8 @@ PFIC4 is not caused by parenting choices, diet, infection, or lifestyle. Food, h
 The same gene name can still cover a wide range of disease. Some `TJP2` changes may stop the protein from being made. Other changes may leave some protein function. Published reports show that PFIC4 can range from recurrent or milder cholestasis to severe childhood liver disease. That is why objective follow-up matters even when symptoms improve.
 
 ## Why the gene matters for care
+
+> **Key takeaway:** The genetic result and the actual course of liver disease both matter for care.
 
 The `TJP2` result can help the care team:
 

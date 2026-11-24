@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Bylvay's broader PFI
 
 HTML companion: [bylvay-odevixibat.html](../html/bylvay-odevixibat.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | **[Bylvay / odevixibat](bylvay-odevixibat.md)**
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+Current page: Drug details / Bylvay / odevixibat.
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **Odevixibat reduces bile-acid recycling.** It blocks intestinal reabsorption without repairing the TJP2 defect.
+- **The pivotal randomized trial studied PFIC1/PFIC2.** Direct uncontrolled TJP2 reports also exist. These do not establish PFIC4-specific randomized efficacy or comparative benefit against maralixibat.
+- **Formulation and administration matter.** The reviewed label separates pellets and capsules by weight and describes once-daily administration with a meal.
+- **Response needs safety monitoring.** Liver tests, diarrhea and hydration, fat-soluble vitamins, and INR matter. Public price examples below are historical, not expected out-of-pocket costs.
 
 Evidence correction checked 2026-11-24: PFIC4 support includes direct uncontrolled TJP2 reports, not only extrapolation. See [research update](pfic4-research-updates.md) for results, overlapping-cohort cautions, and limits. The current DailyMed safety/indication sections were rechecked; the older pricing snapshot below was not refreshed.
 
@@ -113,6 +131,8 @@ Postmarketing reports include GI hemorrhage, gingival hemorrhage, liver transpla
 
 ## Trial evidence
 
+> **Key takeaway:** The pivotal randomized odevixibat trial did not include PFIC4.
+
 This table focuses on PFIC-relevant odevixibat trials. It does not list every odevixibat study in other cholestatic diseases such as Alagille syndrome or biliary atresia.
 
 | Trial | Design | Population | PFIC4 relevance | Main evidence signal | Practical read |
@@ -127,7 +147,7 @@ PFIC4 read: Bylvay is U.S.-labeled for PFIC pruritus broadly, but the pivotal ra
 
 Drugs.com price guide examples checked on 2026-05-23. These are public cash-price examples, not expected out-of-pocket costs. Real cost depends on dose, formulation, insurance, specialty pharmacy, and assistance programs.
 
-| "Plan" style card | What the public listing showed | Simple read |
+| Public example | What the public listing showed | Simple read |
 | --- | --- | --- |
 | Small-pellet public example | 200 mcg oral pellets about $7,080-$7,434 per 30 | About $236-$248 per pellet. This is often the smallest listed unit. |
 | Capsule public example | 400 mcg capsules about $14,152-$14,859 per 30 | About $472-$495 per capsule. |

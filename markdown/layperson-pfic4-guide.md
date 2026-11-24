@@ -8,7 +8,25 @@ Scope: this packet is primarily about confirmed PFIC4 caused by `TJP2`, not othe
 
 HTML companion: [layperson-pfic4-guide.html](../html/layperson-pfic4-guide.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md) | [Practical parent guide](pfic4-parent-practical-guide.md) | [Research updates](pfic4-research-updates.md)
+- PFIC4 & TJP2: **[PFIC4 family guide](layperson-pfic4-guide.md)** | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md) | [Related conditions](tjp2-related-conditions.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | [Clinician center brief](clinician-pfic-specialists-and-centers.md)
+- Sources: [Sources](source-index.md)
+
+PFIC4: **[Family guide](layperson-pfic4-guide.md)** | [Clinician brief](clinician-pfic4-brief.md)
+
 HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
+## Key points
+
+- **PFIC4 starts with an inherited TJP2 problem.** Weakened seals between liver cells can let bile acids leak toward liver tissue.
+- **IBAT inhibitors reduce bile-acid recycling.** They may help itching and bile-acid burden, but do not repair the gene. PFIC4-specific trial evidence is small.
+- **Itch relief needs broader follow-up.** Sleep, growth, vitamins, blood tests, and liver scarring also matter.
+- **Ask for a clear escalation and surveillance plan.** Specialist discussion may include biliary diversion, transplant evaluation, and liver-cancer surveillance.
 
 November 2026 additions: [practical parent guide](pfic4-parent-practical-guide.md), [latest research and researchers](pfic4-research-updates.md), and [related conditions](tjp2-related-conditions.md). These expand individual follow-up, family burden, non-liver findings, and treatment evidence. Earlier cash-price examples below retain their May review date.
 
@@ -63,6 +81,8 @@ Things that may influence severity or quality of life:
 - Sleep disruption and skin injury from scratching.
 
 ## Drugs
+
+> **Key takeaway:** Less itching alone does not establish that liver injury is controlled.
 
 ### Maralixibat (Livmarli)
 
