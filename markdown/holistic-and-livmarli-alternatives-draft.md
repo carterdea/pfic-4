@@ -2,7 +2,7 @@
 
 Reviewed: 2026-11-24. Scope: PFIC4 / TJP2-associated cholestasis.
 
-HTML companion: [Read the page options](../html/holistic-and-livmarli-alternatives-draft.html).
+HTML companion: [Read the research page and layout options](../html/holistic-and-livmarli-alternatives-draft.html).
 
 Three draft layouts for review: A compares options, B explains mechanisms, and C prepares for an appointment. The shared research reviews and sources follow. Choose a layout before integrating this page into the packet.
 
