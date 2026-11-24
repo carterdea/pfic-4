@@ -4,6 +4,17 @@ Reviewed: 2026-05-23
 
 HTML companion: [clinician-pfic-specialists-and-centers.html](../html/clinician-pfic-specialists-and-centers.html)
 
+Packet navigation:
+
+- Overview: [Family guide](layperson-genetic-cholestasis-overview.md) | [Clinician overview](clinician-genetic-cholestasis-overview.md) | [Combined packet](pfic4-research-packet.md)
+- PFIC4 & TJP2: [PFIC4 family guide](layperson-pfic4-guide.md) | [PFIC4 clinician brief](clinician-pfic4-brief.md) | [TJP2 family guide](layperson-tjp2-gene-guide.md) | [TJP2 clinician brief](clinician-tjp2-gene-brief.md) | [Natural history](pfic4-natural-history.md)
+- Treatments: [Family escalation guide](layperson-treatment-escalation.md) | [Clinician escalation brief](clinician-treatment-escalation.md) | [Lower-cost options](cheap-generic-options-vs-ibat.md)
+- Drug details: [Livmarli / maralixibat](livmarli-maralixibat.md) | [Bylvay / odevixibat](bylvay-odevixibat.md)
+- Specialists: [Family center guide](layperson-pfic-specialists-and-centers.md) | **[Clinician center brief](clinician-pfic-specialists-and-centers.md)**
+- Sources: [Sources](source-index.md)
+
+Specialists and centers: [Family guide](layperson-pfic-specialists-and-centers.md) | **[Clinician brief](clinician-pfic-specialists-and-centers.md)**
+
 ## Key points
 
 - **Evaluate programs by evidence and clinical fit.** This is a referral research list, not a ranking.
