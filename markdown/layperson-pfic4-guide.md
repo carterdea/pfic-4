@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4 caused by `TJP2`, not othe
 
 HTML companion: [layperson-pfic4-guide.html](../html/layperson-pfic4-guide.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 November 2026 additions: [practical parent guide](pfic4-parent-practical-guide.md), [latest research and researchers](pfic4-research-updates.md), and [related conditions](tjp2-related-conditions.md). These expand individual follow-up, family burden, non-liver findings, and treatment evidence. Earlier cash-price examples below retain their May review date.
 
 Broader overview pages:

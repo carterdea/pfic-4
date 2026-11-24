@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Non-PFIC `TJP2` asso
 
 HTML companion: [clinician-tjp2-gene-brief.html](../html/clinician-tjp2-gene-brief.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related packet files:
 
 - [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)

@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 HTML companion: [pfic4-natural-history.html](../html/pfic4-natural-history.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 This is a research summary about PFIC4 natural history for discussion with a hepatology, genetics, transplant, or rare-disease team. It is not medical advice and does not predict any one patient's course.
 
 Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes and cholestasis conditions are mentioned only to separate their evidence from PFIC4 evidence.

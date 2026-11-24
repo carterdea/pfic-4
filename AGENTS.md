@@ -65,7 +65,7 @@
 - Whenever Markdown content changes, update the matching HTML in the same change.
 - Whenever HTML content changes, update the matching Markdown in the same change.
 - Link related HTML pages together so human readers can navigate between the layperson guide, clinician brief, combined packet, drug pages, source index, and future hospital pages.
-- Link each HTML page back to its Markdown companion in `../markdown/`.
+- Link each HTML page back to its Markdown companion in `../markdown/`. Keep this source link visually hidden, accessible to screen readers and agents, and visible on keyboard focus.
 - Link each Markdown page to its HTML companion in `../html/`.
 
 ## Document roles

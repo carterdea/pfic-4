@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 HTML companion: [layperson-pfic-specialists-and-centers.html](../html/layperson-pfic-specialists-and-centers.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 For the November 24, 2026 researcher shortlist, each group's recent work, and the questions they are equipped to answer, read [research updates and researchers](pfic4-research-updates.md). The directory below retains its May review date; current appointment availability and remote-review pathways need confirmation.
 
 This is a family-facing research guide. It is not medical advice and does not rank hospitals as "best." PFIC4 is rare, so the practical question is which programs have the strongest public evidence of PFIC, genetic cholestasis, pediatric hepatology, liver transplant, research-network, and second-opinion experience.

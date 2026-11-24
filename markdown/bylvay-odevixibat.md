@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Bylvay's broader PFI
 
 HTML companion: [bylvay-odevixibat.html](../html/bylvay-odevixibat.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Evidence correction checked 2026-11-24: PFIC4 support includes direct uncontrolled TJP2 reports, not only extrapolation. See [research update](pfic4-research-updates.md) for results, overlapping-cohort cautions, and limits. The current DailyMed safety/indication sections were rechecked; the older pricing snapshot below was not refreshed.
 
 Related packet files:

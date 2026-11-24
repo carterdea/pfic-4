@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 HTML companion: [clinician-pfic-specialists-and-centers.html](../html/clinician-pfic-specialists-and-centers.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 November 24, 2026 expansion: [researcher contributions, recent findings, and registry status](pfic4-research-updates.md). The older directory below remains a May snapshot, not a fresh verification of every clinician's affiliation or referral availability.
 
 This brief supports clinician-to-clinician discussion and second-opinion planning for PFIC4/TJP2-associated cholestasis. It is not a ranked hospital list. It separates public evidence signals from inference because PFIC4-specific patient volumes are rarely public.

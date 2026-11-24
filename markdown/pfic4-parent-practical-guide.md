@@ -4,6 +4,8 @@ Research checked: 2026-11-24. Use this to prepare conversations with the treatin
 
 HTML companion: [pfic4-parent-practical-guide.html](../html/pfic4-parent-practical-guide.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related: [Combined packet](pfic4-research-packet.md), [research and researchers](pfic4-research-updates.md), [related conditions](tjp2-related-conditions.md), [treatment escalation](layperson-treatment-escalation.md), [source index](source-index.md).
 
 ## The parent takeaways I would put first

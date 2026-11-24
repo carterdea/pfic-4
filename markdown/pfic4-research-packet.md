@@ -4,6 +4,8 @@ Reviewed: 2026-05-24
 
 HTML companion: [pfic4-research-packet.html](../html/pfic4-research-packet.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 ## November 24, 2026 expansion: start here
 
 The new [research and researchers review](pfic4-research-updates.md) separates direct PFIC4 findings from broader PFIC evidence, preclinical mRNA work, and incomplete conference reports. The [related-conditions guide](tjp2-related-conditions.md) explains familial hypercholanemia, rare eye/hearing observations, secondary vitamin complications, and similar genetic diseases. The [practical parent guide](pfic4-parent-practical-guide.md) turns the evidence into individual follow-up, surveillance, nutrition, school, and visit questions.

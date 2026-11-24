@@ -4,6 +4,8 @@ Reviewed: 2026-05-24
 
 HTML companion: [cheap-generic-options-vs-ibat.html](../html/cheap-generic-options-vs-ibat.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 This page compares lower-cost, usually generic, supportive options with IBAT inhibitors for PFIC4/TJP2 research discussions. It is not medical advice and should not be used to start, stop, or combine medicines without a hepatology team.
 
 Scope: confirmed or suspected PFIC4/TJP2. Some options below come from broader pediatric cholestasis, PFIC, Alagille syndrome, adult cholestatic-pruritus, or drug-label evidence. When evidence is not PFIC4-specific, it is labeled that way.

@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Other genes and synd
 
 HTML companion: [layperson-tjp2-gene-guide.html](../html/layperson-tjp2-gene-guide.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related packet files:
 
 - [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)

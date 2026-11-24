@@ -4,6 +4,8 @@ Research checked: 2026-11-24. This is a literature review for discussion with he
 
 HTML companion: [pfic4-research-updates.html](../html/pfic4-research-updates.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related: [Combined packet](pfic4-research-packet.md), [parent guide](pfic4-parent-practical-guide.md), [related conditions](tjp2-related-conditions.md), [natural history](pfic4-natural-history.md), [specialist directory](layperson-pfic-specialists-and-centers.md), [source index](source-index.md).
 
 ## What changes the conversation

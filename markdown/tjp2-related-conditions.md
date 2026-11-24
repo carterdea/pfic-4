@@ -4,6 +4,8 @@ Research checked: 2026-11-24. For discussion with hepatology, genetics, and the 
 
 HTML companion: [tjp2-related-conditions.html](../html/tjp2-related-conditions.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related: [Research updates](pfic4-research-updates.md), [parent guide](pfic4-parent-practical-guide.md), [family gene guide](layperson-tjp2-gene-guide.md), [clinician gene brief](clinician-tjp2-gene-brief.md), [genetic cholestasis comparison](clinician-genetic-cholestasis-overview.md), [source index](source-index.md).
 
 ## The distinction that prevents unnecessary fear

@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2, not other PFIC subty
 
 HTML companion: [clinician-pfic4-brief.html](../html/clinician-pfic4-brief.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Targeted evidence update, 2026-11-24: [research/researcher review](pfic4-research-updates.md), [non-liver associations and differential](tjp2-related-conditions.md), and [parent visit guide](pfic4-parent-practical-guide.md). See these for direct TJP2 odevixibat reports, TJP2 mRNA preclinical work, variant-class limitations, and 2026 patient-reported outcomes. Older pricing and conference snapshots below keep their original dates.
 
 Broader overview pages:

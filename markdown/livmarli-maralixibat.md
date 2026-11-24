@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Livmarli's broader P
 
 HTML companion: [livmarli-maralixibat.html](../html/livmarli-maralixibat.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related packet files:
 
 - [Layperson PFIC4 guide](layperson-pfic4-guide.md)

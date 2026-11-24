@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes,
 
 HTML companion: [clinician-genetic-cholestasis-overview.html](../html/clinician-genetic-cholestasis-overview.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related packet pages:
 
 - [PFIC4 clinician brief](clinician-pfic4-brief.md)

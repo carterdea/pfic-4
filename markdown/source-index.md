@@ -10,6 +10,8 @@ Scope: this source index supports a confirmed PFIC4/TJP2 packet. Sources about o
 
 HTML companion: [source-index.html](../html/source-index.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 ## November 2026 research expansion
 
 New reading paths: [research updates and researchers](pfic4-research-updates.md), [TJP2-related conditions](tjp2-related-conditions.md), and [practical parent guide](pfic4-parent-practical-guide.md). Each has an HTML companion.

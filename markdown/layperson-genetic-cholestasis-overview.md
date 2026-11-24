@@ -8,6 +8,8 @@ Scope: this packet is mainly about confirmed PFIC4 caused by `TJP2`. Other PFIC 
 
 HTML companion: [layperson-genetic-cholestasis-overview.html](../html/layperson-genetic-cholestasis-overview.html)
 
+HTML presentation: the Markdown source link is visually hidden and appears on keyboard focus.
+
 Related packet pages:
 
 - [PFIC4 guide for family discussion](layperson-pfic4-guide.md)
