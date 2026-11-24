@@ -4,6 +4,13 @@ Reviewed: 2026-05-23
 
 HTML companion: [pfic4-natural-history.html](../html/pfic4-natural-history.html)
 
+## Key points
+
+- **Published courses vary widely.** TJP2-associated disease ranges from severe infantile cholestasis to milder, recurrent, or later-recognized disease.
+- **Variant class provides clues, not a forecast.** Biallelic predicted protein-truncating variants have the strongest reported association with earlier, more severe disease.
+- **Small cohorts limit prognosis.** Case reports and family series cannot provide a reliable individual progression or cancer-risk percentage.
+- **Follow the observed course.** Treatment response, growth, liver markers, fibrosis, and an explicit HCC surveillance plan matter alongside genetics.
+
 This is a research summary about PFIC4 natural history for discussion with a hepatology, genetics, transplant, or rare-disease team. It is not medical advice and does not predict any one patient's course.
 
 Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes and cholestasis conditions are mentioned only to separate their evidence from PFIC4 evidence.
@@ -44,6 +51,8 @@ BRIC-like or recurrent cholestasis has also been reported with a single heterozy
 Adult family reports add another caution. Wei et al. 2020 described a homozygous nonsense `TJP2` variant in a large family with very variable expression: some homozygous adults had cirrhosis, portal hypertension, and HCC, while other homozygous siblings had elevated liver enzymes without cirrhosis at the time of evaluation. The authors raised age-dependent penetrance and modifier variants as possible explanations.
 
 ## Genotype and phenotype uncertainty
+
+> **Key takeaway:** Genotype helps frame risk; it does not determine one patient's future.
 
 | Variant or evidence pattern | What it suggests | How strong it is |
 | --- | --- | --- |

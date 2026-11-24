@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Non-PFIC `TJP2` asso
 
 HTML companion: [clinician-tjp2-gene-brief.html](../html/clinician-tjp2-gene-brief.html)
 
+## Key points
+
+- **TJP2 encodes ZO-2, a tight-junction protein.** Biallelic pathogenic variants are associated with PFIC4.
+- **The working mechanism is barrier dysfunction.** Disrupted junction organization and claudin-1 localization can permit bile reflux or leakage.
+- **Variant interpretation needs clinical context.** Confirm transcript, phase, classification, and possible residual function; genotype does not fully predict phenotype.
+- **Treatment addresses downstream consequences.** Enterohepatic interruption does not repair TJP2. Longitudinal liver markers and an explicit HCC surveillance plan remain important.
+
 Related packet files:
 
 - [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
@@ -75,6 +82,8 @@ Monitoring questions to clarify:
 - Are there extrahepatic screening needs based on the exact variants or patient phenotype?
 
 ## Treatment relevance
+
+> **Key takeaway:** Reducing the bile-acid pool does not correct the underlying tight-junction defect.
 
 The gene-level defect is not currently corrected by approved PFIC medications. Current treatment logic is indirect:
 

@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4 caused by `TJP2`, not othe
 
 HTML companion: [layperson-pfic4-guide.html](../html/layperson-pfic4-guide.html)
 
+## Key points
+
+- **PFIC4 starts with an inherited TJP2 problem.** Weakened seals between liver cells can let bile acids leak toward liver tissue.
+- **IBAT inhibitors reduce bile-acid recycling.** They may help itching and bile-acid burden, but do not repair the gene. PFIC4-specific trial evidence is small.
+- **Itch relief needs broader follow-up.** Sleep, growth, vitamins, blood tests, and liver scarring also matter.
+- **Ask for a clear escalation and surveillance plan.** Specialist discussion may include biliary diversion, transplant evaluation, and liver-cancer surveillance.
+
 Broader overview pages:
 
 - [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)
@@ -59,6 +66,8 @@ Things that may influence severity or quality of life:
 - Sleep disruption and skin injury from scratching.
 
 ## Drugs
+
+> **Key takeaway:** Less itching alone does not establish that liver injury is controlled.
 
 ### Maralixibat (Livmarli)
 

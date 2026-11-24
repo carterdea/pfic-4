@@ -4,6 +4,13 @@ Reviewed: 2026-05-23
 
 HTML companion: [layperson-pfic-specialists-and-centers.html](../html/layperson-pfic-specialists-and-centers.html)
 
+## Key points
+
+- **Use this as a shortlist to investigate.** The programs and people below are not a hospital ranking.
+- **Look for relevant experience.** PFIC/genetic cholestasis work, pediatric hepatology, transplant access, genetics, and nutrition support are useful signals.
+- **Verify practical fit directly.** Age, geography, insurance, consultation availability, and the specific second-opinion question affect the choice.
+- **Bring records that show the course over time.** Exact TJP2 variants, laboratory trends, imaging, growth, and medication responses help a specialist assess the case.
+
 This is a family-facing research guide. It is not medical advice and does not rank hospitals as "best." PFIC4 is rare, so the practical question is which programs have the strongest public evidence of PFIC, genetic cholestasis, pediatric hepatology, liver transplant, research-network, and second-opinion experience.
 
 Scope: this guide is for finding PFIC4/TJP2-relevant expertise. Broader PFIC or genetic-cholestasis signals are included only when public PFIC4-specific volume or experience is not visible.
@@ -87,6 +94,8 @@ This list means "publicly visible PFIC or genetic cholestasis leadership," not "
 - Root-cause therapy is still research-stage. Current approved drugs reduce bile-acid burden and itch; they do not repair `TJP2`.
 
 ## How to choose who to contact first
+
+> **Key takeaway:** Public PFIC research activity is a useful signal, not proof of experience with a specific TJP2 variant.
 
 Start with practical constraints, then expertise:
 

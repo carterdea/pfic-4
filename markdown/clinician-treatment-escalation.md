@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Treatments for other
 
 HTML companion: [clinician-treatment-escalation.html](../html/clinician-treatment-escalation.html)
 
+## Key points
+
+- **Assess symptoms and objective disease markers together.** Pruritus response does not establish prevention of fibrosis, HCC, or transplant in PFIC4.
+- **Keep evidence tiers explicit.** Maralixibat has small randomized-trial PFIC4 subgroup inclusion. Odevixibat's pivotal randomized evidence is PFIC1/PFIC2; other candidates often rely on broader disease evidence or inference.
+- **Support nutrition and fat-soluble vitamins at every stage.** Monitor growth, intake, deficiencies, drug timing, and treatment-related diarrhea.
+- **Define escalation thresholds before treatment trials.** Refractory symptoms, growth failure, progression, decompensation, or HCC concern warrant expert surgical or transplant review.
+
 Related packet files:
 
 - [PFIC4 clinician brief](clinician-pfic4-brief.md) / [HTML](../html/clinician-pfic4-brief.html)
@@ -38,6 +45,8 @@ The practical escalation question is not only whether itch improves. It is wheth
 | Liver transplant | Broader PFIC/genetic cholestasis plus PFIC4 severe-course reports | Definitive escalation for end-stage disease, decompensation, HCC, or refractory pruritus/growth/nutrition burden despite other options. |
 
 ## Mechanism-to-candidate treatment map
+
+> **Key takeaway:** A plausible mechanism is a reason for specialist discussion, not proof of PFIC4 treatment benefit.
 
 Use this as a discussion map, not a treatment menu. The strongest PFIC4 logic is still upstream reduction of bile-acid exposure plus careful monitoring. Candidate strategies in the lower-evidence rows should be treated as related-disease evidence or mechanistic inference until a PFIC/genetic cholestasis team decides they fit the patient's genotype, anatomy, fibrosis stage, age, and medication history.
 

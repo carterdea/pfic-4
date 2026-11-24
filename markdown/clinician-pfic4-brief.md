@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2, not other PFIC subty
 
 HTML companion: [clinician-pfic4-brief.html](../html/clinician-pfic4-brief.html)
 
+## Key points
+
+- **PFIC4 is a TJP2-associated barrier disorder.** Tight-junction dysfunction can permit paracellular bile reflux or leakage; it is not primarily a BSEP pump defect.
+- **IBAT evidence differs by drug.** MARCH-PFIC included a very small TJP2/PFIC4 subgroup. PEDFIC 1 studied PFIC1/PFIC2.
+- **Separate symptom response from disease modification.** Follow serum bile acids, bilirubin, synthetic function, growth, vitamins, fibrosis, and portal-hypertension markers alongside itch.
+- **Make escalation and HCC surveillance explicit.** Refractory symptoms, nutritional failure, progression, decompensation, or malignancy concern require specialist review.
+
 Broader overview pages:
 
 - [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
@@ -42,6 +49,8 @@ Expected clinical pattern:
 
 ## Current PFIC-directed drug options
 
+> **Key takeaway:** PFIC4 trial inclusion supports cautious interpretation, not certainty about long-term disease modification.
+
 ### Comparison table
 
 Prices below are public cash/price-guide examples checked on 2026-05-23, not expected out-of-pocket cost. Dose, formulation, insurance coverage, manufacturer assistance, and specialty-pharmacy contracts can dominate actual cost.
@@ -69,7 +78,7 @@ Prices below are public cash/price-guide examples checked on 2026-05-23, not exp
 | Odevixibat | PEDFIC 1 / NCT03566238 | Phase 3, 24-week randomized placebo-controlled trial; 62 pediatric PFIC1/PFIC2 patients. | Positive pruritus assessments 55% combined odevixibat vs 30% placebo; serum bile-acid response 33% vs 0%. | No PFIC4 in pivotal randomized trial. |
 | Odevixibat | PEDFIC 2 / NCT03659916 | Open-label extension and broader PFIC enrollment; EU results report 116 participants through a 2024 cutoff. | Longer-term serum bile-acid and pruritus response signals; EMA product information describes broader PFIC subgroups including PFIC3/PFIC4/PFIC6/episodic PFIC. | Broader-genotype support, but open-label and weaker than PFIC4-specific randomized evidence. |
 
-### Public price examples in card form
+### Public price examples
 
 These are public cash-price examples, not expected out-of-pocket cost. Dose, formulation, insurance coverage, manufacturer assistance, and specialty-pharmacy contracts can dominate actual cost.
 

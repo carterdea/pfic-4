@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Livmarli's broader P
 
 HTML companion: [livmarli-maralixibat.html](../html/livmarli-maralixibat.html)
 
+## Key points
+
+- **Maralixibat reduces bile-acid recycling.** It blocks intestinal reabsorption without repairing the TJP2 defect.
+- **PFIC4 patients were directly included.** MARCH-PFIC included a small TJP2/PFIC4 subgroup. The broader trial result is not a large PFIC4-specific result.
+- **Formulation matters.** The reviewed label distinguishes PFIC solution strength from the Alagille solution and limits tablet eligibility by weight and swallowing ability.
+- **Response needs safety monitoring.** Liver tests, diarrhea and hydration, fat-soluble vitamins, and INR matter. Public price examples below are historical, not expected out-of-pocket costs.
+
 Related packet files:
 
 - [Layperson PFIC4 guide](layperson-pfic4-guide.md)
@@ -91,6 +98,8 @@ Trial 2 rates highlighted in the label/subagent review included diarrhea 57.4% w
 
 ## Trial evidence
 
+> **Key takeaway:** Direct PFIC4 trial inclusion is useful evidence, but the subgroup was very small.
+
 This table focuses on PFIC-relevant maralixibat trials. It does not list every maralixibat study in other cholestatic diseases such as Alagille syndrome.
 
 | Trial | Design | Population | PFIC4 relevance | Main evidence signal | Practical read |
@@ -107,7 +116,7 @@ PFIC4 read: this is supportive because PFIC4 patients were directly included, bu
 
 Drugs.com price guide examples checked on 2026-05-23. These are public cash-price examples, not expected out-of-pocket costs. Real cost depends on dose, formulation, insurance, specialty pharmacy, and assistance programs.
 
-| "Plan" style card | What the public listing showed | Simple read |
+| Public example | What the public listing showed | Simple read |
 | --- | --- | --- |
 | Oral liquid public example | 9.5 mg/mL oral liquid from about $56,957 per 30 mL | About $1,899 per mL in the visible public listing. PFIC uses the 19 mg/mL solution, so do not use this to calculate the actual PFIC cost. |
 | Tablet public example | 10 mg tablets from about $59,955 per 30 tablets | About $1,999 per tablet. Tablet use depends on weight and ability to swallow tablets. |

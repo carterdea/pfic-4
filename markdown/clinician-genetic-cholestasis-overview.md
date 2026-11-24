@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes,
 
 HTML companion: [clinician-genetic-cholestasis-overview.html](../html/clinician-genetic-cholestasis-overview.html)
 
+## Key points
+
+- **Use gene-first, mechanism-based framing.** Transporter, tight-junction, duct-development, and bile-acid synthesis disorders need different interpretation.
+- **PFIC, BRIC, and ICP describe clinical patterns.** Overlapping genes can produce progressive, episodic, or trigger-associated disease.
+- **GGT and bile acids are triage clues.** They do not replace variant interpretation, segregation, imaging, or specialized bile-acid testing when indicated.
+- **Transfer treatment evidence cautiously.** PFIC4/TJP2 is the packet's focus; Alagille and synthesis-defect evidence does not establish PFIC4 benefit.
+
 Related packet pages:
 
 - [PFIC4 clinician brief](clinician-pfic4-brief.md)
@@ -128,6 +135,8 @@ Initial workup should still protect time-sensitive diagnoses such as biliary atr
 When using a panel, check what the test actually covers: older PFIC genes alone are not enough for a modern cholestasis differential. The panel or exome/genome workflow should include copy-number analysis where relevant, current PFIC-like genes, Alagille genes, bile acid synthesis/conjugation genes, and genes that point to syndromic intestinal, renal, hearing, vascular, or ciliary disease. If the clinical picture and result disagree, re-review the phenotype and the raw variant evidence rather than forcing the patient into the nearest PFIC number.
 
 ## Treatment implications by bucket
+
+> **Key takeaway:** A shared symptom does not make the underlying diseases or their treatments interchangeable.
 
 | Bucket | Symptom management | Disease-targeted or escalation logic |
 | --- | --- | --- |

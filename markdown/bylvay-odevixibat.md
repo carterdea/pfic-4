@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Bylvay's broader PFI
 
 HTML companion: [bylvay-odevixibat.html](../html/bylvay-odevixibat.html)
 
+## Key points
+
+- **Odevixibat reduces bile-acid recycling.** It blocks intestinal reabsorption without repairing the TJP2 defect.
+- **The pivotal randomized trial studied PFIC1/PFIC2.** PFIC4 relevance comes from broader labeling and open-label or extrapolated evidence.
+- **Formulation and administration matter.** The reviewed label separates pellets and capsules by weight and describes once-daily administration with a meal.
+- **Response needs safety monitoring.** Liver tests, diarrhea and hydration, fat-soluble vitamins, and INR matter. Public price examples below are historical, not expected out-of-pocket costs.
+
 Related packet files:
 
 - [Layperson PFIC4 guide](layperson-pfic4-guide.md)
@@ -109,6 +116,8 @@ Postmarketing reports include GI hemorrhage, gingival hemorrhage, liver transpla
 
 ## Trial evidence
 
+> **Key takeaway:** The pivotal randomized odevixibat trial did not include PFIC4.
+
 This table focuses on PFIC-relevant odevixibat trials. It does not list every odevixibat study in other cholestatic diseases such as Alagille syndrome or biliary atresia.
 
 | Trial | Design | Population | PFIC4 relevance | Main evidence signal | Practical read |
@@ -123,7 +132,7 @@ PFIC4 read: Bylvay is U.S.-labeled for PFIC pruritus broadly, but the pivotal ra
 
 Drugs.com price guide examples checked on 2026-05-23. These are public cash-price examples, not expected out-of-pocket costs. Real cost depends on dose, formulation, insurance, specialty pharmacy, and assistance programs.
 
-| "Plan" style card | What the public listing showed | Simple read |
+| Public example | What the public listing showed | Simple read |
 | --- | --- | --- |
 | Small-pellet public example | 200 mcg oral pellets about $7,080-$7,434 per 30 | About $236-$248 per pellet. This is often the smallest listed unit. |
 | Capsule public example | 400 mcg capsules about $14,152-$14,859 per 30 | About $472-$495 per capsule. |

@@ -4,6 +4,13 @@ Reviewed: 2026-05-24
 
 HTML companion: [pfic4-research-packet.html](../html/pfic4-research-packet.html)
 
+## Key points
+
+- **PFIC4 is linked to TJP2 barrier dysfunction.** Bile-acid leakage or reflux can contribute to itching and liver injury. Severity varies.
+- **IBAT inhibitors reduce bile-acid recycling.** Maralixibat has small PFIC4 trial-subgroup inclusion; odevixibat's pivotal randomized trial studied PFIC1/PFIC2. Neither repairs TJP2.
+- **Supportive treatments have distinct targets.** Gut binders, itch medicines, vitamins, and nutrition need separate evidence and safety review with the treating team.
+- **Track more than itch.** Bile acids, bilirubin, growth, vitamins, liver function, fibrosis, and HCC surveillance help guide treatment and escalation.
+
 This is the Markdown companion to the combined human-facing packet. It mirrors the major layperson, clinician, drug, source, and evidence-limit sections from the HTML file. It is a general research summary for discussion with a treating hepatology team and is not medical advice.
 
 Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, and broader genetic cholestasis appear only as comparison context, treatment-label context, differential context, or center-search context.
@@ -55,6 +62,8 @@ Things that may influence severity or quality of life include exact `TJP2` varia
 For a focused evidence review on early severe disease, milder/recurrent disease, and genotype-phenotype uncertainty, see [PFIC4 natural history](pfic4-natural-history.md).
 
 ## Drugs
+
+> **Key takeaway:** Symptom improvement and objective liver response need separate tracking.
 
 Dedicated drug pages:
 

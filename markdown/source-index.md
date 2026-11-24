@@ -8,6 +8,13 @@ Scope: this source index supports a confirmed PFIC4/TJP2 packet. Sources about o
 
 HTML companion: [source-index.html](../html/source-index.html)
 
+## Key points
+
+- **Use labels for formulation and safety details.** The packet links drug labels separately from efficacy publications and price guides.
+- **Check trial populations before transferring results.** Small PFIC4 subgroup inclusion differs from PFIC1/PFIC2 evidence and open-label follow-up.
+- **Keep evidence strength visible.** PFIC4 cohorts, case reports, broader PFIC studies, and mechanistic hypotheses answer different questions.
+- **Dates matter.** The review dates below describe the existing evidence review. Labels, prices, trial status, and referral access need rechecking for a current decision.
+
 HTML packet files:
 
 - [Genetic cholestasis overview for family discussion](../html/layperson-genetic-cholestasis-overview.html)

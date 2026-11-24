@@ -8,6 +8,13 @@ Scope: this packet is mainly about confirmed PFIC4 caused by `TJP2`. Other PFIC 
 
 HTML companion: [layperson-genetic-cholestasis-overview.html](../html/layperson-genetic-cholestasis-overview.html)
 
+## Key points
+
+- **Genetic cholestasis includes different problems.** Genes can affect bile pumps, cell seals, bile-duct development, or bile-acid chemistry.
+- **PFIC4 is the TJP2 cell-seal disorder.** Other cholestasis diagnoses provide comparison context, not interchangeable treatment evidence.
+- **Tests need interpretation together.** GGT and bile-acid patterns are clues; the exact gene and variants help explain the condition.
+- **Treatment follows the underlying problem.** Bile-acid synthesis defects, Alagille syndrome, and PFIC can need different treatment and monitoring plans.
+
 Related packet pages:
 
 - [PFIC4 guide for family discussion](layperson-pfic4-guide.md)
@@ -119,6 +126,8 @@ The gene result should help the care team move from "there is cholestasis" to "w
 The gene does not answer everything by itself. The same gene can behave differently in different people, so the team still has to track symptoms, labs, growth, vitamins, imaging, fibrosis, and treatment response over time.
 
 ## Treatment buckets
+
+> **Key takeaway:** Two families can both hear "cholestasis" and need different tests, monitoring, and treatments.
 
 Different genetic cholestasis diseases can use some of the same symptom medicines, but the deeper treatment logic differs.
 

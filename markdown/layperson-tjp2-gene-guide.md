@@ -8,6 +8,13 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Other genes and synd
 
 HTML companion: [layperson-tjp2-gene-guide.html](../html/layperson-tjp2-gene-guide.html)
 
+## Key points
+
+- **TJP2 helps organize seals between cells.** In the liver, these seals help keep bile inside tiny bile channels.
+- **PFIC4 usually involves both gene copies.** A genetics team should interpret the exact variants, inheritance, and family testing needs.
+- **The gene name does not predict one fixed course.** Published TJP2 disease ranges from milder or recurrent cholestasis to severe childhood liver disease.
+- **Treatment can reduce downstream burden.** IBAT inhibitors may reduce bile-acid recycling, but they do not repair the TJP2 defect.
+
 Related packet files:
 
 - [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)
@@ -59,6 +66,8 @@ PFIC4 is not caused by parenting choices, diet, infection, or lifestyle. Food, h
 The same gene name can still cover a wide range of disease. Some `TJP2` changes may stop the protein from being made. Other changes may leave some protein function. Published reports show that PFIC4 can range from recurrent or milder cholestasis to severe childhood liver disease. That is why objective follow-up matters even when symptoms improve.
 
 ## Why the gene matters for care
+
+> **Key takeaway:** The genetic result and the actual course of liver disease both matter for care.
 
 The `TJP2` result can help the care team:
 

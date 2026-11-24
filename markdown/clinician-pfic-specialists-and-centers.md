@@ -4,6 +4,13 @@ Reviewed: 2026-05-23
 
 HTML companion: [clinician-pfic-specialists-and-centers.html](../html/clinician-pfic-specialists-and-centers.html)
 
+## Key points
+
+- **Evaluate programs by evidence and clinical fit.** This is a referral research list, not a ranking.
+- **Separate PFIC4-specific from broader PFIC expertise.** Publications, trial participation, variant interpretation, and multidisciplinary capacity provide different signals.
+- **Confirm current access and experience.** PFIC4 patient volumes and remote second-opinion availability are not established by this packet.
+- **Send a longitudinal second-opinion packet.** Include exact genetics, biochemical trends, nutrition, imaging, prior treatment response, and the clinical decision needing review.
+
 This brief supports clinician-to-clinician discussion and second-opinion planning for PFIC4/TJP2-associated cholestasis. It is not a ranked hospital list. It separates public evidence signals from inference because PFIC4-specific patient volumes are rarely public.
 
 Scope: this packet is primarily about confirmed PFIC4/TJP2. Broader PFIC and genetic-cholestasis center signals are included only when they help identify programs likely to evaluate a PFIC4/TJP2 case.
@@ -82,6 +89,8 @@ Public evidence was weighted in this order:
 | Root-cause therapies | Gene editing/gene therapy remains investigational and currently more visible for other PFIC subtypes such as PFIC3. No approved therapy repairs `TJP2`. |
 
 ## Suggested second-opinion packet
+
+> **Key takeaway:** The most useful referral names the decision needing review and includes the evidence behind it.
 
 - Genetic report with transcript, variant nomenclature, zygosity, classification, parental testing, and any reanalysis history.
 - Baseline and longitudinal serum bile acids, total/direct bilirubin, AST/ALT, GGT, INR, albumin, platelets, CBC, AFP.
