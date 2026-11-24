@@ -24,7 +24,7 @@ The similarity column separates **how an option works** from **whether comparabl
 | Resveratrol | Reduced ASBT activity and promoted transporter breakdown in cell experiments. | **Same target in the laboratory, different action.** More fecal bile-acid loss did not lower blood bile acids in one mouse study; other cholestasis models showed benefit. | Mixed animal findings; no human PFIC4 efficacy or safety trial identified. | No established pediatric PFIC4 regimen. Limited adolescent exposure in another disease cannot establish safety here. [6](https://doi.org/10.1042/BJ20131428), [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC4817264/), [17](https://www.spandidos-publications.com/10.3892/mmr.2017.8051), [21](https://www.nature.com/articles/s41598-020-77197-6) |
 | Green-tea EGCG extract | Inhibited ASBT activity in cultured cells. | **Same target in the laboratory, contradictory animal effects.** Increased fecal loss in mice, but doubled blood bile acids and reduced bile flow in another rat experiment. | No human PFIC4 efficacy or safety trial identified. A pediatric trial in another condition excluded liver disease. | Human liver-injury signal; pediatric findings do not establish PFIC4 safety. [18](https://doi.org/10.1002/mnfr.201700696), [19](https://pubmed.ncbi.nlm.nih.gov/23146761/), [22](https://aacrjournals.org/cancerpreventionresearch/article/10/10/571/112911/Effect-of-Green-Tea-Supplements-on-Liver-Enzyme), [24](https://clinicaltrials.gov/study/NCT03624556) |
 | Ursodiol / UDCA | Changes bile-acid composition and supports bile flow. | **Different mechanism.** Pediatric trials report lower serum bile acids, with low-quality evidence for that endpoint. | Broader pediatric experience and limited direct TJP2 clinical reports; established PFIC4 disease modification is lacking. | Short-term results from other causes of cholestasis do not establish long-term PFIC4 protection. [26](https://pubmed.ncbi.nlm.nih.gov/31696999/), [27](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280691) |
-| Compound acidophilus tablets added to UDCA | Adults received commercial compound tablets; ATCC 4356 was the strain used in the mouse experiments. | **Preliminary human bile-acid effect, with unconfirmed human strain identities.** The reported clinical result cannot be assigned to ATCC 4356 or acidophilus alone. | Twenty adults, 14 days; no pediatric PFIC4 efficacy or safety established. | Human strain codes and exact trial-batch composition were not verified. This is not a basis for selecting an acidophilus supplement. [28](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2390176), [34](https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200063330) |
+| Compound acidophilus tablets added to UDCA | Adults received commercial compound tablets; ATCC 4356 was the strain used in the mouse experiments. | **Preliminary human bile-acid effect, with unconfirmed human strain identities.** The reported clinical result cannot be assigned to ATCC 4356 or acidophilus alone. | Twenty adults, 14 days; no pediatric PFIC4 efficacy or safety established. | YiJunKang is a strong commercial product match, not a verified trial batch. Human strain codes remain unconfirmed; no US equivalent was verified. [28](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2390176), [34](https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200063330), [37](https://drugs.dxy.cn/pc/drug/xV6nXUgBS7WddfR49T31qA==) |
 | Bacillus coagulans, reported as Lactobacillus sporogenesis | Different probiotic studied as an adjunct in children with cholestatic cirrhosis. | **No demonstrated bile-acid-lowering match.** The trial did not report serum bile-acid outcomes. | Pediatric trial included PFIC, without PFIC4-specific results; 56 children analyzed. | No significant between-group improvement in the main liver-disease score; short follow-up and participant exclusions limit safety conclusions. [29](https://doi.org/10.5812/ijpediatr-153706) |
 | Fenofibrate | Prescription PPAR-alpha agonist with effects on bile-acid handling, rather than IBAT blockade. | **Different mechanism with pediatric biochemical observations.** Serum bile acids fell in an uncontrolled add-on series. | Twenty-five children with cholestatic disease; no established PFIC4-specific benefit. | Pediatric safety is unestablished in the U.S. label, which contraindicates active liver disease. Specialist research discussion only. [31](https://www.elsevier.es/en-revista-annals-hepatology-16-articulo-fenofibrate-in-managing-cholestatic-pruritus-S1665268125003576), [32](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cb6617c-f787-470f-81d8-0aba46df937f) |
 | TUDCA | Taurine-conjugated ursodiol; investigated for bile-acid composition and cell-protection effects. | **Different mechanism.** Related to UDCA, with no demonstrated equivalent PFIC4 effects to Livmarli or Bylvay. | Related-disease evidence and mechanistic inference; PFIC4 benefit unestablished. | A trial in a different neonatal cholestatic condition found no benefit. Not an established PFIC4 substitute. [9](https://pubmed.ncbi.nlm.nih.gov/12183720/) |
@@ -104,6 +104,8 @@ There is some pediatric exposure to ATCC 4356 in other settings. A neonatal obse
 
 The mouse mechanism involved altered microbial bile-salt processing and intestinal feedback that reduced bile-acid synthesis, rather than established direct IBAT blockade. Whether the same net effect occurs safely in pediatric TJP2 disease remains unanswered. A supplement labeled acidophilus, even with a larger bacterial count, cannot be assumed equivalent to the clinical preparation. [28](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2390176)
 
+[See the YiJunKang product match and US comparisons](#yijunkang-product-match-and-us-comparisons) for the documented cultures and why FiveLac is not an equivalent.
+
 ### Fenofibrate has pediatric measurements and important restrictions
 
 **The U.S. fenofibrate label contraindicates use in active liver disease and states that pediatric safety and effectiveness are unestablished.** It also warns about serious drug-induced liver injury. Published off-label cholestasis experience does not remove those restrictions or establish a safer alternative for PFIC4. [32](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cb6617c-f787-470f-81d8-0aba46df937f)
@@ -119,6 +121,32 @@ These observations come from the pediatric fenofibrate series. They support spec
 ### What would make an alternative convincing?
 
 Evidence would need to show durable serum bile-acid reduction in children with TJP2 disease, alongside acceptable liver and nutritional safety, symptom control, growth, and longer-term outcomes. A stool change, an isolated liver-enzyme improvement, or reassuring findings in a different population cannot establish equivalence to effective IBAT treatment. No new option reviewed here meets that standard.
+
+## YiJunKang product match and US comparisons
+
+**YiJunKang / 益君康 is a strong commercial match for the trial tablets, not confirmation of the exact trial batch.** The paper names Tonghua Golden-horse, and the registry specifies compound tablets. Neither source supplies a brand, approval number, batch number, or human strain accession codes. Linking the trial to the matching commercial product is an inference from those details. [28](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2390176), [34](https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200063330)
+
+The matching product is compound Lactobacillus acidophilus tablets, or 复方嗜酸乳杆菌片, marketed as YiJunKang and manufactured by Tonghua Golden-horse Pharmaceutical. A reproduced manufacturer insert identifies the brand and manufacturer. A government hospital record links the generic product and manufacturer to Chinese approval H10940114 and a 0.5 g tablet containing 10 million acidophilus organisms per gram. These records identify a commercial product, not its identity with the trial batch. [37](https://drugs.dxy.cn/pc/drug/xV6nXUgBS7WddfR49T31qA==), [38](https://www.yantai.gov.cn/cms_files/filemanager/49/attach/20269/4C748128F30F3037EC827D2589232900.pdf)
+
+### Named cultures are not confirmed strain identities
+
+| Culture listed for the matching product | Strain information verified |
+| --- | --- |
+| Lactobacillus acidophilus, described as the Chinese strain | No deposited strain accession code verified. |
+| Lactobacillus acidophilus, described as the Japanese strain | No deposited strain accession code verified. |
+| Enterococcus faecalis, called Streptococcus faecalis in older labeling | No strain code verified for the trial preparation. |
+| Bacillus subtilis | No strain code verified for the trial preparation. |
+
+The reproduced insert and a separate primary study describe these four cultures. The labels Chinese and Japanese do not establish equivalence to ATCC 4356, NCFM, La-14, or another identified strain. Exact trial-batch composition, individual culture counts, and strain identities still need confirmation from the investigators or manufacturer. [37](https://drugs.dxy.cn/pc/drug/xV6nXUgBS7WddfR49T31qA==), [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC13515276/)
+
+### US availability and equivalence are different questions
+
+| Product or listing | What was found | Why this is not a verified equivalent |
+| --- | --- | --- |
+| YiJunKang listing on Yami's US-facing marketplace | A third-party listing advertises an 18-tablet box shipped directly from China. [41](https://www.yami.com/us/zh/p/compound-lactobacillus-acidophilus-tablets-18-tablets-box-for-intestinal-flora-imbalance/3174132121) | A listing is not an authenticated supply chain. Manufacturer, approval number, contents, storage history, and identity with the trial batch were not independently verified for the offered box. |
+| FiveLac, marketed by US company Global Health Trax | Lists L. acidophilus, E. faecalis, B. subtilis, B. coagulans, and Bifidobacterium longum. The 2026 supplier sheet names E. faecalis F-100. [39](https://globalhealthtrax.com/products/fivelac-probiotic/), [40](https://www.hsmnutra.com/wp-content/uploads/2026/03/Sell-Sheet-FiveLac_2026.pdf) | Different formula, with two additional species and no documented match to YiJunKang's two acidophilus cultures or its other strains. Strain identity, culture proportions, and formulation equivalence have not been established. |
+
+**FiveLac is not a documented equivalent to the trial preparation.** Overlapping species do not establish the same strains, bile-acid effects, or safety. The adult cholestasis finding cannot be transferred to FiveLac, and neither an import listing nor a similar ingredient list establishes pediatric PFIC4 suitability. No strain-matched US equivalent was verified in this review.
 
 ## Resveratrol and EGCG evidence review
 
@@ -232,6 +260,11 @@ Sources accessed 2026-11-24. Dates below distinguish the archived label from the
 34. [Official WHO record for ChiCTR2200063330](https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2200063330). Identifies the adult intervention as compound tablets, without verified strain codes linking it to ATCC 4356.
 35. [Yang et al. Compound acidophilus preparation in an H. pylori study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13515276/). Separate primary report describing the manufacturer's four-culture product; does not verify the earlier cholestasis trial's exact batch.
 36. [Samuels et al. Probiotic introduction in premature infants](https://www.nature.com/articles/srep31643). Observational exposure to ATCC 4356 plus B. bifidum; different disease and formulation, not PFIC4 efficacy or safety evidence.
+37. [YiJunKang manufacturer insert reproduced by DXY](https://drugs.dxy.cn/pc/drug/xV6nXUgBS7WddfR49T31qA==). Insert revision dated 2020-11-30; brand, manufacturer, strength, and four-culture description, not trial-batch verification.
+38. [Government hospital drug directory, third quarter 2026](https://www.yantai.gov.cn/cms_files/filemanager/49/attach/20269/4C748128F30F3037EC827D2589232900.pdf). Links Tonghua's compound tablets, strength, and approval H10940114; not proof of the research batch.
+39. [Global Health Trax FiveLac product page](https://globalhealthtrax.com/products/fivelac-probiotic/). US marketing and listed species; not evidence of cholestasis benefit or equivalence.
+40. [FiveLac supplier specification, 2026](https://www.hsmnutra.com/wp-content/uploads/2026/03/Sell-Sheet-FiveLac_2026.pdf). Lists species and E. faecalis F-100; no documented match to the trial's strains.
+41. [Yami marketplace YiJunKang listing](https://www.yami.com/us/zh/p/compound-lactobacillus-acidophilus-tablets-18-tablets-box-for-intestinal-flora-imbalance/3174132121). Third-party China-direct-shipping listing only; authenticity, offered contents, and trial equivalence unverified.
 
 ## Unresolved questions
 
@@ -241,7 +274,8 @@ Sources accessed 2026-11-24. Dates below distinguish the archived label from the
 - Could a lower-cost strategy preserve both symptom control and biochemical response in an individual patient?
 - Can either compound lower serum bile acids in TJP2 deficiency, rather than only altering transporter activity or fecal loss?
 - What formulation, exposure, interactions, and monitoring would establish safety in pediatric PFIC4? The studies reviewed do not answer this.
-- What were the human tablets' exact strain identifiers and full batch composition, and did they contain ATCC 4356?
+- Was the human trial product specifically YiJunKang H10940114, which batch was used, and what were its full composition and deposited strain identifiers?
+- Can any US supplier document the same strains, culture proportions, and formulation? A species-level overlap does not answer this.
 - Would the adult compound-tablet finding reproduce in pediatric TJP2 disease, with adequate adverse-event monitoring and a verified preparation?
 - Which pediatric fenofibrate patients had genetic cholestasis, and can any PFIC4-specific response or safety information be established?
 - What is the actual family cost after insurance and any applicable assistance?
