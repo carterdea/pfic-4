@@ -52,7 +52,7 @@ Practical points for clinician review:
 
 Reported PFIC4 presentations include neonatal or childhood cholestasis, jaundice, severe pruritus, fat-soluble vitamin deficiency, growth failure, portal hypertension, cirrhosis, liver failure, and hepatocellular carcinoma. Recurrent or later-onset disease is also described, so severity at one time point should not be assumed to define lifetime risk.
 
-Extrahepatic findings have been reported in some patients, including respiratory, neurologic, hematologic/bleeding, and hearing-related findings. Because TJP2 is broadly expressed, these should be reviewed clinically, but liver disease remains the dominant PFIC4 management issue in the cited literature.
+Extrahepatic respiratory, neurologic, hearing, and rare retinal observations require cautious interpretation. Broad TJP2 expression does not establish causality for every finding. Bleeding may reflect cholestasis-related vitamin K deficiency, portal hypertension, or synthetic dysfunction rather than a separate primary TJP2 hematologic syndrome. The dominant nonsyndromic hearing-loss association has limited ClinGen validity and differs from recessive PFIC4. See the [related-conditions evidence review, checked 2026-11-24](tjp2-related-conditions.md).
 
 HCC deserves specific attention. Published TJP2-deficiency cases include childhood HCC and adult families with cirrhosis/HCC. The evidence base is small, but the signal is strong enough to justify explicit surveillance discussion with a pediatric genetic cholestasis or transplant hepatology team.
 

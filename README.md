@@ -17,6 +17,11 @@ The packet is organized by format:
 
 Start here:
 
+- [November 2026 research updates and researchers](html/pfic4-research-updates.html)
+- [Practical parent guide](html/pfic4-parent-practical-guide.html)
+- [TJP2-related conditions and similar diseases](html/tjp2-related-conditions.html)
+- [Combined research packet](html/pfic4-research-packet.html)
+
 - `html/layperson-genetic-cholestasis-overview.html` and `markdown/layperson-genetic-cholestasis-overview.md`
 - `html/clinician-genetic-cholestasis-overview.html` and `markdown/clinician-genetic-cholestasis-overview.md`
 - `html/layperson-pfic4-guide.html` and `markdown/layperson-pfic4-guide.md`

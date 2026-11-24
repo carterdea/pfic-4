@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4 caused by `TJP2`, not othe
 
 HTML companion: [layperson-pfic4-guide.html](../html/layperson-pfic4-guide.html)
 
+November 2026 additions: [practical parent guide](pfic4-parent-practical-guide.md), [latest research and researchers](pfic4-research-updates.md), and [related conditions](tjp2-related-conditions.md). These expand individual follow-up, family burden, non-liver findings, and treatment evidence. Earlier cash-price examples below retain their May review date.
+
 Broader overview pages:
 
 - [Genetic cholestasis guide for family discussion](layperson-genetic-cholestasis-overview.md)
@@ -95,7 +97,7 @@ Prices below are public cash/price-guide examples, not expected out-of-pocket co
 | Drug class | IBAT inhibitor | IBAT inhibitor |
 | What it does | Reduces bile acid reabsorption in the ileum, lowering recirculating bile acids | Same broad mechanism |
 | U.S. PFIC label | Cholestatic pruritus in PFIC patients 12 months and older | Pruritus in PFIC patients 3 months and older |
-| PFIC4 evidence | MARCH-PFIC included a small PFIC4/TJP2 group within the all-PFIC cohort | Pivotal placebo-controlled trial was PFIC1/PFIC2; PFIC4-specific randomized evidence is weaker |
+| PFIC4 evidence | MARCH-PFIC included a small PFIC4/TJP2 group within the all-PFIC cohort | Pivotal randomized trial was PFIC1/PFIC2; direct small TJP2 observational reports also exist |
 | Trial effect signal | MARCH-PFIC: itch score and serum bile acids improved vs placebo in PFIC; all-PFIC itch difference about -1.2 points vs placebo | PEDFIC: positive pruritus assessments 55% with odevixibat vs 30% placebo; serum bile-acid response 33% vs 0% placebo in PFIC1/PFIC2 |
 | Dosing logistics | PFIC dosing is twice daily before meals; solution for smaller children, tablets for some patients >=25 kg who can swallow tablets | Once daily in the morning with a meal; pellets/capsules |
 | Common/important side effects | Diarrhea, abdominal pain, liver-test abnormalities/hepatotoxicity, fat-soluble vitamin deficiency, blood in stool, fracture/bleeding concerns | Diarrhea/frequent bowel movements, abdominal pain, vomiting, liver-test abnormalities/hepatotoxicity, fat-soluble vitamin deficiency |

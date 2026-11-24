@@ -4,6 +4,14 @@ Reviewed: 2026-05-24
 
 HTML companion: [pfic4-research-packet.html](../html/pfic4-research-packet.html)
 
+## November 24, 2026 expansion: start here
+
+The new [research and researchers review](pfic4-research-updates.md) separates direct PFIC4 findings from broader PFIC evidence, preclinical mRNA work, and incomplete conference reports. The [related-conditions guide](tjp2-related-conditions.md) explains familial hypercholanemia, rare eye/hearing observations, secondary vitamin complications, and similar genetic diseases. The [practical parent guide](pfic4-parent-practical-guide.md) turns the evidence into individual follow-up, surveillance, nutrition, school, and visit questions.
+
+Direct observational TJP2 odevixibat reports are now included; describing all PFIC4 evidence for that drug as extrapolated was incomplete. No current medicine has established prevention of PFIC4 HCC or transplant. New root-cause work includes a TJP2 mRNA patent with cell experiments, not an available human treatment. See the linked review for sources and limits.
+
+The earlier sections below retain their original review dates, including May 2026 cash-price snapshots. They are not newly verified prices. Exact family genotypes and medical history are excluded from this shared packet.
+
 This is the Markdown companion to the combined human-facing packet. It mirrors the major layperson, clinician, drug, source, and evidence-limit sections from the HTML file. It is a general research summary for discussion with a treating hepatology team and is not medical advice.
 
 Scope: this packet is primarily about confirmed PFIC4/TJP2. Other PFIC subtypes, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, and broader genetic cholestasis appear only as comparison context, treatment-label context, differential context, or center-search context.
@@ -66,7 +74,7 @@ Dedicated drug pages:
 | Drug class | IBAT inhibitor | IBAT inhibitor |
 | What it does | Reduces bile acid reabsorption in the ileum, lowering recirculating bile acids | Same broad mechanism |
 | U.S. PFIC label | Cholestatic pruritus in PFIC patients 12 months and older | Pruritus in PFIC patients 3 months and older |
-| PFIC4 evidence | MARCH-PFIC included a small PFIC4/TJP2 group within the all-PFIC cohort | Pivotal placebo-controlled trial was PFIC1/PFIC2; PFIC4-specific randomized evidence is weaker |
+| PFIC4 evidence | MARCH-PFIC included a small PFIC4/TJP2 group within the all-PFIC cohort | Pivotal randomized trial was PFIC1/PFIC2; direct small TJP2 observational reports also exist |
 | Trial effect signal | MARCH-PFIC: itch score and serum bile acids improved vs placebo in PFIC; all-PFIC itch difference about -1.2 points vs placebo | PEDFIC: positive pruritus assessments 55% with odevixibat vs 30% placebo; serum bile-acid response 33% vs 0% placebo in PFIC1/PFIC2 |
 | Dosing logistics | PFIC dosing is twice daily before meals; solution for smaller children, tablets for some patients >=25 kg who can swallow tablets | Once daily in the morning with a meal; pellets/capsules |
 | Common/important side effects | Diarrhea, abdominal pain, liver-test abnormalities/hepatotoxicity, fat-soluble vitamin deficiency, blood in stool, fracture/bleeding concerns | Diarrhea/frequent bowel movements, abdominal pain, vomiting, liver-test abnormalities/hepatotoxicity, fat-soluble vitamin deficiency |
@@ -123,7 +131,7 @@ Expected clinical pattern:
 - Severe pruritus can be the dominant morbidity.
 - Phenotype is variable: mild/recurrent cholestasis to early progressive disease, portal hypertension, cirrhosis, liver failure, and HCC.
 - Genotype-phenotype signal exists but is incomplete.
-- Extrahepatic respiratory, neurologic, and hearing findings have been reported.
+- Extrahepatic reports need separate evidence review; see [related conditions](tjp2-related-conditions.md) for rare retinal observations, limited hearing-gene validity, and secondary vitamin complications.
 
 ### PFIC trial evidence table
 

@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 HTML companion: [layperson-pfic-specialists-and-centers.html](../html/layperson-pfic-specialists-and-centers.html)
 
+For the November 24, 2026 researcher shortlist, each group's recent work, and the questions they are equipped to answer, read [research updates and researchers](pfic4-research-updates.md). The directory below retains its May review date; current appointment availability and remote-review pathways need confirmation.
+
 This is a family-facing research guide. It is not medical advice and does not rank hospitals as "best." PFIC4 is rare, so the practical question is which programs have the strongest public evidence of PFIC, genetic cholestasis, pediatric hepatology, liver transplant, research-network, and second-opinion experience.
 
 Scope: this guide is for finding PFIC4/TJP2-relevant expertise. Broader PFIC or genetic-cholestasis signals are included only when public PFIC4-specific volume or experience is not visible.
@@ -80,11 +82,11 @@ This list means "publicly visible PFIC or genetic cholestasis leadership," not "
 
 - `TJP2`/PFIC4 remains a small-cohort disease. The major theme is variability: the same or similar gene category can produce different ages of onset, different progression speeds, and different cancer-surveillance concerns.
 - The 2024 MARCH-PFIC trial strengthened evidence for maralixibat across PFIC and included a small PFIC4/TJP2 subgroup. That is direct PFIC4 inclusion, but not large PFIC4-only proof.
-- Odevixibat is PFIC-labeled and supported by PFIC trials, but the pivotal randomized trial was PFIC1/PFIC2. PFIC4 use is therefore broader-label and extrapolated unless a treating team cites additional patient-level data.
+- Odevixibat's pivotal randomized trial was PFIC1/PFIC2. Direct small TJP2 observational reports also exist; the [updated evidence review](pfic4-research-updates.md) corrects the earlier extrapolation-only description.
 - 2025 and 2026 reviews emphasize that genetic diagnosis matters early because genotype can affect prognosis, transplant timing, cancer surveillance, and likely response to bile-acid-recirculation strategies.
 - The 2025 PFIC4 missense-variant paper added another reminder that PFIC4 cannot be safely predicted from symptoms alone; close monitoring matters even when one patient appears milder.
 - Patient-centered PFIC research is moving toward real-world comparisons: medications, surgeries, nutrition, mental health/itch support, insurance burden, and outcomes families actually feel, such as sleep, school, skin injury, caregiver quality of life, and financial stress.
-- Root-cause therapy is still research-stage. Current approved drugs reduce bile-acid burden and itch; they do not repair `TJP2`.
+- Root-cause therapy is still research-stage. A 2025 TJP2 mRNA patent describes cell experiments; it does not establish an available treatment. See the updated review for details and limits.
 
 ## How to choose who to contact first
 

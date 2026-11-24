@@ -2,11 +2,60 @@
 
 Reviewed: 2026-05-24
 
+Research expansion checked: 2026-11-24. The dated additions below identify newly reviewed evidence. Earlier pricing snapshots and older program descriptions retain their original review dates; they were not all reverified in this expansion.
+
 This file lists the main sources used for the layperson and clinician PFIC4 documents. I prioritized current drug labels, clinical trials, GeneReviews/NIH resources, and recent peer-reviewed reviews/case series.
 
 Scope: this source index supports a confirmed PFIC4/TJP2 packet. Sources about other PFIC types, Alagille syndrome, BRIC/ICP, bile-acid synthesis defects, or broader genetic cholestasis are included only when they clarify comparison points, labels, evidence limits, or referral context.
 
 HTML companion: [source-index.html](../html/source-index.html)
+
+## November 2026 research expansion
+
+New reading paths: [research updates and researchers](pfic4-research-updates.md), [TJP2-related conditions](tjp2-related-conditions.md), and [practical parent guide](pfic4-parent-practical-guide.md). Each has an HTML companion.
+
+### Search and verification scope
+
+- Checked November 24, 2026 using PubMed, current NCBI E-utilities records, ClinicalTrials.gov v2 records, publisher pages, official laboratory/program pages, PFIC Network materials, and a published patent application.
+- PubMed search included `TJP2[Title/Abstract] AND (cholestasis OR liver) AND 2025:2026[dp]`, sorted by publication date. Broader searches covered PFIC4, TJP2 replacement/mRNA, IBAT treatment, non-liver manifestations, and the researchers named below. Earlier foundational and treatment papers were checked separately.
+- ClinicalTrials.gov queries included `TJP2` and `PFIC AND (mRNA OR gene therapy OR TJP2)`. The latter can match unrelated records. No human TJP2 replacement trial was identified. This is a bounded public-registry search, not proof of absence from all registries or unpublished development.
+- Primary abstracts were read for studies whose full text was unavailable. The 2026 macular letter was verified bibliographically only. The AASLD mouse-model item is supported by its official program entry only. These limits are carried into the research pages.
+- Family-specific reports, exact family variant searches, and current variant-record details belong only in the ignored personal companion. No individual genotype or patient history is included here.
+- This was a targeted update, not a formal systematic review. Public recruitment and referral status require direct confirmation.
+
+| Source, accessed 2026-11-24 | Evidence level and use | Material limit |
+| --- | --- | --- |
+| [Lal et al., 2024](https://pubmed.ncbi.nlm.nih.gov/38447037/) | Direct TJP2 retrospective cohort; primary abstract verified through NCBI. | Variant-class risk is not a prognosis for an individual pair. |
+| [Khabou et al., April 2025](https://www.nature.com/articles/s10038-025-01338-w) | Direct TJP2 family report; publisher abstract. | Nine affected children across three family settings, with three probands genetically tested. Structural predictions are not clinical functional proof for other variants. |
+| [Li et al., 2022](https://pubmed.ncbi.nlm.nih.gov/35284810/) | Direct TJP2 human-cell disease model; primary abstract and figure descriptions. | Laboratory modeling, not human treatment efficacy. |
+| [TJP2 mRNA patent, published October 9, 2025](https://patents.google.com/patent/WO2025212858A1/en) | Applicant's original preclinical experiments and proposed delivery. Asai and Kosar; Cincinnati Children's. | Patent application, not a peer-reviewed trial, approval, or availability forecast. |
+| [AASLD Tjp2 mouse-model presentation, November 7, 2026](https://www.aasld.org/tlm-26/mechanisms-cholestatic-injury-and-emerging-therapeutic-strategies) | Official program; Thi Hao Vu named presenter. | Full abstract/results were not independently assessed. |
+| [Di Giorgio et al., 2023](https://pubmed.ncbi.nlm.nih.gov/37499899/) | Direct TJP2 uncontrolled odevixibat series; primary abstract verified. | Five children; not randomized or a long-term progression study. |
+| [Di Giorgio et al., online December 2024 / issue April 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11937657/) | Prospective real-world mixed-PFIC study including PFIC4. | Six months; check overlap with earlier Italian series before combining patient counts. |
+| [MARCH-PFIC, 2024](https://pubmed.ncbi.nlm.nih.gov/38723644/) | Randomized mixed-PFIC trial with small TJP2 inclusion; primary paper/label. | Author manuscript released in PMC July 2026 is the same trial, not independent new evidence. |
+| [Fischer, Lubke et al., January 2026 online / April issue](https://pubmed.ncbi.nlm.nih.gov/41609050/) | Primary voluntary patient-registry analysis of symptoms, family function and finances. | Mixed diagnoses, self/proxy reports, associations rather than treatment effects. |
+| [IMPACT patient-centered outcomes, May 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13446603/) | Primary collaborative research-priority work. | Identifies research needs; does not establish a superior treatment. |
+| [Yu et al., May 2026 / June issue](https://pubmed.ncbi.nlm.nih.gov/42082186/) | Single TFAM/TJP2 case with HCC; primary abstract and open publisher case text. | All reported variants were VUS; proposed interaction needs validation. |
+| [Monoallelic PFIC-variant cohort, 2026](https://pubmed.ncbi.nlm.nih.gov/42477309/) | Primary pediatric multicenter retrospective study. | Different population from confirmed biallelic TJP2 disease. |
+| [Latypov et al., February 2026 online / April issue](https://pubmed.ncbi.nlm.nih.gov/41724238/) | Original macular phenotype case/letter, DOI 10.1016/j.clinre.2026.102790. | Bibliography only; no inferred genotype or incidence. PMID 41780879 is a duplicate withdrawn for accidental duplication, not a second patient or independent finding. |
+| [Passaro et al., 2021 online / 2023 issue](https://pubmed.ncbi.nlm.nih.gov/34751049/) | Primary adult macular retinoschisis case; abstract. | One case, not a screening guideline. |
+| [ClinGen hearing-gene recuration, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12170156/) | Expert gene-disease validity reassessment published as primary curation research. | Dominant TJP2 nonsyndromic hearing-loss association remains limited; separate from recessive PFIC4 validity. |
+| [Zhang et al., 2020 online / 2021 issue](https://pubmed.ncbi.nlm.nih.gov/33162339/) | Letter reporting cholestasis and hearing impairment in one child. | Rare observation; does not provide penetrance. |
+| [Sambrotta and Thompson, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4574888/) | Original investigators' mechanism/spectrum review. | Extrahepatic causality and compensation were hypotheses, not established multisystem screening rules. |
+| [Carlton et al., 2003](https://doi.org/10.1038/ng1147) | Original familial hypercholanemia study. | Specific TJP2/BAAT family context with incomplete penetrance. |
+| [Usp53 mouse study, 2025 issue](https://pubmed.ncbi.nlm.nih.gov/39705897/) | Primary mechanistic comparison involving TJP2 interaction. | Related-gene animal evidence does not establish a PFIC4 treatment. |
+| [Zhou et al., 2015 HCC report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4626433/) | Direct childhood TJP2/HCC case evidence. | Does not estimate population risk or establish an individualized interval. |
+| [Laura Bull, PFIC nutrition guidance, August 25, 2026](https://www.pfic.org/network_library/nutritional-management-of-pfic/) | Named-expert PFIC Network education. | Individual nutrition prescriptions need a pediatric liver dietitian. |
+
+### Current programs, registries, and labels rechecked
+
+- [King's Thompson laboratory](https://www.kcl.ac.uk/research/liver-molecular-genetics), [Cincinnati Asai laboratory](https://www.cincinnatichildrens.org/research/divisions/g/gastroenterology/labs/asai), [Cincinnati rare-liver team](https://www.cincinnatichildrens.org/research/divisions/u/undiagnosed-rare-liver-disease/team), and [Miethke clinical profile](https://www.cincinnatichildrens.org/bio/m/alexander-miethke). Support roles and scientific focus, not appointment availability.
+- [PFIC Network hospital directory](https://www.pfic.org/pfic-hospital-directory/). Preserved non-exhaustive and provider-experience caveats.
+- [PFIC Network 2026 conference](https://events.pfic.org/2026-pfic-family-scientific-conference/). Supports current research directions including Hertel's proposed itch biomarker. Speaker biographies are not completed-study results.
+- [PFIC Network patient registry](https://www.pfic.org/get-involved/pfic-patient-registry/). Consent-based patient/caregiver participation; not a treatment trial.
+- [TreatFIC NCT06778174](https://clinicaltrials.gov/study/NCT06778174), [NAPPED NCT03930810](https://clinicaltrials.gov/study/NCT03930810), [PEARL NCT07411716](https://clinicaltrials.gov/study/NCT07411716). Live API records retrieved November 24, 2026. Respect record last-update dates and individual eligibility.
+- [Livmarli DailyMed label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167) and [Bylvay DailyMed label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa). Rechecked PFIC indications, decompensation contraindications, monitoring, and bile-acid-binder separation. No new dose recommendations are made in the parent guide.
+- [EASL 2024 guideline](https://easlcampus.eu/sites/default/files/2024-08/EASL_CPGs_on_genetic_cholestatic_diseases.pdf) and [GeneReviews overview](https://www.ncbi.nlm.nih.gov/books/NBK584020/). Rechecked for interpretation and comparison context. EASL's detailed disease sections do not amount to a dedicated PFIC4 guideline.
 
 HTML packet files:
 

@@ -45,13 +45,15 @@ Adult family reports add another caution. Wei et al. 2020 described a homozygous
 
 ## Genotype and phenotype uncertainty
 
+November 2026 interpretation update: Lal et al. classified 21 children as two missense alleles, seven as missense plus predicted truncating, and 16 as two predicted truncating alleles. Its headline comparison grouped the first two categories together. A prognosis for the seven-child mixed group cannot be read directly from the pooled comparator. A pathogenic allele plus an unresolved VUS also cannot be assigned to a confirmed disease-causing genotype category without further interpretation. See [current research review](pfic4-research-updates.md).
+
 | Variant or evidence pattern | What it suggests | How strong it is |
 | --- | --- | --- |
 | Biallelic predicted protein-truncating variants on both alleles | Higher risk of early infantile cholestasis, persistent jaundice, ascites, high serum bile acids, transplant, or death without timely transplant | Strongest PFIC4-specific cohort signal, especially Lal et al. 2024 |
 | Variants predicted to abolish translation and absent hepatic TJP2 protein | Severe infantile low-GGT cholestasis and high transplant burden | Strong direct mechanistic and clinical evidence from Sambrotta et al. 2014 |
 | Missense variants with reduced but not absent protein expression | Possible residual function and milder/remitting disease in some patients | Moderate evidence from Zhang et al. 2020 and later reports |
 | Homozygous missense p.Gly532Arg with variable severity | Same apparent variant can still show pronounced variability | Emerging evidence from a small 2025 family series |
-| One missense plus one truncating allele | Intermediate risk is plausible, but not deterministic | Supported by Lal et al. grouping, still small numbers |
+| One disease-causing missense plus one truncating allele | A distinct molecular category; residual function and prognosis need individual evidence | Only seven children in Lal et al.'s mixed category; do not infer an intermediate individual risk from pooled results |
 | Heterozygous `TJP2` variants in ICP, BRIC-like, or adult cryptogenic cholestasis | May contribute to susceptibility, triggers, or modifier burden | Weaker and more context-dependent; do not overread without genetics review |
 
 The practical interpretation is not "missense means mild" or "loss-of-function means hopeless." It is better to ask whether the exact variants are predicted to remove protein entirely, disrupt splicing, alter a key domain, or leave residual function, then compare that with the actual phenotype: bile acids, bilirubin, GGT, pruritus, growth, vitamins, INR, albumin, platelets, spleen size, imaging, elastography, fibrosis/cirrhosis, AFP, and treatment response.

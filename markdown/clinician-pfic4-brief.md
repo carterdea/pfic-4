@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2, not other PFIC subty
 
 HTML companion: [clinician-pfic4-brief.html](../html/clinician-pfic4-brief.html)
 
+Targeted evidence update, 2026-11-24: [research/researcher review](pfic4-research-updates.md), [non-liver associations and differential](tjp2-related-conditions.md), and [parent visit guide](pfic4-parent-practical-guide.md). See these for direct TJP2 odevixibat reports, TJP2 mRNA preclinical work, variant-class limitations, and 2026 patient-reported outcomes. Older pricing and conference snapshots below keep their original dates.
+
 Broader overview pages:
 
 - [Genetic cholestasis overview for clinicians](clinician-genetic-cholestasis-overview.md)
@@ -38,7 +40,7 @@ Expected clinical pattern:
 - Severe pruritus can be the dominant morbidity.
 - Phenotype is variable: mild/recurrent cholestasis to early progressive disease, portal hypertension, cirrhosis, liver failure, and HCC.
 - Genotype-phenotype signal exists but is incomplete: truncating/canonical splice biallelic variants and absent protein expression have been associated with more severe courses; missense/frame deletions may retain residual function and milder disease in some series.
-- Extrahepatic findings have been reported because TJP2 is broadly expressed, including respiratory, neurologic, and hearing findings.
+- Extrahepatic observations are reported, but gene expression alone does not establish causality. See the [related-conditions review](tjp2-related-conditions.md) for limited dominant hearing-loss validity, rare retinal reports, and nutritional confounders.
 
 ## Current PFIC-directed drug options
 
@@ -111,7 +113,7 @@ U.S. label evidence reviewed:
 - Key safety monitoring: hepatotoxicity, diarrhea/dehydration, fat-soluble vitamin deficiency, fracture/bleeding signals, liver-test abnormalities, abdominal pain, vomiting.
 - Contraindication: prior or active hepatic decompensation events.
 
-Interpretation for PFIC4: the pivotal placebo-controlled odevixibat trial was PFIC1/PFIC2, but approval is for PFIC pruritus. Later open-label and review literature includes broader PFIC experience; direct PFIC4 evidence remains limited compared with MARCH-PFIC's PFIC4 inclusion for maralixibat.
+Interpretation for PFIC4: the pivotal placebo-controlled odevixibat trial was PFIC1/PFIC2, but approval is for PFIC pruritus. Direct observational TJP2 evidence includes a 2023 five-child series and the later Italian mixed-PFIC cohort. This supports more than extrapolation but does not establish comparative efficacy against maralixibat. See the [research update](pfic4-research-updates.md) for sources and possible cohort overlap.
 
 ## Non-IBAT medical options
 

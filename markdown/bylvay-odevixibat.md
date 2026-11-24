@@ -8,6 +8,8 @@ Scope: this packet is primarily about confirmed PFIC4/TJP2. Bylvay's broader PFI
 
 HTML companion: [bylvay-odevixibat.html](../html/bylvay-odevixibat.html)
 
+Evidence correction checked 2026-11-24: PFIC4 support includes direct uncontrolled TJP2 reports, not only extrapolation. See [research update](pfic4-research-updates.md) for results, overlapping-cohort cautions, and limits. The current DailyMed safety/indication sections were rechecked; the older pricing snapshot below was not refreshed.
+
 Related packet files:
 
 - [Layperson PFIC4 guide](layperson-pfic4-guide.md)
@@ -25,7 +27,7 @@ Related packet files:
 | Drug class | Ileal bile acid transporter (IBAT) inhibitor |
 | U.S. PFIC indication | Treatment of pruritus in patients 3 months and older with progressive familial intrahepatic cholestasis (PFIC). |
 | PFIC limitation | May not be effective in PFIC2 patients with `ABCB11` variants causing nonfunctional or absent BSEP protein. This limitation is PFIC2-specific, not PFIC4-specific. |
-| PFIC4 evidence | Bylvay is PFIC-labeled, but the pivotal placebo-controlled PFIC trial was in PFIC1/PFIC2, not PFIC4. PFIC4-specific evidence is extrapolated. |
+| PFIC4 evidence | Pivotal randomized evidence was PFIC1/PFIC2. Direct TJP2 observational reports also exist, including a five-child series; PFIC4-specific randomized efficacy remains unestablished. |
 
 ## Ingredients and dosage forms
 
@@ -113,7 +115,7 @@ This table focuses on PFIC-relevant odevixibat trials. It does not list every od
 
 | Trial | Design | Population | PFIC4 relevance | Main evidence signal | Practical read |
 | --- | --- | --- | --- | --- | --- |
-| PEDFIC 1 / Trial 1 / NCT03566238 | Phase 3, 24-week, randomized, double-blind, placebo-controlled trial | 62 pediatric patients with molecular PFIC1 or PFIC2 and baseline pruritus | Did not include PFIC4 | Positive pruritus assessments were 55% with combined odevixibat vs 30% placebo. Serum bile-acid response was 33% with combined odevixibat vs 0% placebo. | Best placebo-controlled odevixibat PFIC evidence, but PFIC4 use is extrapolated from PFIC1/PFIC2 and the broad PFIC label. |
+| PEDFIC 1 / Trial 1 / NCT03566238 | Phase 3, 24-week, randomized, double-blind, placebo-controlled trial | 62 pediatric patients with molecular PFIC1 or PFIC2 and baseline pruritus | Did not include PFIC4 | Positive pruritus assessments were 55% with combined odevixibat vs 30% placebo. Serum bile-acid response was 33% with combined odevixibat vs 0% placebo. | Best placebo-controlled odevixibat PFIC evidence; separate direct observational TJP2 evidence is summarized in the research update. |
 | PEDFIC 2 / NCT03659916 | Phase 3, open-label extension and broader PFIC enrollment | Patients from PEDFIC 1 plus newly enrolled PFIC patients; EU results report 116 participants through a 2024 cutoff | Extension/broader PFIC program included "other PFIC" subgroups such as PFIC3, PFIC4, PFIC6, and episodic PFIC, but not randomized PFIC4 evidence | Interim publication reported mean serum bile-acid and pruritus improvements through 24 weeks of PEDFIC 2; EU product information reports 72-week data with serum bile-acid responder rates sustained in some groups. | Helpful longer-term and broader-genotype evidence, but open-label and still weaker than PFIC4-specific randomized data. |
 | A4250-003 dose-finding study | Phase 2 dose-finding study in pediatric cholestatic liver disease | Included pediatric cholestatic liver disease patients, including PFIC, per EMA product information | Supportive background only | Used to support dose selection and early efficacy/safety understanding. | Not the main evidence for PFIC4 decisions. |
 

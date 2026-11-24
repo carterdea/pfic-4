@@ -4,6 +4,8 @@ Reviewed: 2026-05-23
 
 HTML companion: [clinician-pfic-specialists-and-centers.html](../html/clinician-pfic-specialists-and-centers.html)
 
+November 24, 2026 expansion: [researcher contributions, recent findings, and registry status](pfic4-research-updates.md). The older directory below remains a May snapshot, not a fresh verification of every clinician's affiliation or referral availability.
+
 This brief supports clinician-to-clinician discussion and second-opinion planning for PFIC4/TJP2-associated cholestasis. It is not a ranked hospital list. It separates public evidence signals from inference because PFIC4-specific patient volumes are rarely public.
 
 Scope: this packet is primarily about confirmed PFIC4/TJP2. Broader PFIC and genetic-cholestasis center signals are included only when they help identify programs likely to evaluate a PFIC4/TJP2 case.
@@ -79,7 +81,7 @@ Public evidence was weighted in this order:
 | Guidelines | EASL 2024 genetic cholestasis guidelines and GeneReviews support genetic testing, specialist referral, nutrition/vitamin care, pruritus management, surveillance, and transplant escalation. PFIC4-specific recommendations remain limited by case counts. |
 | HCC surveillance | TJP2/PFIC4 has published HCC reports. GeneReviews flags HCC surveillance for PFIC4; exact interval and whether to screen all PFIC4 patients from infancy vs risk-stratify by fibrosis/cirrhosis should be center-specific. |
 | Patient-centered research | PFIC Network's IMPACT/PATH work is moving toward patient-centered comparative effectiveness research, including medications, surgeries, nutrition, mental-health/itch support, financial burden, access delays, sleep, skin, school, caregiver quality of life, and real-world outcomes. |
-| Root-cause therapies | Gene editing/gene therapy remains investigational and currently more visible for other PFIC subtypes such as PFIC3. No approved therapy repairs `TJP2`. |
+| Root-cause therapies | Direct TJP2 preclinical work includes a 2025 mRNA patent application with cell experiments. No human TJP2 replacement trial was identified in the November 2026 registry search. See the research update; a patent does not establish clinical efficacy. |
 
 ## Suggested second-opinion packet
 

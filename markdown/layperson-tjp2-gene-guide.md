@@ -74,6 +74,8 @@ For a step-by-step treatment escalation discussion, see [PFIC4 treatment escalat
 
 ## What to ask the care team
 
+For a November 2026 review of other conditions associated with this gene, rare eye/hearing reports, and symptoms that can instead arise from vitamin deficiency, see [TJP2 and related conditions](tjp2-related-conditions.md). A condition listed next to a gene is not a diagnosis of that condition in every person with a variant.
+
 - What are the exact `TJP2` variants on the genetic report?
 - Are the variants predicted to stop the protein from being made, or might some function remain?
 - Were both variants confirmed to be on different copies of the gene?
